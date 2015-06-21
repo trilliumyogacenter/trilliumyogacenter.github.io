@@ -1,23 +1,42 @@
----
-layout: default
----
+<html>
+	<head>
+		<title>Trillium Center for Yoga and Health</title>
 
-<div class="home">
+		<link rel="stylesheet" href="/css/trillium.css"/>
+		<link rel="stylesheet" href="/font-awesome-4.3.0/css/font-awesome.min.css"/>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
 
-  <h1 class="page-heading">Posts</h1>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+		
+		<style>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+.middle {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+.top {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+		</style>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+	</head>
+	<body>
+
+<div class="top"
+<img src="/images/trillium_logo_900.jpeg"/>
+</div>
+
+<div class="middle">
+<a class="btn btn-lg btn-success" href="https://www.facebook.com/pages/Trillium-Center-for-Yoga-Health/1585666391687863">
+  <i class="fa fa-circle-o-notch fa-spin pull-left"></i>&nbsp;&nbsp;&nbsp;While we're under construction, visit us on Facebook!</a>
 
 </div>
+	</body>
+</html>
