@@ -75,6 +75,7 @@ a {
   color: #D59A7C;
   text-decoration: none;
 }
+
 .container {
   /* this class is used to give a max-width to the element it is applied to, and center it horizontally when it reaches that max-width */
   width: 90%;
@@ -108,6 +109,7 @@ a {
 	padding-left: 3px;
 	margin-left : 25px;
 }
+
 .header {
   position: fixed;
   top: 0;
@@ -146,14 +148,12 @@ a {
 }
 
 .main-nav {
-  float: right;
-  margin-right: 5%;
-  width: 44px;
+  margin-right: auto;
+  margin-left: auto;
   height: 100%;
-  background: url("/images/cd-icon-menu.svg") no-repeat center center;
-  background-size: 44px 44px;
   cursor: pointer;
 }
+
 .main-nav ul {
   position: absolute;
   top: 0;
@@ -235,7 +235,7 @@ a {
 
 .fixed {
   position: relative;
-  min-height: 100%;
+  min-height: 65%;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -290,28 +290,20 @@ pre.code {
 	line-height: normal;
 }
 
-.attribution {
-	position: absolute;
-	font-size: xx-small;
-	bottom: 0;
-	right: 0;
-	color: rgb(255,255,255);
+.fixed.drbatch {
+  background-image: url("../images/doctorbatch.jpg");
 }
 
-.fixed.suryathon {
-  background-image: url("/images/suryathon4.jpg");
-}
-
-.fixed.vrksasana {
-  background-image: url("https://upload.wikimedia.org/wikipedia/commons/2/2a/Vrksasana.jpg");
+.fixed.ec12 {
+  background-image: url("../images/ec12.jpg");
 }
 
 .fixed.sauce {
-  background-image: url("images/sauce.jpg");
+  background-image: url("../images/sauce.jpg");
 }
 
 .fixed.willow {
-  background-image: url("/images/willow-fall.jpg");
+  background-image: url("/../images/willow-fall.jpg");
 }
 
 @media only screen and (min-width: 768px) {
@@ -437,14 +429,12 @@ text-align: left;
      text-align: center;
  #   border: 2px solid ; 
     padding: 6px;
-    max-width: 33%;
   
 }
 .column-right{     
  text-align: center;
 #    border: 2px solid ; 
     padding: 6px;
-    max-width: 33%;
 
 }
 .column-center{     
@@ -452,7 +442,6 @@ text-align: left;
     display: inline-block; 
 #    border: 2px solid ; 
     padding: 6px;
-    max-width: 33%;
 
 }
 
@@ -487,235 +476,3 @@ text-align: left;
 text-align: left
 }
 
-
-
-
-/*Popup*/
-#box-menu a {
-	text-transform:uppercase;
-	-moz-box-shadow:inset 0px 1px 0px 0px #54a3f7;
-	-webkit-box-shadow:inset 0px 1px 0px 0px #54a3f7;
-	box-shadow:inset 0px 1px 0px 0px #54a3f7;
-	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #007dc1), color-stop(1, #0061a7));
-	background:-moz-linear-gradient(top, #007dc1 5%, #0061a7 100%);
-	background:-webkit-linear-gradient(top, #007dc1 5%, #0061a7 100%);
-	background:-o-linear-gradient(top, #007dc1 5%, #0061a7 100%);
-	background:-ms-linear-gradient(top, #007dc1 5%, #0061a7 100%);
-	background:linear-gradient(to bottom, #007dc1 5%, #0061a7 100%);
-	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#007dc1', endColorstr='#0061a7',GradientType=0);
-	background-color:#007dc1;
-	-moz-border-radius:3px;
-	-webkit-border-radius:3px;
-	border-radius:3px;
-	border:1px solid #124d77;
-	color:#ffffff;
-	font-size:16px;
-	padding:6px 24px;
-	text-decoration:none;
-	text-shadow:0px 1px 0px #154682;
-}
-#box-menu a:hover {
-	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #0061a7), color-stop(1, #007dc1));
-	background:-moz-linear-gradient(top, #0061a7 5%, #007dc1 100%);
-	background:-webkit-linear-gradient(top, #0061a7 5%, #007dc1 100%);
-	background:-o-linear-gradient(top, #0061a7 5%, #007dc1 100%);
-	background:-ms-linear-gradient(top, #0061a7 5%, #007dc1 100%);
-	background:linear-gradient(to bottom, #0061a7 5%, #007dc1 100%);
-	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#0061a7', endColorstr='#007dc1',GradientType=0);
-	background-color:#0061a7;
-}
-#close a{
-	background:-webkit-linear-gradient( #333, #000);
-	background:-o-linear-gradient( #333, #000);
-	background:-ms-linear-gradient( #333, #000);
-	background:linear-gradient( #333, #000);
-	font-family: 'Electrolize', Arial, sans-serif;
-	padding:10px;
-	top: 15px;
-	border-radius: 3px;
-	-webkit-border-radius: 3px;
-	-ms-border-radius: 3px;
-	position:relative;
-	
-}
-#close a:hover{
-	text-decoration:none;
-}
-	
-/*Popup*/
-#box-menu a {
-	text-transform:uppercase;
-	-moz-box-shadow:inset 0px 1px 0px 0px #54a3f7;
-	-webkit-box-shadow:inset 0px 1px 0px 0px #54a3f7;
-	box-shadow:inset 0px 1px 0px 0px #54a3f7;
-	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #007dc1), color-stop(1, #0061a7));
-	background:-moz-linear-gradient(top, #007dc1 5%, #0061a7 100%);
-	background:-webkit-linear-gradient(top, #007dc1 5%, #0061a7 100%);
-	background:-o-linear-gradient(top, #007dc1 5%, #0061a7 100%);
-	background:-ms-linear-gradient(top, #007dc1 5%, #0061a7 100%);
-	background:linear-gradient(to bottom, #007dc1 5%, #0061a7 100%);
-	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#007dc1', endColorstr='#0061a7',GradientType=0);
-	background-color:#007dc1;
-	-moz-border-radius:3px;
-	-webkit-border-radius:3px;
-	border-radius:3px;
-	border:1px solid #124d77;
-	color:#ffffff;
-	font-size:16px;
-	padding:6px 24px;
-	text-decoration:none;
-	text-shadow:0px 1px 0px #154682;
-}
-#box-menu a:hover {
-	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #0061a7), color-stop(1, #007dc1));
-	background:-moz-linear-gradient(top, #0061a7 5%, #007dc1 100%);
-	background:-webkit-linear-gradient(top, #0061a7 5%, #007dc1 100%);
-	background:-o-linear-gradient(top, #0061a7 5%, #007dc1 100%);
-	background:-ms-linear-gradient(top, #0061a7 5%, #007dc1 100%);
-	background:linear-gradient(to bottom, #0061a7 5%, #007dc1 100%);
-	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#0061a7', endColorstr='#007dc1',GradientType=0);
-	background-color:#0061a7;
-}
-#close a{
-	background:-webkit-linear-gradient( #333, #000);
-	background:-o-linear-gradient( #333, #000);
-	background:-ms-linear-gradient( #333, #000);
-	background:linear-gradient( #333, #000);
-	font-family: 'Electrolize', Arial, sans-serif;
-	padding:10px;
-	top: 15px;
-	border-radius: 3px;
-	-webkit-border-radius: 3px;
-	-ms-border-radius: 3px;
-	position:relative;
-	
-}
-#close a:hover{
-	text-decoration:none;
-}
-	
-
-
-
-/**
- * POP
- */
- .box {
-  width: 20%;
-  margin: 0 auto;
-  background: rgba(255,255,255,0.2);
-  padding: 35px;
-  border: 2px solid #fff;
-  border-radius: 20px/50px;
-  background-clip: padding-box;
-  text-align: center;
-}
-
-.button {
-  font-size: 1em;
-  padding: 1px;
-  transition: all 0.3s ease-out;
-}
-.button:hover {
-}
-
-.overlay {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  width: 100%;
-  background: rgba(0, 0, 0, 0.7);
-  transition: opacity 500ms;
-  visibility: hidden;
-  opacity: 0;
-  z-index: 9999;
-}
-.overlay:target {
-  visibility: visible;
-  opacity: 1;
-}
-
-.popup {
-  margin: 70px auto;
-  padding: 20px;
-  background: #eee;
-  border-radius: 5px;
-  width: 90%;
-  position: relative;
-  transition: all 5s ease-in-out;
-}
-
-.popup h2 {
-  margin-top: 0;
-  color: #333;
-  font-family: Tahoma, Arial, sans-serif;
-}
-.popup .close {
-  position: absolute;
-  top: 20px;
-  right: 30px;
-  transition: all 200ms;
-  font-size: 30px;
-  font-weight: bold;
-  text-decoration: none;
-  color: #333;
-}
-.popup .close:hover {
-  color: orange;
-}
-.popup .content {
-  max-height: 30%;
-  overflow: auto;
-}
-
-
-/**
- * TEACHER PROFILE THUMBS
- */
- 
-.profileblocks {
-
-    height: 100%;
-    width: 100%;
-    padding: 20px;
-    text-align: justify;
-    -ms-text-justify: distribute-all-lines;
-    text-justify: distribute-all-lines;
-    
-
-}
-
-.profileblock {
-    width: 200px;
-    vertical-align: top;
-    display: inline-block;
-    *display: inline;
-}
-
-
-.profilestretch {
-    width: 100%;
-    display: inline-block;
-    font-size: 0;
-    line-height: 0
-}
-
-.profileblock img {
-	max-width: 100%;
-	margin-bottom: 0px;
-	padding-bottom: 0px;
-}
-
-
-.profileblock h3 {
-    text-align: center;
-    font-size: 1.0em;
-    margin-top: 0px;
-    margin-bottom: 0.83em;
-    margin-left: 0;
-    margin-right: 0;
-    font-weight: bold;
-    color: #8F0047;
-} 
