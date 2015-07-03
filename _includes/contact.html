@@ -14,7 +14,7 @@
 </div>
 <div class="scrolling">
 	<div class="container">
-		<form id="frmContact"
+		<form id="frmContact" autocomplete="on"
 			action="https://getsimpleform.com/messages?form_api_token={{page.simpleformtoken}}"
 			method="post">
 			<!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
@@ -22,7 +22,7 @@
 				value='{{site.url}}/trillium.html#contactthankyou' />
 
 			<div class="input-prepend">
-				<label for="frmName"><span
+				<label for="name"><span
 					class="add-on validLabel fontawesome-user" name="name"></span></label> <input
 					size="30" id="name" type="text" name="name" placeholder="Name"
 					title="Please provide your name." />
