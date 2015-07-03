@@ -778,3 +778,12 @@ address {
 	padding: 0px;
 	margin: 0px;
 }
+
+.contactreset ul {
+	list-style: none;
+}
+
+.contactreset ul li {
+	display: block;
+	padding-left: 0px;
+}

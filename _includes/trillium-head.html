@@ -7,16 +7,19 @@
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
   <link rel="stylesheet" href="{{ "/bootstrap-3.3.5-dist/css/bootstrap.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/bootstrap-3.3.5-dist/css/bootstrap-theme.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/font-awesome-4.3.0/css/font-awesome.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/css/contact.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/css/trillium.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 	
-  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
-  <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jQuery.Validate/1.6/jQuery.Validate.min.js"></script>
+  <script src="{{ "/js/jquery-1.11.3.min.js" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "/bootstrap-3.3.5-dist/js/bootstrap.js" | prepend: site.baseurl }}"></script>
+  <script src="{{ "/js/jquery-validation-1.13.1/jquery.validate.min.js" | prepend: site.baseurl }}"></script>
 
-  <script type="text/javascript">$(document).ready(function(){
+  <script type="text/javascript">
+  $(document).ready(function(){
 		$( "#frmContact" ).validate({
 		invalidHandler: function(event, validator)
 		{
@@ -63,7 +66,35 @@
 		}
 	});
 	
-	
+	$("#generalcontact").click(function() {
+	    $("#teacher").val("All");
+	    $("#dLabel").html("General Questions and Comments");
+	});
+
+	$("#gmkcontact").click(function() {
+	    $("#teacher").val("Gurumantra Kaur");
+	    $("#dLabel").html("Gurumantra Kaur");
+	});
+
+	$("#smcontact").click(function() {
+	    $("#teacher").val("Shannon Miller");
+	    $("#dLabel").html("Shannon Miller");
+	});
+
+	$("#jbcontact").click(function() {
+	    $("#teacher").val("Jean Benvenuto");
+	    $("#dLabel").html("Jean Benvenuto");
+	});
+
+	$("#tdlvcontact").click(function() {
+	    $("#teacher").val("Terry de la Vega");
+	    $("#dLabel").html("Terry de la Vega");
+	});
+
+	$("#chcontact").click(function() {
+	    $("#teacher").val("Cintia Hongay");
+	    $("#dLabel").html("Cintia Hongay");
+	});
 
 });</script>
 </head>
