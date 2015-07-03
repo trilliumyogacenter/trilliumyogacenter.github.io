@@ -750,6 +750,17 @@ address {
 	color: #8F0047;
 }
 
+/**
+ * BOOTSTRAP CUSTOMIZATIONS
+ */
+.btn-lg.round {
+    border-radius: 24px;
+}
+
+
+/**
+ * CONTACT FORM STYLE OVERRIDES 
+ */
 .contactreset {
 	width: 70%;
 	margin: auto;
