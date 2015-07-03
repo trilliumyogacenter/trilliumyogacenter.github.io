@@ -12,64 +12,66 @@
 			href="http://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>
 	</div>
 </div>
+
 <div class="scrolling">
-	<div class="container">
-		<form id="frmContact" autocomplete="on"
-			action="https://getsimpleform.com/messages?form_api_token={{page.simpleformtoken}}"
-			method="post">
-			<!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-			<input type='hidden' name='redirect_to'
-				value='{{site.url}}{{page.url}}#contactthankyou' />
+<div class="container">
+<div class="contactreset">
+	<form id="frmContact" autocomplete="on"
+		action="https://getsimpleform.com/messages?form_api_token={{page.simpleformtoken}}"
+		method="post">
+		<!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
+		<input type='hidden' name='redirect_to'
+			value='{{site.url}}{{page.url}}#contactthankyou' />
 
-			<div class="input-prepend">
-				<label for="name"><span
-					class="add-on validLabel fontawesome-user" name="name"></span></label> <input
-					size="30" id="name" type="text" name="name" placeholder="Name"
-					title="Please provide your name." />
-			</div>
-
-			<div class="input-prepend">
-				<label for="email"><span
-					class="add-on validLabel fontawesome-envelope"></span></label> <input
-					type="text" id="email" name="email" placeholder="Email address"
-					title="Please provide a valid email address." />
-			</div>
-
-			<div class="input-prepend">
-				<label for="phone"><span
-					class="add-on validLabel fontawesome-phone"></span></label> 
-				<input
-					type="text" name="phone" id="phone" placeholder="Phone Number"
-					title="Please provide a valid phone number." />
-			</div>
-
-			<div class="input-prepend">
-				<label for="message"><span
-					class="add-on validLabel fontawesome-comment"></span></label>
-				<textarea
-					placeholder="Questions, Concerns, and Feedback are very much appreciated."
-					id="message" name="message"
-					title="Please provide questions/comments."></textarea>
-			</div>
-
-			<input id="contactSubmit" type="submit" value="Send" />
-
-		</form>
-
-
-	</div>
-
-
-	<div id="contactthankyou" class="overlay">
-		<div class="popup">
-			<div class="profile">
-				<h2>Thank You!</h2>
-				<a class="close" href="#contact">×</a>
-				<div class="content">Thank you! Your message has been
-					received, and we'll be in touch shortly!</div>
-			</div>
+		<div class="input-prepend">
+			<label for="name"><span
+				class="add-on validLabel fontawesome-user" name="name"></span></label> <input
+				size="30" id="name" type="text" name="name" placeholder="Name"
+				title="Please provide your name." />
 		</div>
-	</div>
+
+		<div class="input-prepend">
+			<label for="email"><span
+				class="add-on validLabel fontawesome-envelope"></span></label> <input
+				type="text" id="email" name="email" placeholder="Email address"
+				title="Please provide a valid email address." />
+		</div>
+
+		<div class="input-prepend">
+			<label for="phone"><span
+				class="add-on validLabel fontawesome-phone"></span></label> <input
+				type="text" name="phone" id="phone" placeholder="Phone Number"
+				title="Please provide a valid phone number." />
+		</div>
+
+		<div class="input-prepend">
+			<label for="message"><span
+				class="add-on validLabel fontawesome-comment"></span></label>
+			<textarea
+				placeholder="Questions, Concerns, and Feedback are very much appreciated."
+				id="message" name="message"
+				title="Please provide questions/comments."></textarea>
+		</div>
+
+		<input id="contactSubmit" type="submit" value="Send" />
+
+	</form>
+
 
 </div>
+
+
+<div id="contactthankyou" class="overlay">
+	<div class="popup">
+		<div class="profile">
+			<h2>Thank You!</h2>
+			<a class="close" href="#contact">×</a>
+			<div class="content">Thank you! Your message has been received,
+				and we'll be in touch shortly!</div>
+		</div>
+	</div>
+</div>
+</div>
+</div>
+
 

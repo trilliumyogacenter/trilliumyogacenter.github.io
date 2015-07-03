@@ -6,8 +6,10 @@
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
-  <link rel="stylesheet" href="{{ "/css/trillium.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/bootstrap-3.3.5-dist/css/bootstrap.css" | prepent: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/font-awesome-4.3.0/css/font-awesome.css" | prepent: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/css/contact.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/css/trillium.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 	
@@ -15,9 +17,6 @@
   <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jQuery.Validate/1.6/jQuery.Validate.min.js"></script>
 
   <script type="text/javascript">$(document).ready(function(){
-	
-
-	
 		$( "#frmContact" ).validate({
 		invalidHandler: function(event, validator)
 		{
