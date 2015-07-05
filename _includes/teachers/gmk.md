@@ -7,11 +7,6 @@ Kundalini Research Institute (KRI), the International Kundalini
 Yoga Teacher's Association (IKYTA), International Yoga Therapists
 Association (IYTA), and Happy Healthy Holy Organization (3HO).
 
-
-
-
-
-
 She specializes in gong meditation and relaxation, stress
 and anxiety, addiction therapy, mental health awareness, fertility
 susceptibility, prenatal, senior citizen flexibility, and
