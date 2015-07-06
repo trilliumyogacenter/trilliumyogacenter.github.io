@@ -787,3 +787,18 @@ address {
 	display: block;
 	padding-left: 0px;
 }
+
+
+/**
+ * FACEBOOK BTN 
+ */
+.facebook-btn {
+	display: block;
+	margin: auto;"
+}
+
+@media only screen and (min-width: 768px) {
+.facebook-btn {
+	width: 25%;
+}
+}
