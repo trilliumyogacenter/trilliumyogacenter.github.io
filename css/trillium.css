@@ -794,11 +794,14 @@ address {
  */
 .facebook-btn {
 	display: block;
-	margin: auto;"
+	margin: auto;
+	width: 100%;
 }
 
 @media only screen and (min-width: 768px) {
-.facebook-btn {
-	width: 25%;
+	.facebook-btn {
+		width: 25%;
+	}
 }
-}
+
+
