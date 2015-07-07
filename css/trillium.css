@@ -141,10 +141,16 @@ a {
 	float: left;
 }
 
-.navbar  img {
-	display: block;
+.trilliumnav  img {
+	display: inline;
 	height: 100%;
-	margin: 0px;
+	margin: 0 0 0 0;
+	vertical-align: top;
+}
+
+.trilliumnav {
+	background: rgba(255, 255, 255, 0.95);
+	font-size: large;
 }
 
 .content  img {
