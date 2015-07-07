@@ -271,6 +271,8 @@ a {
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
+		background-attachment: fixed;
+	
 	z-index: 1;
 }
 
@@ -345,15 +347,16 @@ pre.code {
 }
 
 @media only screen and (min-width: 768px) {
+	.fixed {
+		background-attachment: fixed;
+	}
 	.fixed h1, .fixed h2 {
 		font-size: 36px;
 	}
 }
 
 @media only screen and (min-width: 1170px) {
-	.fixed {
-		background-attachment: fixed;
-	}
+
 	.fixed h1, .fixed h2 {
 		font-size: 48px;
 		font-weight: 300;
