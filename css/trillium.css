@@ -145,8 +145,6 @@ a {
 	.banner {
 		width: 40%;
 	}
-
-
 }
 
 .trilliumnav {
@@ -627,19 +625,18 @@ address {
  * TEACHER PROFILE THUMBS
  */
 .profileblocks {
-	height: 100%;
-	width: 100%;
-	padding: 20px;
-	text-align: justify;
-	-ms-text-justify: distribute-all-lines;
-	text-justify: distribute-all-lines;
+}
+
+.profileblocks img {
+	width: 200px;
+
+}
+
+.profile-thumb {
+	text-align: center;
 }
 
 .profileblock {
-	width: 200px;
-	vertical-align: top;
-	display: inline-block;
-	*display: inline;
 }
 
 .profilestretch {
