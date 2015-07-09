@@ -137,7 +137,17 @@ a {
 	clear: both;
 }
 
+.banner {
+	width: 100%;
+}
 
+@media only screen and (min-width: 768px) {
+	.banner {
+		width: 40%;
+	}
+
+
+}
 
 .trilliumnav {
 	background: rgba(255, 255, 255, 0.95);
