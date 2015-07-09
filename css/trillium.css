@@ -2,56 +2,6 @@
    v2.0 | 20110126
    License: none (public domain)
 */
-html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p,
-	blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn,
-	em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var,
-	center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table,
-	caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas,
-	details, embed, figure, figcaption, footer, header, hgroup, menu, nav,
-	output, ruby, section, summary, time, mark, audio, video {
-	margin: 0;
-	padding: 0;
-	border: 0;
-	font-size: 100%;
-	font: inherit;
-	vertical-align: baseline;
-}
-
-/* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, footer, header, hgroup,
-	menu, nav, section, main {
-	display: block;
-}
-
-body {
-	line-height: 1;
-}
-
-ol, ul {
-	list-style: none;
-}
-
-blockquote, q {
-	quotes: none;
-}
-
-blockquote:before, blockquote:after, q:before, q:after {
-	content: '';
-	content: none;
-}
-
-table {
-	border-collapse: collapse;
-	border-spacing: 0;
-}
-
-header, footer, main {
-	display: block;
-}
-
-body {
-	line-height: 1;
-}
 
 html * {
 	-webkit-font-smoothing: antialiased;
@@ -119,23 +69,6 @@ a {
 	margin-left: 25px;
 }
 
-
-.header {
-	position: fixed;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 50px;
-	background: rgba(255, 255, 255, 0.95);
-	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
-	z-index: 2;
-}
-
-.header:after {
-	content: "";
-	display: table;
-	clear: both;
-}
 
 .banner {
 	width: 100%;
@@ -274,7 +207,7 @@ a {
 
 .fixed {
 	position: relative;
-	min-height: 100%;
+	min-height: 70%;
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -306,25 +239,7 @@ a {
 	font-weight: bold;
 }
 
-/* .sectiontext a:link { color:#d0d0d0; }
-.sectiontext a:visited { color:#c0c0c0; background-color:#0000a0; }
-.sectiontext a:hover { color:#ffffff; background-color:#D59A7C; }
-.sectiontext a:active { color:#f0f0f0; background-color:#D59A8A; }
 
-.sectiontext a.rsvp:link    { color: #ffffff; border: 2px solid #ffffff; }
-.sectiontext a.rsvp:visited { color: #ffffff; border: 2px solid #ffffff; }
-
-a.rsvp:link    { color: #000000; border: 2px solid #000000; }
-a.rsvp:visited { color: #000000; border: 2px solid #000000; }
-a.rsvp:hover   { color: #000000; background-color:#D59A7C; border: 2px solid #000000; }
-a.rsvp:active  { color: #000000; background-color:#D59A7C; border: 2px solid #000000; }
- */
-pre.code {
-	text-align: left;
-	font-family: monospace;
-	font-size: large;
-	line-height: normal;
-}
 
 .attribution {
 	position: absolute;
@@ -373,6 +288,7 @@ pre.code {
 }
 
 .scrolling {
+	min-height: 30%;
 	padding: 5px;
 	box-shadow: 0 0 50px rgba(0, 0, 0, 0.5);
 	z-index: 2;
@@ -621,13 +537,18 @@ address {
 	top: 75px !important;
 }
 
+.teacher-bio p {
+	padding: 5px;
+	margin-top: 2px;
+}
+
 /**
  * TEACHER PROFILE THUMBS
  */
 .profileblocks {
 }
 
-.profileblocks img {
+.profile-thumb  img {
 	width: 200px;
 
 }
@@ -794,6 +715,6 @@ address {
 
 @media only screen and (min-width: 768px) {
 	.facebook-btn {
-		width: 20rem;
+		width: 30rem;
 	}
 }

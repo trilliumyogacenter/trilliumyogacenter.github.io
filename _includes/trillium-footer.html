@@ -1,15 +1,17 @@
 	<footer class="footer">
-		<div class="footer-nav">
-			<ul>
-				<li><b>Built by</b>: <a
-					href="http://zombiebabylabs.com">Zombie Baby Labs</a></li>
-				<li>&copy; Trillium Center for Yoga and Health, LLC</li>
-				<li><a href="#" class="button" data-toggle="modal" data-target="legal">Legal</a></li>
-			</ul>
-		</div>
-		
-	<div class="modal fade teacher-bio" id="legal" tabindex="-1" role="dialog"
-		aria-labelledby="myModalLabel" data-backdrop="false">
+	<div class="footer-nav">
+		<ul>
+			<li><b>Built by</b>: <a href="http://zombiebabylabs.com">Zombie
+					Baby Labs</a></li>
+			<li>&copy; Trillium Center for Yoga and Health, LLC</li>
+			<li><a href="#" class="button" data-toggle="modal" data-target="#legal">Legal</a></li>
+		</ul>
+	</div>
+
+</footer>
+
+	<div class="modal fade teacher-bio" id="legal" tabindex="-1"
+		role="dialog" aria-labelledby="myModalLabel" data-backdrop="false">
 		<div class="modal-dialog modal-lg" role="document">
 			<div class="modal-content">
 				<div class="modal-header">
@@ -21,11 +23,9 @@
 				</div>
 				<div class="modal-body">{% include legal.html %}</div>
 				<div class="modal-footer">
-					<button id="miller-bio-close" type="button" class="btn btn-default"
+					<button type="button" class="btn btn-default"
 						data-dismiss="modal">Close</button>
 				</div>
 			</div>
 		</div>
 	</div>
-	</footer>
-
