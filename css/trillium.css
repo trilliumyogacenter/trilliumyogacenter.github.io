@@ -137,20 +137,19 @@ a {
 	clear: both;
 }
 
-.navbar #mm_logo {
-	float: left;
-}
 
-.trilliumnav  img {
-	display: inline;
-	height: 100%;
-	margin: 0 0 0 0;
-	vertical-align: top;
-}
 
 .trilliumnav {
 	background: rgba(255, 255, 255, 0.95);
 	font-size: large;
+}
+
+.trilliumnav  img {
+	display: inline;
+	height: 80%;
+	margin: initial;
+	padding: initial;
+	align: initial;
 }
 
 .content  img {
@@ -564,23 +563,7 @@ address {
 	background-color: #0061a7;
 }
 
-#close a {
-	background: -webkit-linear-gradient(#333, #000);
-	background: -o-linear-gradient(#333, #000);
-	background: -ms-linear-gradient(#333, #000);
-	background: linear-gradient(#333, #000);
-	font-family: 'Electrolize', Arial, sans-serif;
-	padding: 10px;
-	top: 15px;
-	border-radius: 3px;
-	-webkit-border-radius: 3px;
-	-ms-border-radius: 3px;
-	position: relative;
-}
 
-#close a:hover {
-	text-decoration: none;
-}
 
 /*Popup*/
 #box-menu a {
@@ -622,22 +605,96 @@ address {
 	background-color: #0061a7;
 }
 
-#close a {
-	background: -webkit-linear-gradient(#333, #000);
-	background: -o-linear-gradient(#333, #000);
-	background: -ms-linear-gradient(#333, #000);
-	background: linear-gradient(#333, #000);
-	font-family: 'Electrolize', Arial, sans-serif;
-	padding: 10px;
-	top: 15px;
-	border-radius: 3px;
-	-webkit-border-radius: 3px;
-	-ms-border-radius: 3px;
-	position: relative;
+/**
+ * Teacher bio popup styles
+ */
+
+.teacher-bio {
+	top: 75px !important;
 }
 
-#close a:hover {
-	text-decoration: none;
+/**
+ * TEACHER PROFILE THUMBS
+ */
+.profileblocks {
+	height: 100%;
+	width: 100%;
+	padding: 20px;
+	text-align: justify;
+	-ms-text-justify: distribute-all-lines;
+	text-justify: distribute-all-lines;
+}
+
+.profileblock {
+	width: 200px;
+	vertical-align: top;
+	display: inline-block;
+	*display: inline;
+}
+
+.profilestretch {
+	width: 100%;
+	display: inline-block;
+	font-size: 0;
+	line-height: 0
+}
+
+.profileblock img {
+	max-width: 100%;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
+
+.profileblock h3 {
+	text-align: center;
+	font-size: 1.0em;
+	margin-top: 0px;
+	margin-bottom: 0.83em;
+	margin-left: 0;
+	margin-right: 0;
+	font-weight: bold;
+	color: #8F0047;
+}
+
+/**
+ * BOOTSTRAP CUSTOMIZATIONS
+ */
+.btn-lg.round {
+	border-radius: 24px;
+}
+
+
+
+
+
+/**
+ * CONTACT FORM STYLE OVERRIDES 
+ */
+.contactreset {
+	width: 70%;
+	margin: auto;
+	padding: 0px;
+	box-shadow: initial;
+	font-size: 20px;
+	font-size: initial;
+	line-height: initial;
+	font-weight: 300;
+	display: block;
+}
+
+.contactreset label {
+	display: block;
+	padding: 0px;
+	margin: 0px;
+}
+
+.contactreset ul {
+	list-style: none;
+}
+
+.contactreset ul li {
+	display: block;
+	padding-left: 0px;
 }
 
 /**
@@ -717,86 +774,6 @@ address {
 .popup .content {
 	max-height: 30%;
 	overflow: auto;
-}
-
-/**
- * TEACHER PROFILE THUMBS
- */
-.profileblocks {
-	height: 100%;
-	width: 100%;
-	padding: 20px;
-	text-align: justify;
-	-ms-text-justify: distribute-all-lines;
-	text-justify: distribute-all-lines;
-}
-
-.profileblock {
-	width: 200px;
-	vertical-align: top;
-	display: inline-block;
-	*display: inline;
-}
-
-.profilestretch {
-	width: 100%;
-	display: inline-block;
-	font-size: 0;
-	line-height: 0
-}
-
-.profileblock img {
-	max-width: 100%;
-	margin-bottom: 0px;
-	padding-bottom: 0px;
-}
-
-.profileblock h3 {
-	text-align: center;
-	font-size: 1.0em;
-	margin-top: 0px;
-	margin-bottom: 0.83em;
-	margin-left: 0;
-	margin-right: 0;
-	font-weight: bold;
-	color: #8F0047;
-}
-
-/**
- * BOOTSTRAP CUSTOMIZATIONS
- */
-.btn-lg.round {
-	border-radius: 24px;
-}
-
-/**
- * CONTACT FORM STYLE OVERRIDES 
- */
-.contactreset {
-	width: 70%;
-	margin: auto;
-	padding: 0px;
-	box-shadow: initial;
-	font-size: 20px;
-	font-size: initial;
-	line-height: initial;
-	font-weight: 300;
-	display: block;
-}
-
-.contactreset label {
-	display: block;
-	padding: 0px;
-	margin: 0px;
-}
-
-.contactreset ul {
-	list-style: none;
-}
-
-.contactreset ul li {
-	display: block;
-	padding-left: 0px;
 }
 
 /**
