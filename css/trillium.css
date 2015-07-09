@@ -21,52 +21,8 @@ body, html {
 }
 
 a {
-	color: #D59A7C;
+	color: #792681;
 	text-decoration: none;
-}
-
-.content {
-	/* this class is used to give a max-width to the element it is applied to, and center it horizontally when it reaches that max-width */
-	width: 90%;
-	max-width: 5000px;
-	margin: 0 auto;
-	table-layout: fixed;
-	border-spacing: 10px;
-}
-
-.content::after {
-	/* clearfix */
-	content: '';
-	display: table;
-	clear: both;
-}
-
-.content a:link {
-	color: #D59A7C;
-	font-weight: bold
-}
-
-.content a:visited {
-	color: #D59A7C;
-	font-weight: bold
-}
-
-/* .content a:hover { 
-	color: #D59A7C;  
- 	font-weight: bold;
-}
-.content a:active{ 
-	color: #D59A7C;  
-	border: 2px solid #D59A7C; 
-	padding: 3px;
- 	font-weight: bold;
-}
- */
-.content li {
-	text-align: left;
-	list-style-type: square;
-	padding-left: 3px;
-	margin-left: 25px;
 }
 
 
@@ -93,12 +49,6 @@ a {
 	align: initial;
 }
 
-.content  img {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	height: 100px;
-}
 
 @media only screen and (min-width: 768px) {
 	.header {
@@ -351,27 +301,7 @@ address {
 	list-style-type: square;
 }
 
-.content h2 {
-	display: block;
-	font-size: 1.5em;
-	margin-top: 0.83em;
-	margin-bottom: 0.83em;
-	margin-left: 0;
-	margin-right: 0;
-	font-weight: bold;
-	color: #8F0047;
-}
 
-.content h3 {
-	display: block;
-	font-size: 1.0em;
-	margin-top: 0.83em;
-	margin-bottom: 0.83em;
-	margin-left: 0;
-	margin-right: 0;
-	font-weight: bold;
-	color: #8F0047;
-}
 
 .footer {
 	position: fixed;
@@ -393,10 +323,6 @@ address {
 	padding-left: 10px;
 }
 
-.content>div {
-	display: table-cell;
-	width: 33.3333%
-}
 
 .column-left {
 	text-align: center; #
@@ -705,7 +631,7 @@ address {
 	color: orange;
 }
 
-.popup .content {
+.popup  {
 	max-height: 30%;
 	overflow: auto;
 }
