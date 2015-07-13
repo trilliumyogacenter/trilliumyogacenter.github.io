@@ -160,27 +160,22 @@ a {
 	min-height: 70%;
 	height: 70%;
 	overflow: hidden;
+	background-attachment: fixed;
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
 	z-index: 1;
+	
+	@media (max-width: @iphone-screen) {
+        background-attachment: scroll;
+    }
 }
 
 @media only screen and (min-width: 768px) {
 
 }
 
-/* ----------- iPad 3 and 4 ----------- */
-/* Portrait and Landscape */
-@media only screen 
-  and (min-device-width: 768px) 
-  and (max-device-width: 1024px) 
-  and (-webkit-min-device-pixel-ratio: 2) {
-	.fixed {
-	background-size: cover;
-	background-attachment: scroll;
-	}
-}
+
 
 
 .sectiontext {
@@ -241,7 +236,7 @@ a {
 
 @media only screen and (min-width: 768px) {
 	.fixed {
-		background-attachment: fixed;
+		
 	}
 	.fixed h1, .fixed h2 {
 		font-size: 36px;
