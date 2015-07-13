@@ -157,8 +157,8 @@ a {
 
 .fixed {
 	position: relative;
-	min-height: 100%;
-	background-size: 100%;
+	min-height: 70%;
+	background-size: auto 100%;
 	background-repeat: no-repeat;
 	background-position: center center;
 	z-index: 1;
@@ -166,6 +166,7 @@ a {
 
 @media only screen and (min-width: 768px) {
 	.fixed {
+		background-size: cover;
 		min-height: 70%;
 	}
 }
