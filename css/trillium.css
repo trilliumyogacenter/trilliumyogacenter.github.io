@@ -2,7 +2,6 @@
    v2.0 | 20110126
    License: none (public domain)
 */
-
 html * {
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
@@ -24,7 +23,6 @@ a {
 	color: #792681;
 	text-decoration: none;
 }
-
 
 .banner {
 	width: 75%;
@@ -49,17 +47,14 @@ a {
 	align: initial;
 }
 
-
 @media only screen and (min-width: 768px) {
 	.header {
 		height: 70px;
 	}
-
-
 }
 
 .fade {
-		background: rgba(255, 255, 255, 0.95);
+	background: rgba(255, 255, 255, 0.95);
 }
 
 .main-nav {
@@ -165,18 +160,14 @@ a {
 	background-repeat: no-repeat;
 	background-position: center center;
 	z-index: 1;
-	
-	@media (max-width: @iphone-screen) {
-        background-attachment: scroll;
-    }
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 }
 
 @media only screen and (min-width: 768px) {
-
 }
-
-
-
 
 .sectiontext {
 	min-height: 25%;
@@ -202,8 +193,6 @@ a {
 	padding: 15px;
 	font-weight: bold;
 }
-
-
 
 .attribution {
 	position: absolute;
@@ -244,7 +233,6 @@ a {
 }
 
 @media only screen and (min-width: 1170px) {
-
 	.fixed h1, .fixed h2 {
 		font-size: 48px;
 		font-weight: 300;
@@ -313,8 +301,6 @@ address {
 	list-style-type: square;
 }
 
-
-
 .footer {
 	position: fixed;
 	bottom: 0;
@@ -334,7 +320,6 @@ address {
 	display: inline;
 	padding-left: 10px;
 }
-
 
 .column-left {
 	text-align: center; #
@@ -431,8 +416,6 @@ address {
 	background-color: #0061a7;
 }
 
-
-
 /*Popup*/
 #box-menu a {
 	text-transform: uppercase;
@@ -476,7 +459,6 @@ address {
 /**
  * Teacher bio popup styles
  */
-
 .teacher-bio {
 	top: 75px !important;
 }
@@ -490,11 +472,11 @@ address {
  * TEACHER PROFILE THUMBS
  */
 .profileblocks {
+	
 }
 
 .profile-thumb  img {
 	width: 200px;
-
 }
 
 .profile-thumb {
@@ -502,6 +484,7 @@ address {
 }
 
 .profileblock {
+	
 }
 
 .profilestretch {
@@ -534,10 +517,6 @@ address {
 .btn-lg.round {
 	border-radius: 24px;
 }
-
-
-
-
 
 /**
  * CONTACT FORM STYLE OVERRIDES 
@@ -643,7 +622,7 @@ address {
 	color: orange;
 }
 
-.popup  {
+.popup {
 	max-height: 30%;
 	overflow: auto;
 }
