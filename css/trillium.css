@@ -50,7 +50,7 @@ a {
 }
 
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1170px) {
 	.header {
 		height: 70px;
 	}
@@ -102,7 +102,7 @@ a {
 	color: #8e7d7f;
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1170px) {
 	.main-nav {
 		width: auto;
 		height: auto;
@@ -164,7 +164,7 @@ a {
 	z-index: 1;
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1170px) {
 	.fixed {
 			min-height: 70%;
 	}
@@ -226,7 +226,7 @@ a {
 	background-image: url("/images/willow-fall.jpg");
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1170px) {
 		.fixed {
 		background-attachment: fixed;
 	}
@@ -269,7 +269,7 @@ a {
 	color: #3d3536;
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1170px) {
 	.scrolling {
 		padding: 2em 0;
 		font-size: 20px;
