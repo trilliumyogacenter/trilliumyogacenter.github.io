@@ -158,19 +158,27 @@ a {
 .fixed {
 	position: relative;
 	min-height: 70%;
-	background-size: auto 100%;
+	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
 	z-index: 1;
 }
 
 @media only screen and (min-width: 768px) {
-	.fixed {
-		background-size: cover;
-		min-height: 70%;
-	}
+
 }
 
+/* ----------- iPad 3 and 4 ----------- */
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 2) {
+	.fixed {
+	background-size: cover;
+	background-attachment: scroll;
+	}
+}
 
 
 .sectiontext {
