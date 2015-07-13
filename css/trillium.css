@@ -209,6 +209,10 @@ a {
 	background-image: url("/images/suryathon4.jpg");
 }
 
+.fixed.storefront {
+	background-image: url("/images/storefront.png");
+}
+
 .fixed.vrksasana {
 	background-image:
 		url("https://upload.wikimedia.org/wikipedia/commons/2/2a/Vrksasana.jpg");
