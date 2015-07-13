@@ -164,7 +164,7 @@ a {
 	z-index: 1;
 }
 
-@media only screen and (min-width: 1170px) {
+@media only screen and (min-width: 768px) {
 	.fixed {
 			min-height: 70%;
 	}
