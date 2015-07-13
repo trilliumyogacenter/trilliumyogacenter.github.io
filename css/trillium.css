@@ -156,7 +156,7 @@ a {
 	height: 70%;
 	overflow: hidden;
 	background-attachment: fixed;
-	background-size: cover;
+	background-size: 100%;
 	background-repeat: no-repeat;
 	background-position: center center;
 	z-index: 1;
