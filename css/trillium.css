@@ -160,7 +160,7 @@ a {
 	background-repeat: no-repeat;
 	background-position: center center;
 	z-index: 1;
-	-webkit-background-size: cover;
+	-webkit-background-size: 100%;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
