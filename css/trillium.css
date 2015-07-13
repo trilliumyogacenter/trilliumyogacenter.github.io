@@ -159,6 +159,7 @@ a {
 	position: relative;
 	min-height: 70%;
 	height: 70%;
+	overflow: hidden;
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
