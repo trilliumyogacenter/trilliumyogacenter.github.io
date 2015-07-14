@@ -19,15 +19,24 @@
 			<p>We will be offering discounted classes beginning August 17, 2015, for $10.00 leading up to our grand opening on September 1! Please check back here soon for schedule and class information.
 		</div>
 		</div>
-
+		{% assign today = 'now' | date: "%s" %}
 		
+		{% assign count=0 %}
 		{% for post in site.posts reversed %} 
-		{% if post.categories contains 'schedule' %}
+		{% assign posttime = {{post.date|date:"%s"}} %}
+		<!--  {{post.date|date:"%s"}} > {{today}}  -->
+		{% if post.categories contains 'schedule' and {{posttime}} > {{today}} %}
+		
+		{% if count == 0 %}
+		{% capture firstday %}{{ post.date | date: "%A" }}{% endcapture %}
+		{% endif %}
+		
 		{% capture postday %}{{ post.date | date: "%A" }}{% endcapture %}
 		{% capture priorday %}{{ post.previous.date | date: "%A" }}{% endcapture %}
 		{% capture nextday %}{{ post.next.date | date: "%A" }}{% endcapture %}
 		
 			{% if post.previous == nil or postday != priorday %}
+			{% assign count = count|plus:1%}
 			<div class="row scheduledate">
 			<div class="col-md-4 col-sm-4">
 				<div><h1>{{ postday }}</h1></div>
@@ -46,7 +55,11 @@
 			</div>
 			</div>
 			{% endif %}
-		{% endif %} {% endfor %}
+		{% endif %}
+
+		<!-- {{nextday}} == {{firstday}} -->
+		{% if count > 1 and nextday == firstday %} {% break %} {% endif %}
+		{% endfor %}
 		
 	</div>
 
