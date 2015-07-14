@@ -21,19 +21,18 @@
 		</div>
 		
 		{% for post in site.posts reversed %} {% if post.categories contains 'schedule' %}
-		<div class="row">
+		<div class="row scheduledate">
 			<div class="col-md-4">
 				<div><h1>{{ post.date | date: "%A" }}</h1></div>
 				<div><h4>{{ post.date | date: "%B %-d" }}</h4></div>
 			</div>
 
 			<div class="col-md-8 classdescription"><p>
+	        <h3>{{post.title}} with {{post.teacher}}</h3>
 			{% assign content = post.content | strip_newlines %}
-		    {% if content == "" %}
-		        {{post.title}} with {{post.teacher}}
-		    {% else %}
+		    {% if content != "" %}
 		        {{ post.content }}
-		    {% endif %} <br/>Class starts at {{ post.date | date: "%I:%M %p" }}</p>
+		    {% endif %} <p>Class starts at {{ post.date | date: "%I:%M %p" }}</p>
 			</div>			
 		</div>
 		{% endif %} {% endfor %}

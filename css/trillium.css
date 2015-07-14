@@ -645,11 +645,17 @@ address {
 /**
  * SChedule
  */
+ 
+ .scheduledate {
+ 	border-top: 1px solid #eee;
+ 	border-bottom: 1px solid #eee;
+ }
+ 
  .classdescription {
   min-height: 15rem;
  }
  
 .classdescription p {
-	padding: 2rem;
-	font-size: 2rem;
+	padding: 0rem;
+	font-size: large;
 }
