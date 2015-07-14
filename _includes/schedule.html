@@ -32,20 +32,17 @@
 				<div><h1>{{ postday }}</h1></div>
 				<div><h4>{{ post.date | date: "%B %-d" }}</h4></div>
 			</div>
-			{% else %}
-			<div class="col-md-4">
-			</div>			
-			{% endif %}
-			
 			<div class="col-md-8 classdescription"><p>
-	        <h3>{{post.title}} with {{post.teacher}}</h3>
-			{% assign content = post.content | strip_newlines %}
-		    {% if content != "" %}
-		        {{ post.content }}
-		    {% endif %} <p>Class starts at {{ post.date | date: "%I:%M %p" }}</p>
+			{% endif %}
+			<div>
+				<h3>{{post.title}} with {{post.teacher}}</h3>
+				{% assign content = post.content | strip_newlines %}
+			    {% if content != "" %}
+			        {{ post.content }}
+			    {% endif %} <p>Class starts at {{ post.date | date: "%I:%M %p" }}</p>
 			</div>			
-	
 			{% if post.next == nil or postday != nextday %}
+			</div>
 			</div>
 			{% endif %}
 		{% endif %} {% endfor %}
