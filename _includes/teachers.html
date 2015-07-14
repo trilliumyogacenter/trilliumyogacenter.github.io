@@ -11,21 +11,30 @@
 	</div>
 </div>
 
+
+
 <div class="scrolling">
 	<div class="container-fluid">
+		{% assign counter = 0 %}
+		{% assign sorted = (site.posts | sort: 'title') %}
+		{% for post in sorted %} 
+		{% if post.categories contains 'bio' %}
+		{% capture indexmod %}{{ counter | modulo: 4 }}{% endcapture %}
+		{% capture counter %}{{counter | plus:1 }}{% endcapture %}
+		<!-- {{ indexmod }} -->
+		{% assign closed=false %}
+		{% if forloop.first or indexmod == "0" %}
 		<div class="row">
-			<div class="span3">
+			<div class="span4">
+		{% endif %}
 
-				{% for post in site.posts %} {% if post.categories contains 'bio' %}
-
-				<div id="{{post.shortname}}-img" class="col-md-4">
+				<div id="{{post.shortname}}-img" class="col-md-3">
 					<a href="#{{#post.shortname}}" class="thumbnail button"
 						data-toggle="modal" data-target="#{{post.shortname}}-bio"> <img
 						src="{{post.headshot}}" alt="{{post.title}}"><br />
 						<h3>{{post.title}}</h3>
 					</a>
 				</div>
-
 				<div class="modal fade teacher-bio" id="{{post.shortname}}-bio"
 					tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
 					data-backdrop="false">
@@ -47,13 +56,23 @@
 					</div>
 				</div>
 
+		{% if forloop.last or indexmod == "3" %}
+			{% assign closed=true %}
+				<span class="profilestretch"></span>
+				</div>
+				<!--  end span4 -->
+			</div> <!-- end row -->
+		{% endif %}
 
 				{% endif %} {% endfor %}
+				
+		{% if closed == false %}
+			{% assign closed=true %}
 				<span class="profilestretch"></span>
-			</div>
-			<!--  end span3 -->
-		</div>
-		<!--  end row -->
+				</div>
+				<!--  end span4 -->
+			</div> <!-- end row -->
+		{% endif %}
 	</div>
 	<!--  end container -->
 </div>
