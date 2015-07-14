@@ -19,6 +19,25 @@
 			<h1>Grand Opening Special</h1>
 			<p>We will be offering discounted classes beginning August 17, 2015, for $10.00 leading up to our grand opening on September 1! Please check back here soon for schedule and class information.
 		</div>
+		
+		{% for post in site.posts reversed %} {% if post.categories contains 'schedule' %}
+		<div class="row">
+			<div class="col-md-4">
+				<div><h1>{{ post.date | date: "%A" }}</h1></div>
+				<div><h4>{{ post.date | date: "%D at %I:%M %p" }}</h4></div>
+			</div>
+
+			<div class="col-md-8 classdescription"><p>
+			{% assign content = post.content | strip_newlines %}
+		    {% if content == "" %}
+		        {{post.title}} with {{post.teacher}}
+		    {% else %}
+		        {{ post.content }}
+		    {% endif %}</p>
+			</div>			
+		</div>
+		{% endif %} {% endfor %}
+		
 	</div>
 
 </div>
