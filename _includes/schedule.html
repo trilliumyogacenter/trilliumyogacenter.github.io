@@ -2,23 +2,24 @@
 <div id="schedule" class="fixed vrksasana">
 	<div class="sectiontext">
 		<h1>Schedule</h1>
-		<br />
-		<h3></h3>
-		<br> <br>
 	</div>
 	<div class="attribution">
 		<a href="https://commons.wikimedia.org/wiki/File:Vrksasana.jpg">Vrksasana</a>
 		by <a href="http://www.flickr.com/people/43546466@N00">Judith</a> <a
 			href="http://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>
-	</div>
+	</div>		
+	
 </div>
 
 <div class="scrolling">
 	<div class="container">
+		<div class="container">
 		<div class="jumbotron">
 			<h1>Grand Opening Special</h1>
 			<p>We will be offering discounted classes beginning August 17, 2015, for $10.00 leading up to our grand opening on September 1! Please check back here soon for schedule and class information.
 		</div>
+		</div>
+
 		
 		{% for post in site.posts reversed %} 
 		{% if post.categories contains 'schedule' %}
