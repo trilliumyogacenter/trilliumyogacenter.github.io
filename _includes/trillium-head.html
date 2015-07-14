@@ -7,9 +7,9 @@
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
   <link rel="icon" type="image/png" href="{{"/images/trillium.png" | prepend: site.baseurl}}" />
-  <link rel="stylesheet" href="{{ "/bootstrap-3.3.5-dist/css/bootstrap.css" | prepend: site.baseurl }}">
-  <link rel="stylesheet" href="{{ "/bootstrap-3.3.5-dist/css/bootstrap-theme.css" | prepend: site.baseurl }}">
-  <link rel="stylesheet" href="{{ "/font-awesome-4.3.0/css/font-awesome.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/bootstrap-3.3.5-dist/css/bootstrap.min.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/bootstrap-3.3.5-dist/css/bootstrap-theme.min.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/font-awesome-4.3.0/css/font-awesome.min.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/css/contact.css" | prepend: site.baseurl }}">
 
   <link rel="stylesheet" media="only screen and (min-device-width: 1025px)" href="{{ "/css/trillium.css" | prepend: site.baseurl }}">
@@ -18,7 +18,7 @@
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 	
   <script src="{{ "/js/jquery-1.11.3.min.js" | prepend: site.baseurl }}"></script>
-  <script type="text/javascript" src="{{ "/bootstrap-3.3.5-dist/js/bootstrap.js" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "/bootstrap-3.3.5-dist/js/bootstrap.min.js" | prepend: site.baseurl }}"></script>
   <script src="{{ "/js/jquery-validation-1.13.1/jquery.validate.min.js" | prepend: site.baseurl }}"></script>
 
   <script type="text/javascript">
