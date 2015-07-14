@@ -24,7 +24,7 @@
 		<div class="row">
 			<div class="col-md-4">
 				<div><h1>{{ post.date | date: "%A" }}</h1></div>
-				<div><h4>{{ post.date | date: "%D at %I:%M %p" }}</h4></div>
+				<div><h4>{{ post.date | date: "%B %-d" }}</h4></div>
 			</div>
 
 			<div class="col-md-8 classdescription"><p>
@@ -33,7 +33,7 @@
 		        {{post.title}} with {{post.teacher}}
 		    {% else %}
 		        {{ post.content }}
-		    {% endif %}</p>
+		    {% endif %} <br/>Class starts at {{ post.date | date: "%I:%M %p" }}</p>
 			</div>			
 		</div>
 		{% endif %} {% endfor %}
