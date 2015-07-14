@@ -29,11 +29,11 @@
 		
 			{% if post.previous == nil or postday != priorday %}
 			<div class="row scheduledate">
-			<div class="col-md-4">
+			<div class="col-md-4 col-sm-4">
 				<div><h1>{{ postday }}</h1></div>
 				<div><h4>{{ post.date | date: "%B %-d" }}</h4></div>
 			</div>
-			<div class="col-md-8 classdescription"><p>
+			<div class="col-md-8 col-sm-8 classdescription"><p>
 			{% endif %}
 			<div>
 				<h3>{{post.title}} with {{post.teacher}}</h3>
