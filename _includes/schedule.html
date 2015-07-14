@@ -20,13 +20,23 @@
 			<p>We will be offering discounted classes beginning August 17, 2015, for $10.00 leading up to our grand opening on September 1! Please check back here soon for schedule and class information.
 		</div>
 		
-		{% for post in site.posts reversed %} {% if post.categories contains 'schedule' %}
-		<div class="row scheduledate">
+		{% for post in site.posts reversed %} 
+		{% if post.categories contains 'schedule' %}
+		{% capture postday %}{{ post.date | date: "%A" }}{% endcapture %}
+		{% capture priorday %}{{ post.previous.date | date: "%A" }}{% endcapture %}
+		{% capture nextday %}{{ post.next.date | date: "%A" }}{% endcapture %}
+		
+			{% if post.previous == nil or postday != priorday %}
+			<div class="row scheduledate">
 			<div class="col-md-4">
-				<div><h1>{{ post.date | date: "%A" }}</h1></div>
+				<div><h1>{{ postday }}</h1></div>
 				<div><h4>{{ post.date | date: "%B %-d" }}</h4></div>
 			</div>
-
+			{% else %}
+			<div class="col-md-4">
+			</div>			
+			{% endif %}
+			
 			<div class="col-md-8 classdescription"><p>
 	        <h3>{{post.title}} with {{post.teacher}}</h3>
 			{% assign content = post.content | strip_newlines %}
@@ -34,7 +44,10 @@
 		        {{ post.content }}
 		    {% endif %} <p>Class starts at {{ post.date | date: "%I:%M %p" }}</p>
 			</div>			
-		</div>
+	
+			{% if post.next == nil or postday != nextday %}
+			</div>
+			{% endif %}
 		{% endif %} {% endfor %}
 		
 	</div>
