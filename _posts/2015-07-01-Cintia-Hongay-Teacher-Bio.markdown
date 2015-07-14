@@ -1,5 +1,4 @@
 ---
-layout: bio
 title:  "Cintia Hongay"
 date:   2015-07-01 12:00:00
 categories: instructor bio hongay
