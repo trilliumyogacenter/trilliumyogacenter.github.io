@@ -12,141 +12,48 @@
 </div>
 
 <div class="scrolling">
-<div class="container-fluid">
-	<div class="row">
-	<div class="span3">
-		<div id="miller-img" class="col-md-4">
-			<a href="#miller" class="thumbnail button" data-toggle="modal" data-target="#miller-bio">
-				<img src="images/miller.jpg" alt="Shannon Miller"><br/><h3>Shannon Miller</h3>
-			</a>
+	<div class="container-fluid">
+		<div class="row">
+			<div class="span3">
+
+				{% for post in site.posts %} {% if post.categories contains 'bio' %}
+
+				<div id="{{post.shortname}}-img" class="col-md-4">
+					<a href="#{{#post.shortname}}" class="thumbnail button"
+						data-toggle="modal" data-target="#{{post.shortname}}-bio"> <img
+						src="{{post.headshot}}" alt="{{post.title}}"><br />
+						<h3>{{post.title}}</h3>
+					</a>
+				</div>
+
+				<div class="modal fade teacher-bio" id="{{post.shortname}}-bio"
+					tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+					data-backdrop="false">
+					<div class="modal-dialog modal-lg" role="document">
+						<div class="modal-content">
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal"
+									aria-label="Close">
+									<span aria-hidden="true">&times;</span>
+								</button>
+								<h4 class="modal-title" id="myModalLabel">{{post.title}}</h4>
+							</div>
+							<div class="modal-body">{{ post.content }}</div>
+							<div class="modal-footer">
+								<button id="miller-bio-close" type="button"
+									class="btn btn-default" data-dismiss="modal">Close</button>
+							</div>
+						</div>
+					</div>
+				</div>
+
+
+				{% endif %} {% endfor %} <span class="profilestretch"></span>
+			</div>
+			<!--  end span3 -->
 		</div>
-		<div id="delavega-img" class="col-md-4">
-			<a href="#delavega" class="thumbnail button" data-toggle="modal" data-target="#delavega-bio"><img src="images/delavega.jpg"
-				alt="Terry de la Vega"><br/><h3>Terry de la Vega</h3></a>
-			
-		</div>
-		<div id="benvenuto-img" class="col-md-4">
-			<a href="#benvenuto" class="thumbnail button " data-toggle="modal" data-target="#benvenuto-bio"><img
-				src="images/benvenuto.jpg" alt="Jean Benvenuto"><br/><h3>Jean Benvenuto</h3></a>
-			
-		</div>
-		<span class="profilestretch"></span>
+		<!--  end row -->
 	</div>
-	</div>
-	<div class="row">
-		<div id="gurumantrakaur-img" class="col-md-4">
-			<a href="#gurumantrakaur" class="thumbnail button" data-toggle="modal" data-target="#gurumantrakaur-bio"><img
-				src="images/gurumantrakaur.jpg" alt="Hongay"><br/><h3>Gurumantra Kaur</h3></a>
-			
-		</div>
-		<div id="hongay-img" class="col-md-4">
-			<a href="#hongay" class="thumbnail button" data-toggle="modal" data-target="#hongay-bio"><img src="images/hongay.jpg"
-				alt="Hongay"><br/><h3>Cintia Hongay</h3></a>
-			
-		</div>
-		<span class="profilestretch"></span>
-	</div>
+	<!--  end container -->
 </div>
-
-
-	<div class="modal fade teacher-bio" id="miller-bio" tabindex="-1" role="dialog"
-		aria-labelledby="myModalLabel" data-backdrop="false">
-		<div class="modal-dialog modal-lg" role="document">
-			<div class="modal-content">
-				<div class="modal-header">
-					<button type="button" class="close" data-dismiss="modal"
-						aria-label="Close">
-						<span aria-hidden="true">&times;</span>
-					</button>
-					<h4 class="modal-title" id="myModalLabel">Shannon Miller</h4>
-				</div>
-				<div class="modal-body">{% include teachers/sm.html %}</div>
-				<div class="modal-footer">
-					<button id="miller-bio-close" type="button" class="btn btn-default"
-						data-dismiss="modal">Close</button>
-				</div>
-			</div>
-		</div>
-	</div>
-
-	<div class="modal fade teacher-bio" id="benvenuto-bio" tabindex="-1" role="dialog"
-		aria-labelledby="myModalLabel" data-backdrop="false">
-		<div class="modal-dialog modal-lg" role="document">
-			<div class="modal-content">
-				<div class="modal-header">
-					<button type="button" class="close" data-dismiss="modal"
-						aria-label="Close">
-						<span aria-hidden="true">&times;</span>
-					</button>
-					<h4 class="modal-title" id="myModalLabel">Jean Benvenuto</h4>
-				</div>
-				<div class="modal-body">{% include teachers/jb.html %}</div>
-				<div class="modal-footer">
-					<button id="miller-bio-close" type="button" class="btn btn-default"
-						data-dismiss="modal">Close</button>
-				</div>
-			</div>
-		</div>
-	</div>
-	
-	<div class="modal fade teacher-bio" id="delavega-bio" tabindex="-1" role="dialog"
-		aria-labelledby="myModalLabel" data-backdrop="false">
-		<div class="modal-dialog modal-lg" role="document">
-			<div class="modal-content">
-				<div class="modal-header">
-					<button type="button" class="close" data-dismiss="modal"
-						aria-label="Close">
-						<span aria-hidden="true">&times;</span>
-					</button>
-					<h4 class="modal-title" id="myModalLabel">Terry de la Vega</h4>
-				</div>
-				<div class="modal-body">{% include teachers/tdlv.html %}</div>
-				<div class="modal-footer">
-					<button id="miller-bio-close" type="button" class="btn btn-default"
-						data-dismiss="modal">Close</button>
-				</div>
-			</div>
-		</div>
-	</div>
-	
-		<div class="modal fade teacher-bio" id="gurumantrakaur-bio" tabindex="-1" role="dialog"
-		aria-labelledby="myModalLabel" data-backdrop="false">
-		<div class="modal-dialog modal-lg" role="document">
-			<div class="modal-content">
-				<div class="modal-header">
-					<button type="button" class="close" data-dismiss="modal"
-						aria-label="Close">
-						<span aria-hidden="true">&times;</span>
-					</button>
-					<h4 class="modal-title" id="myModalLabel">Gurumantra Kaur</h4>
-				</div>
-				<div class="modal-body">{% include teachers/gmk.html %}</div>
-				<div class="modal-footer">
-					<button id="miller-bio-close" type="button" class="btn btn-default"
-						data-dismiss="modal">Close</button>
-				</div>
-			</div>
-		</div>
-	</div>
-	
-	<div class="modal fade teacher-bio" id="hongay-bio" tabindex="-1" role="dialog"
-		aria-labelledby="myModalLabel" data-backdrop="false">
-		<div class="modal-dialog modal-lg" role="document">
-			<div class="modal-content">
-				<div class="modal-header">
-					<button type="button" class="close" data-dismiss="modal"
-						aria-label="Close">
-						<span aria-hidden="true">&times;</span>
-					</button>
-					<h4 class="modal-title" id="myModalLabel">Cintia Hongay</h4>
-				</div>
-				<div class="modal-body">{% include teachers/ch.html %}</div>
-				<div class="modal-footer">
-					<button id="miller-bio-close" type="button" class="btn btn-default"
-						data-dismiss="modal">Close</button>
-				</div>
-			</div>
-		</div>
-	</div>
-	
-</div>
+<!--  end scrolling -->
