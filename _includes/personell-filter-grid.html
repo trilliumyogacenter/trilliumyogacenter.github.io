@@ -1,0 +1,64 @@
+<div class="scrolling">
+	<div class="container">
+		{% assign counter = 0 %}
+		{% assign sorted = (site.posts | sort: 'title') %}
+		{% for post in sorted %} 
+		{% if post.categories contains {{include.category}} %}
+		{% capture indexmod %}{{ counter | modulo: 4 }}{% endcapture %}
+		{% capture counter %}{{counter | plus:1 }}{% endcapture %}
+		<!-- {{ indexmod }} -->
+		{% assign closed=false %}
+		{% if forloop.first or indexmod == "0" %}
+		<div class="row">
+			<div class="span4">
+		{% endif %}
+
+				<div id="{{post.shortname}}-img" class="col-md-3 col-sm-3 col-xs-6">
+					<a href="#{{#post.shortname}}" class="thumbnail button"
+						data-toggle="modal" data-target="#{{post.shortname}}-bio"> <img
+						src="{{post.headshot}}" alt="{{post.title}}"><br />
+						<h3>{{post.title}}</h3>
+					</a>
+				</div>
+				<div class="modal fade teacher-bio" id="{{post.shortname}}-bio"
+					tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+					data-backdrop="false">
+					<div class="modal-dialog modal-lg" role="document">
+						<div class="modal-content">
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal"
+									aria-label="Close">
+									<span aria-hidden="true">&times;</span>
+								</button>
+								<h4 class="modal-title" id="myModalLabel">{{post.title}}</h4>
+							</div>
+							<div class="modal-body">{{ post.content }}</div>
+							<div class="modal-footer">
+								<button id="miller-bio-close" type="button"
+									class="btn btn-default" data-dismiss="modal">Close</button>
+							</div>
+						</div>
+					</div>
+				</div>
+
+		{% if forloop.last or indexmod == "3" %}
+			{% assign closed=true %}
+				<span class="profilestretch"></span>
+				</div>
+				<!--  end span4 -->
+			</div> <!-- end row -->
+		{% endif %}
+
+				{% endif %} {% endfor %}
+				
+		{% if closed == false %}
+			{% assign closed=true %}
+				<span class="profilestretch"></span>
+				</div>
+				<!--  end span4 -->
+			</div> <!-- end row -->
+		{% endif %}
+	</div>
+	<!--  end container -->
+</div>
+<!--  end scrolling -->
