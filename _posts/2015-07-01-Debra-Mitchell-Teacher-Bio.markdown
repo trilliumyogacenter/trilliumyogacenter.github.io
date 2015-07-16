@@ -1,7 +1,7 @@
 ---
 title:  "Debra Mitchell"
 date:   2015-07-01 12:00:00
-categories: instructor bio mitchell
+categories: instructor counselor mitchell
 shortname: mitchell
 headshot: /images/mitchell.jpg
 phone: 1 (315) 244-3082

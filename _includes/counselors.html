@@ -1,7 +1,5 @@
 
-{% include section-head.html title="Yoga Teachers" subtitle="" splash="suryathon"%}
-
-
+{% include section-head.html title="Counselors" subtitle="" splash="vrksasana"%}
 
 
 <div class="scrolling">
@@ -9,7 +7,7 @@
 		{% assign counter = 0 %}
 		{% assign sorted = (site.posts | sort: 'title') %}
 		{% for post in sorted %} 
-		{% if post.categories contains 'bio' %}
+		{% if post.categories contains 'counselor' %}
 		{% capture indexmod %}{{ counter | modulo: 4 }}{% endcapture %}
 		{% capture counter %}{{counter | plus:1 }}{% endcapture %}
 		<!-- {{ indexmod }} -->
