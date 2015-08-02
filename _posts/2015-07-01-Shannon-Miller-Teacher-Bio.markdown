@@ -1,7 +1,7 @@
 ---
 title:  "Shannon Miller"
 date:   2015-07-01 12:00:00
-categories: instructor bio miller
+categories: instructor ownerbio miller
 shortname: miller
 headshot: /images/miller.jpg
 ---

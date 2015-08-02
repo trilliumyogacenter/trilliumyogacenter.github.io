@@ -1,7 +1,7 @@
-<div class="scrolling">
-	<div class="container">
+
+
 		{% assign counter = 0 %}
-		{% assign sorted = (site.posts | sort: 'title') %}
+		{% assign sorted = (site.posts | sort: 'shortname') %}
 		{% for post in sorted %} 
 		{% if post.categories contains {{include.category}} %}
 		{% capture indexmod %}{{ counter | modulo: 4 }}{% endcapture %}
@@ -58,7 +58,5 @@
 				<!--  end span4 -->
 			</div> <!-- end row -->
 		{% endif %}
-	</div>
-	<!--  end container -->
-</div>
-<!--  end scrolling -->
+
+

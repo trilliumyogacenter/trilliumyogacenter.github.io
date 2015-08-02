@@ -1,7 +1,7 @@
 ---
 title:  "Cintia Hongay"
 date:   2015-07-01 12:00:00
-categories: instructor bio hongay
+categories: instructor teacherbio hongay
 shortname: hongay
 headshot: /images/hongay.jpg
 ---

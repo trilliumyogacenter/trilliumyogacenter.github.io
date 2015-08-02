@@ -118,3 +118,7 @@ input[type=submit]:active, input[type=submit]:focus {
 	background: rgb(234, 234, 234);
 	box-shadow: 0px -1px 1px #FFF inset, 0 0 0px 5px #E0E0E0;
 }
+
+.contact h1 {
+	text-align: center;
+}

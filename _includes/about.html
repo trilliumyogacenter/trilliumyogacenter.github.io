@@ -1,47 +1,80 @@
-
-<div class="fixed storefront">
-	<div class="sectiontext">
-		<img class="banner" src="images/trillium_logo_900_highlight.png" alt="logo"/>
-		<br> <br>
-		<div class="facebook-btn" >
-			<a class="btn btn-primary btn-block btn-lg round" href="https://www.facebook.com/pages/Trillium-Center-for-Yoga-Health/1585666391687863?fref=ts"> 
-				Love us on Facebook!
-			</a>
-		</div>
-	</div>
-
-</div>
-
 <div class="scrolling">
+		<div class="jumbotron nature">
 	<div class="container">
-		<div class="row">
-		<div class="span2">
-			<div class="col-md-6">
-				<h2>Location</h2>
-				<p>Conveniently located in downtown Potsdam, NY - centrally
-					located near SUNY Potsdam and Clarkson University in the foothills
-					of the Adirondacks.</p>
-				<address>
-					Downtown Potsdam<br/>
-					<a href="https://www.google.com/maps/place/25+Market+Street+Potsdam+NY+13676" target="_blank">25 Market Street<br> Potsdam, NY 13676<br></a>
-				</address>
-			</div>
-			<div class="col-md-6">
-				<h2>About</h2>
-				<p>Trillium Center for Yoga and Health, LLC was founded in 2015
-					by Shannon Miller, Terry de la Vega, and Jean Benvenuto to bring
-					together the best instructors across all varieties of yoga our
-					region has to offer.</p>
+			<div class="row full">
+				<div class="col-md-4 no-float logo">
+					<img class="" src="images/trillium_logo_900_highlight.png"
+						alt="logo" />
+				</div>
+				<div class="col-md-8 no-float">
+					<h1>Grand Opening Special</h1>
+					<p>
+						$75 one month unlimited classes during September 2015<br />Last
+						day to purchase: September 1!
+					</p>
+					<div class="facebook-btn">
+						<a class="btn btn-primary btn-block btn-lg round"
+							href="https://www.facebook.com/pages/Trillium-Center-for-Yoga-Health/1585666391687863?fref=ts">
+							Love us on Facebook! </a>
+					</div>
+				</div>
 
-
-			</div>
 		</div>
 		</div>
+		</div>
+	<div class="container">
+		
+		<h1>Special Two-Week Opening Schedule</h1>
+		<p>Introductory drop-in rate of <b>$10.00</b> from August 17 through August 30!</p>
 
-	</div>
+		{% assign today = 'now' | date: "%s" %}
+		{% assign count=0 %}
+		
+		{% for post in site.posts reversed %} 
+		{% assign posttime = {{post.date|date:"%s"}} %}
+		
+		{% if post.categories contains 'schedule' and post.categories contains 'intro' and {{posttime}} > {{today}} %}
+		
+		{% if count == 0 %}
+		{% capture firstday %}{{ post.date | date: "%A" }}{% endcapture %}
+		{% endif %}
+		
+		{% capture postday %}{{ post.date | date: "%A" }}{% endcapture %}
+		{% capture priorday %}{{ post.previous.date | date: "%A" }}{% endcapture %}
+		{% capture nextday %}{{ post.next.date | date: "%A" }}{% endcapture %}
+		
+		{% if post.previous == nil or postday != priorday %}
+
+			{% if count == 0 %}
+			<div class="row scheduledate notop">
+			{% else %}
+			<div class="row scheduledate">	
+			{% endif %}
 
 
+			{% assign count = count|plus:1%}
 
 
+			<div class="col-md-4 col-sm-4">
+				<div><h1>{{ postday }}</h1></div>
+				<div><h4>{{ post.date | date: "%B %-d" }}</h4></div>
+			</div>
+			<div class="col-md-8 col-sm-8 classdescription"><p>
+			{% endif %}
+			<div>
+				<h3>{{post.title}} with {{post.teacher}}</h3>
+				{% assign content = post.content | strip_newlines %}
+			    {% if content != "" %}
+			        {{ post.content }}
+			    {% endif %} <p>Class starts at {{ post.date | date: "%I:%M %p" }}</p>
+			</div>			
+			{% if post.next == nil or postday != nextday %}
+			</div>
+			</div>
+			{% endif %}
+		{% endif %}
+
+		{% endfor %}
 </div>
 
+</div>

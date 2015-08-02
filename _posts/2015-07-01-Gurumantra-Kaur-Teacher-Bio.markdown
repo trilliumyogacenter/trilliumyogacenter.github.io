@@ -1,7 +1,7 @@
 ---
 title:  "Gurumantra Kaur"
 date:   2015-07-01 12:00:00
-categories: instructor bio gmk
+categories: instructor teacherbio gmk
 shortname: gurumantrakaur
 headshot: /images/gurumantrakaur.jpg
 ---

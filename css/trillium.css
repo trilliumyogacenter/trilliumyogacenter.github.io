@@ -19,6 +19,15 @@ body, html {
 	height: 100%;
 }
 
+body {
+  padding-top: 40px;
+}
+@media (max-width: 979px) {
+  body {
+    padding-top: 0px;
+  }
+}
+
 a {
 	color: #792681;
 	text-decoration: none;
@@ -36,7 +45,7 @@ a {
 
 .trilliumnav {
 	background: rgba(255, 255, 255, 0.95);
-	font-size: large;
+	font-size: initial;
 }
 
 .trilliumnav  img {
@@ -189,6 +198,10 @@ a {
 	color: white;
 }
 
+.container  {
+	font-size: large;
+}
+
 .sectiontext a {
 	padding: 15px;
 	font-weight: bold;
@@ -204,6 +217,10 @@ a {
 
 .fixed.suryathon {
 	background-image: url("/images/suryathon4.jpg");
+}
+
+.fixed.neutral {
+	background-color: #ECF1EF;
 }
 
 .fixed.storefront {
@@ -650,7 +667,14 @@ address {
  	border-top: 1px solid #eee;
  	border-bottom: 1px solid #eee;
  }
- 
+
+ .scheduledate.notop {
+ 	border-top: none;
+ }
+
+  .scheduledate.notop {
+ 	border-bottom: none;
+ }
  .classdescription {
   min-height: 15rem;
  }
@@ -658,4 +682,45 @@ address {
 .classdescription p {
 	padding: 0rem;
 	font-size: large;
+}
+
+/**
+ * Jumbotrons 
+ */
+.jumbotron.nature {
+	background-size: cover;
+	background-image: url("/images/seneca-nature-trail.jpg");
+	color: #ECF1EF;
+}
+
+.jumbotron.nature p {
+	text-shadow: 1px 1px black;
+	font-weight: bold;
+
+	
+	text-align: center;
+	line-height: 1.25;
+	
+}
+
+.jumbotron.nature h1 {
+
+	text-align: center;
+	text-shadow: 2px 2px black;
+}
+
+.logo {
+	vertical-align: middle;
+
+}
+
+.row.full
+{
+    height: 100%;
+    display: table-row;
+}
+
+.col-md-4.no-float, .col-md-8.no-float {
+    float: none; /* thanks baxabbit */
+    display: table-cell;
 }
