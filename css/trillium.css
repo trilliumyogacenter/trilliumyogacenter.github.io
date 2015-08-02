@@ -693,7 +693,14 @@ address {
 	color: #ECF1EF;
 }
 
-.jumbotron.nature p {
+.jumbotron.center {
+	background-size: cover;
+	background-image: url("/images/storefront.png");
+	color: #ECF1EF;
+}
+
+
+.jumbotron p {
 	text-shadow: 1px 1px black;
 	font-weight: bold;
 
@@ -703,7 +710,7 @@ address {
 	
 }
 
-.jumbotron.nature h1 {
+.jumbotron h1 {
 
 	text-align: center;
 	text-shadow: 2px 2px black;
@@ -723,4 +730,8 @@ address {
 .col-md-4.no-float, .col-md-8.no-float {
     float: none; /* thanks baxabbit */
     display: table-cell;
+}
+
+.padded {
+	padding-top: 15p;
 }

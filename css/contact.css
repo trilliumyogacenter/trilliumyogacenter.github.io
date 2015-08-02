@@ -122,3 +122,18 @@ input[type=submit]:active, input[type=submit]:focus {
 .contact h1 {
 	text-align: center;
 }
+
+.fixed h1{
+		text-shadow: 2px 2px black;
+	
+}
+
+.fixed h2{
+		text-shadow: 2px 2px black;
+	
+}
+
+.fixed h3{
+		text-shadow: 2px 2px black;
+	
+}
