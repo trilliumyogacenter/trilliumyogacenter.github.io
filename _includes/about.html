@@ -63,10 +63,7 @@
 			{% endif %}
 			<div>
 				<h3>{{post.title}} with {{post.teacher}}</h3>
-				{% assign content = post.content | strip_newlines %}
-			    {% if content != "" %}
-			        {{ post.content }}
-			    {% endif %} <p>Class starts at {{ post.date | date: "%I:%M %p" }}</p>
+				<p>Class starts at {{ post.date | date: "%I:%M %p" }}</p>
 			</div>			
 			{% if post.next == nil or postday != nextday %}
 			</div>
