@@ -727,11 +727,23 @@ address {
     display: table-row;
 }
 
-.col-md-4.no-float, .col-md-8.no-float {
+.col-sm-4.no-float, .col-sm-8.no-float, .col-md-4.no-float, .col-md-8.no-float {
     float: none; /* thanks baxabbit */
     display: table-cell;
 }
 
 .padded {
 	padding-top: 15p;
+}
+
+.logo img {
+	width: 100%;
+}
+
+@media (max-width: 768px) {
+.logo img {
+	width: 250px;
+	margin-left: auto;
+	margin-right: auto;
+}
 }
