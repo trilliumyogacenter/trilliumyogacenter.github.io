@@ -703,7 +703,7 @@ address {
 .jumbotron p {
 	text-shadow: 1px 1px black;
 	font-weight: bold;
-
+	font-size: large;
 	
 	text-align: center;
 	line-height: 1.25;
@@ -711,7 +711,7 @@ address {
 }
 
 .jumbotron h1 {
-
+	font-size: xx-large;
 	text-align: center;
 	text-shadow: 2px 2px black;
 }
