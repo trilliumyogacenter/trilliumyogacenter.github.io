@@ -638,3 +638,56 @@ address {
 		width: 30rem;
 	}
 }
+
+
+/**
+ * Jumbotrons 
+ */
+.jumbotron.nature {
+	background-size: cover;
+	background-image: url("/images/seneca-nature-trail.jpg");
+	color: #ECF1EF;
+}
+
+.jumbotron.center {
+	background-size: cover;
+	background-image: url("/images/storefront.png");
+	color: #ECF1EF;
+}
+
+
+.jumbotron p {
+	text-shadow: 1px 1px black;
+	font-weight: bold;
+
+	
+	text-align: center;
+	line-height: 1.25;
+	
+}
+
+.jumbotron h1 {
+
+	text-align: center;
+	text-shadow: 2px 2px black;
+}
+
+.logo {
+	vertical-align: middle;
+
+}
+
+.row.full
+{
+    height: 100%;
+    display: table-row;
+}
+
+.col-md-4.no-float, .col-md-8.no-float {
+    float: none; /* thanks baxabbit */
+    display: table-cell;
+}
+
+.padded {
+	padding-top: 15p;
+}
