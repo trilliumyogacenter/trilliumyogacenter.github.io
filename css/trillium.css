@@ -175,6 +175,12 @@ a {
 	-o-background-size: cover;
 }
 
+@media only screen and (min-width: 1170px) {
+  .fixed {
+    background-attachment: fixed;
+  }
+}
+
 @media only screen and (min-width: 768px) {
 }
 
@@ -740,7 +746,7 @@ address {
 	width: 100%;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 992px) {
 .logo img {
 	width: 250px;
 	margin-left: auto;
