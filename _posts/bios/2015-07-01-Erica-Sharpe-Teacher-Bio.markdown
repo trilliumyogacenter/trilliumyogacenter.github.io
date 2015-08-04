@@ -1,6 +1,5 @@
 ---
 title:  "Erica Sharpe"
-date:   2015-07-01 12:00:00
 categories: instructor teacherbio sharpe
 shortname: sharpe
 headshot: /images/sharpe.jpg

@@ -492,6 +492,8 @@ address {
 .teacher-bio p {
 	padding: 5px;
 	margin-top: 2px;
+	font-size: medium;
+	line-height: 1.25;
 }
 
 /**

@@ -1,6 +1,5 @@
 ---
 title:  "Terry de la Vega"
-date:   2015-07-01 12:00:00
 categories: instructor ownerbio delavega
 shortname: delavega
 headshot: /images/delavega.jpg

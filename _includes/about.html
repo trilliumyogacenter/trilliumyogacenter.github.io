@@ -39,6 +39,30 @@
 		
 		{% if post.categories contains 'schedule' and post.categories contains 'intro' and {{posttime}} > {{today}} %}
 		
+		{% comment %}
+			-- Find the post that contains my class identification ...
+		{% endcomment %}
+		{% assign classpost = nil %}
+		{% for description in site.posts %}
+			{% if description.categories contains 'class' and description.classidentifier == post.classidentifier %}
+			{% assign classpost = description %}
+			{% break %}
+			{% endif %}
+		{% endfor %}
+		
+		{% comment %}
+			-- Find the post that contains the teacher bio ...
+		{% endcomment %}
+		{% assign teacherpost = nil %}
+		{% for description in site.posts %}
+			{% if description.categories contains 'teacherbio' or description.categories contains 'ownerbio' or description.categories contains 'couselorbio'  %}
+			{% if description.shortname == post.teacher %}
+			{% assign teacherpost = description %}
+			{% break %}
+			{% endif %} 
+			{% endif %} 
+		{% endfor %}
+		
 		{% if count == 0 %}
 		{% capture firstday %}{{ post.date | date: "%A" }}{% endcapture %}
 		{% endif %}
@@ -66,7 +90,21 @@
 			<div class="col-md-8 col-sm-8 classdescription"><p>
 			{% endif %}
 			<div>
-				<h3>{{post.title}} with {{post.teacher}}</h3>
+				<h3>
+				{% if classpost == nil %}
+				<h3>{{post.title}} 
+				{% else %}
+				<h3><a data-toggle="modal" data-target="#{{post.classidentifier}}-description">{{post.title}}</a>
+				{% endif %}
+				
+				with
+				
+				{% if teacherpost == nil %}
+				{{post.teacher}} 
+				{% else %}
+				<a data-toggle="modal" data-target="#{{teacherpost.shortname}}-bio">{{teacherpost.title}}</a>
+				{% endif %}
+				</h3>
 				<p>Class starts at {{ post.date | date: "%I:%M %p" }}</p>
 			</div>			
 			{% if post.next == nil or postday != nextday %}

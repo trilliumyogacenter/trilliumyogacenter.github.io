@@ -1,6 +1,5 @@
 ---
 title:  "Jean Benvenuto"
-date:   2015-07-01 12:00:00
 categories: instructor ownerbio benvenuto
 shortname: benvenuto
 headshot: /images/benvenuto.jpg

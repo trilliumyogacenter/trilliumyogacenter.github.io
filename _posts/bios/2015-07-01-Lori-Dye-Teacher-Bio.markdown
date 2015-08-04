@@ -1,6 +1,5 @@
 ---
 title:  "Lori Dye"
-date:   2015-07-01 12:00:00
 categories: instructor dye teacherbio
 shortname: dye
 headshot: /images/dye.png
