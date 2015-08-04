@@ -55,7 +55,7 @@
 		{% endcomment %}
 		{% assign teacherpost = nil %}
 		{% for description in site.posts %}
-			{% if description.categories contains 'teacherbio' or description.categories contains 'ownerbio' or description.categories contains 'couselorbio'  %}
+			{% if description.categories contains 'teacherbio' or description.categories contains 'ownerbio' or description.categories contains 'counselorbio'  %}
 			{% if description.shortname == post.teacher %}
 			{% assign teacherpost = description %}
 			{% break %}
