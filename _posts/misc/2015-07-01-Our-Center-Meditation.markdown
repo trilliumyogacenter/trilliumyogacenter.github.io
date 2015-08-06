@@ -1,7 +1,7 @@
 ---
-title:  "Healing Arts"
-date:   2015-07-01 12:00:03
+title:  "Meditation"
+date:   2015-07-01 12:00:04
 categories: center
 ---
-Healing arts practitioners provide therapeutic massage, medical yoga therapy, counseling, and Reiki.
+We offer classes in meditation. See our schedule for current class listings.
 
