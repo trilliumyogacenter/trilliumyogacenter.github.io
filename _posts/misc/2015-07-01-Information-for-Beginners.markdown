@@ -30,14 +30,13 @@ We offer two options for payment. Students may purchase a 10-class card for $120
 Yoga is best practiced 1-2 ours after a light meal. If you do eat before class, please limit yourself to something minimal, such as a piece of fruit or a yogurt. Please do not bring food the studio. 
 
 ##Water
-Feel free to bring a closed water bottle with you to class. We have a water cooler in the lobby area where you may fill your bottle. As a health matter, we encourage people to drink plenty of water. We do not sell disposable water bottles.
+Feel free to bring a closed water bottle with you to class. As a health matter, we encourage people to drink plenty of water. We do not sell disposable water bottles.
 
 ##Dress comfortably 
 Wear comfortable, stretchy clothing. Avoid any clothes or jewelry that constrict movement or breathing, especially at the waist and neck. 
 
 ##Yoga Gear
-For most classes, you will need a sticky mat, yoga blocks, a blanket, and a yoga strap for most classes. We provide all of these items for our students to collect before class starts. If you want to bring your own mat, that is fine.
-
+Trillium students may use the props provided in the entry area. For most classes you will need a sticky mat, blocks, a blanket, and a strap. You are welcome to bring your own mat or other props if you like.
 
 
 

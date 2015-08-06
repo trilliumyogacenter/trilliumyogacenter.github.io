@@ -13,7 +13,7 @@ Our Healing Arts Room is located at the rear of Trillium Center and is accessed 
 
 ### Terry de la Vega
 
-## Mental Health Counseling
+## Counseling
 
 ### Debra Mitchell
 

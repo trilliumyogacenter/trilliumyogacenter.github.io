@@ -4,4 +4,4 @@ categories: instructor teacherbio mackey
 shortname: mackey
 headshot: /images/missing-headshot.jpg
 ---
-Counselor biography coming soon!
+Teacher biography coming soon!

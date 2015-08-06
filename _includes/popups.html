@@ -27,7 +27,7 @@
 		{% endif %} {% endfor %}
 
 		{% for post in site.posts %} 
-		{% if post.categories contains 'teacherbio' or post.categories contains 'ownerbio' post.categories contains 'couselorbio' %}
+		{% if post.categories contains 'teacherbio' or post.categories contains 'ownerbio' or post.categories contains 'counselorbio' %}
 
 				<div class="modal fade teacher-bio" id="{{post.shortname}}-bio"
 					tabindex="-1" role="dialog" aria-labelledby="myModalLabel"

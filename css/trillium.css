@@ -296,7 +296,7 @@ a {
 		padding: 2em 0;
 		font-size: 20px;
 		font-size: 1.25rem;
-		line-height: 2;
+		line-height: 1.25;
 		font-weight: 300;
 	}
 }
@@ -727,34 +727,22 @@ address {
 	text-shadow: 2px 2px black;
 }
 
-.logo {
-	vertical-align: middle;
 
-}
-
-.row.full
+.row
 {
-    height: 100%;
-    display: table-row;
 }
 
-.col-sm-4.no-float, .col-sm-8.no-float, .col-md-4.no-float, .col-md-8.no-float {
-    float: none; /* thanks baxabbit */
-    display: table-cell;
-}
 
 .padded {
 	padding-top: 15p;
 }
 
-.logo img {
-	width: 100%;
-}
-
-@media (max-width: 992px) {
-.logo img {
-	width: 250px;
+.logo {
+	display: block;
+	width: 350px;
 	margin-left: auto;
 	margin-right: auto;
+	margin-bottom: 1em;
 }
-}
+
+

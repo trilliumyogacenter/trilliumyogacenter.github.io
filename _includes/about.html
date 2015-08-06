@@ -1,21 +1,14 @@
 <div class="scrolling">
 		<div class="jumbotron center">
 	<div class="container">
-			<div class="row ">
-				<div class="col-md-4  logo">
-					<img class="" src="images/trillium_logo_900_highlight.png"
+			<div class="row full">
+				<div class="col-md-12">
+					<img class="logo" src="images/trillium_logo_900_highlight.png"
 						alt="logo" />
+					<span style="width: 100%;"/>
 				</div>
-				<div class="col-md-8  ">
-					<h1>Grand Opening Special</h1>
-					<p>
-						$75 one month unlimited classes during September 2015<br />Last
-						day to purchase: September 1!
-					</p>
-				</div>
-
-		</div>
-				<div class="row">
+			</div>
+				<div class="row full">
 					<div class="col-md-12">
 					<div class="facebook-btn">
 						<a class="btn btn-primary btn-block btn-lg round"
@@ -27,9 +20,13 @@
 		</div>
 		</div>
 	<div class="container">
-		
+                                        <h1>Grand Opening Special</h1>
 		<h1>Special Two-Week Opening Schedule</h1>
 		<p>Introductory drop-in rate of <b>$10.00</b> from August 17 through August 30! Regular schedule and pricing begins September 1.</p>
+                                        <p>
+                                                $75 one month unlimited classes during September 2015. Last
+                                                day to purchase: September 1!
+                                        </p>		
 
 		{% assign today = 'now' | date: "%s" %}
 		{% assign count=0 %}

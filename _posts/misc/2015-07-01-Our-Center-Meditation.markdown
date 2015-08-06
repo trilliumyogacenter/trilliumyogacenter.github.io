@@ -1,5 +1,5 @@
 ---
-title:  "Meditation"
+title:  "Healing Arts"
 date:   2015-07-01 12:00:03
 categories: center
 ---
