@@ -24,10 +24,10 @@ Whether you arrive late, or on time, please enter the class as quietly as possib
 Students will need to sign a release before their first class. 
 
 ##Payment
-We offer two options for payment. Students may purchase a 10-class card for $120 dollars or a single class card for $15. A10-class card can be used for any ongoing class, so you may try a variety of classes or go to the same class for 10 sessions.  We accept cash or checks; at this time. 
+We offer two options for payment. Students may purchase a 10-class card for $120 dollars or a single class card for $15. A10-class card can be used for any ongoing class, so you may try a variety of classes or go to the same class for 10 sessions.  We accept cash or checks. 
 
 ##Food
-Yoga is best practiced 1-2 ours after a light meal. If you do eat before class, please limit yourself to something minimal, such as a piece of fruit or a yogurt. Please do not bring food the studio. 
+Yoga is best practiced 1-2 ours after a light meal. If you do eat before class, please limit yourself to something minimal, such as a piece of fruit or a yogurt. Please do not bring food into the studio. 
 
 ##Water
 Feel free to bring a closed water bottle with you to class. As a health matter, we encourage people to drink plenty of water. We do not sell disposable water bottles.

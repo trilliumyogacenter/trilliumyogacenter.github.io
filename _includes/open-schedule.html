@@ -1,0 +1,95 @@
+<div class="scrolling">
+	<div class="container">
+		<h1>Special Two-Week Opening Schedule</h1>
+		<p>Introductory drop-in rate of <b>$10.00</b> from August 17 through August 30! Regular schedule and pricing begins September 1.</p>
+    <p>
+                                                $75 one month unlimited classes during September 2015. Last
+                                                day to purchase: September 1!
+                                        </p>
+
+		{% assign today = 'now' | date: "%s" %}
+		{% assign count=0 %}
+
+		{% for post in site.posts reversed %}
+		{% assign posttime = {{post.date|date:"%s"}} %}
+
+		{% if post.categories contains 'schedule' and post.categories contains 'intro' and {{posttime}} > {{today}} %}
+
+		{% comment %}
+			-- Find the post that contains my class identification ...
+		{% endcomment %}
+		{% assign classpost = nil %}
+		{% for description in site.posts %}
+			{% if description.categories contains 'class' and description.classidentifier == post.classidentifier %}
+			{% assign classpost = description %}
+			{% break %}
+			{% endif %}
+		{% endfor %}
+
+		{% comment %}
+			-- Find the post that contains the teacher bio ...
+		{% endcomment %}
+		{% assign teacherpost = nil %}
+		{% for description in site.posts %}
+			{% if description.categories contains 'teacherbio' or description.categories contains 'ownerbio' or description.categories contains 'counselorbio'  %}
+			{% if description.shortname == post.teacher %}
+			{% assign teacherpost = description %}
+			{% break %}
+			{% endif %}
+			{% endif %}
+		{% endfor %}
+
+		{% if count == 0 %}
+		{% capture firstday %}{{ post.date | date: "%A" }}{% endcapture %}
+		{% endif %}
+
+		{% capture postday %}{{ post.date | date: "%A" }}{% endcapture %}
+		{% capture priorday %}{{ post.previous.date | date: "%A" }}{% endcapture %}
+		{% capture nextday %}{{ post.next.date | date: "%A" }}{% endcapture %}
+
+		{% if post.previous == nil or postday != priorday %}
+
+			{% if count == 0 %}
+			<div class="row scheduledate notop">
+			{% else %}
+			<div class="row scheduledate">
+			{% endif %}
+
+
+			{% assign count = count|plus:1%}
+
+
+			<div class="col-md-4 col-sm-4">
+				<div><h1>{{ postday }}</h1></div>
+				<div><h4>{{ post.date | date: "%B %-d" }}</h4></div>
+			</div>
+			<div class="col-md-8 col-sm-8 classdescription"><p>
+			{% endif %}
+			<div>
+				<h3>
+				{% if classpost == nil %}
+				<h3>{{post.title}}
+				{% else %}
+				<h3><a data-toggle="modal" data-target="#{{post.classidentifier}}-description">{{post.title}}</a>
+				{% endif %}
+
+				with
+
+				{% if teacherpost == nil %}
+				{{post.teacher}}
+				{% else %}
+				<a data-toggle="modal" data-target="#{{teacherpost.shortname}}-bio">{{teacherpost.title}}</a>
+				{% endif %}
+				</h3>
+				<p>Class starts at {{ post.date | date: "%I:%M %p" }}</p>
+			</div>
+			{% if post.next == nil or postday != nextday %}
+			</div>
+			</div>
+			{% endif %}
+		{% endif %}
+
+		{% endfor %}
+</div>
+
+</div>
