@@ -15,7 +15,7 @@
   <link rel="stylesheet" href="{{ "/css/trillium.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
-	
+
   <script src="{{ "/js/jquery-1.11.3.min.js" | prepend: site.baseurl }}"></script>
   <script type="text/javascript" src="{{ "/bootstrap-3.3.5-dist/js/bootstrap.min.js" | prepend: site.baseurl }}"></script>
   <script src="{{ "/js/jquery-validation-1.13.1/jquery.validate.min.js" | prepend: site.baseurl }}"></script>
@@ -31,30 +31,30 @@
 				$(item).addClass("errorLabel");
 			});
 		},
-		rules: 
-		{ 
-			name: 
+		rules:
+		{
+			name:
 			{
 				required: true,
 				minlength: 3
 			},
-			email: 
-			{ 
+			email:
+			{
 				required: function(element)
 				{
-					if(!$("#phone").val() == "") 
+					if(!$("#phone").val() == "")
 						return false;
 					else
 						return true;
-				}, 
-					email: true 
+				},
+					email: true
 			},
-			phone: 
+			phone:
 			{
 				required: true
-				
-			}, 
-			message: 
+
+			},
+			message:
 			{
 				required: true
 			}
@@ -64,50 +64,29 @@
 				required: "Please include your name.",
 				minlength: "Please ensure your name is longer than {0} characters.",
 				}
-			
+
 		}
 	});
-	
+
+
 	$("#generalcontact").click(function() {
 	    $("#teacher").val("All");
 	    $("#dLabel").html("General Questions and Comments");
 	});
 
-	$("#gmkcontact").click(function() {
-	    $("#teacher").val("Gurumantra Kaur");
-	    $("#dLabel").html("Gurumantra Kaur");
+  {% for post in site.posts %}
+  {% if post.categories contains 'ownerbio' or post.categories contains 'teacherbio' or post.categories contains 'counselorbio' %}
+  {% if post.email == nil %}
+  {% else %}
+  $("#{{post.shortname}}contact").click(function() {
+	    $("#teacher").val("{{post.title}}");
+	    $("#dLabel").html("{{post.title}}");
 	});
+  {% endif %}
+  {% endif %}
+  {% endfor %}
 
-	$("#smcontact").click(function() {
-	    $("#teacher").val("Shannon Miller");
-	    $("#dLabel").html("Shannon Miller");
-	});
 
-	$("#jbcontact").click(function() {
-	    $("#teacher").val("Jean Benvenuto");
-	    $("#dLabel").html("Jean Benvenuto");
-	});
-
-	$("#tdlvcontact").click(function() {
-	    $("#teacher").val("Terry de la Vega");
-	    $("#dLabel").html("Terry de la Vega");
-	});
-
-	$("#chcontact").click(function() {
-	    $("#teacher").val("Cintia Hongay");
-	    $("#dLabel").html("Cintia Hongay");
-	});
-	
-	$("#dmcontact").click(function() {
-	    $("#teacher").val("Debra Mitchell");
-	    $("#dLabel").html("Debra Mitchell");
-	});
-
-	$("#chcontact").click(function() {
-	    $("#teacher").val("Erica Sharpe");
-	    $("#dLabel").html("Erica Sharpe");
-	});
-	
 
 });</script>
 </head>
