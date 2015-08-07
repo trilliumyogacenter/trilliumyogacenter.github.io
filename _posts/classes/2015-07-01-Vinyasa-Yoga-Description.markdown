@@ -1,6 +1,6 @@
 ---
 title:  "Vinyasa Yoga"
-categories: class 
+categories: class
 classidentifier: vinyasa
 teacher: dye
 ---
