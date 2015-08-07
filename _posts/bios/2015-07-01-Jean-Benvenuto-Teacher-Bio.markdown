@@ -4,6 +4,7 @@ categories: instructor ownerbio benvenuto
 shortname: benvenuto
 headshot: /images/benvenuto.jpg
 email: jean@trilliumyogacenter.com
+phone: (315) 244-7953
 ---
 Retiring after twenty years of teaching reading, Jean pursued her passion for yoga, earning her certification through Kripalu Center for Yoga and Health in 2013. Jean has since offered classes locally at the Yoga Loft and Norwood Library. Also trained in evidence-based qigong with renowned master Dr. Yang Yang, Jean may infuse a qigong series into her yoga classes. Currently completing chair yoga certification, she hopes to offer classes in the Fall. She has completed additional training toward her 500 level certification that concentrated on alignment and assisting skills.
 
