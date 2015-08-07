@@ -6,6 +6,11 @@
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
+  <script src="{{ "/js/jquery-1.11.3.min.js" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "/bootstrap-3.3.5-dist/js/bootstrap.min.js" | prepend: site.baseurl }}"></script>
+  <script src="{{ "/js/jquery-validation-1.13.1/jquery.validate.min.js" | prepend: site.baseurl }}"></script>
+
+
   <link rel="icon" type="image/png" href="{{"/images/trillium.png" | prepend: site.baseurl}}" />
   <link rel="stylesheet" href="{{ "/bootstrap-3.3.5-dist/css/bootstrap.min.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/bootstrap-3.3.5-dist/css/bootstrap-theme.min.css" | prepend: site.baseurl }}">
@@ -16,77 +21,5 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 
-  <script src="{{ "/js/jquery-1.11.3.min.js" | prepend: site.baseurl }}"></script>
-  <script type="text/javascript" src="{{ "/bootstrap-3.3.5-dist/js/bootstrap.min.js" | prepend: site.baseurl }}"></script>
-  <script src="{{ "/js/jquery-validation-1.13.1/jquery.validate.min.js" | prepend: site.baseurl }}"></script>
 
-  <script type="text/javascript">
-  $(document).ready(function(){
-		$( "#frmContact" ).validate({
-		invalidHandler: function(event, validator)
-		{
-			var list = validator.errorList;
-			$.each(list, function(index, item)
-			{
-				$(item).addClass("errorLabel");
-			});
-		},
-		rules:
-		{
-			name:
-			{
-				required: true,
-				minlength: 3
-			},
-			email:
-			{
-				required: function(element)
-				{
-					if(!$("#phone").val() == "")
-						return false;
-					else
-						return true;
-				},
-					email: true
-			},
-			phone:
-			{
-				required: true
-
-			},
-			message:
-			{
-				required: true
-			}
-		},
-		messages: {
-			name: {
-				required: "Please include your name.",
-				minlength: "Please ensure your name is longer than {0} characters.",
-				}
-
-		}
-	});
-
-
-	$("#generalcontact").click(function() {
-	    $("#teacher").val("All");
-	    $("#dLabel").html("General Questions and Comments");
-	});
-
-  {% for post in site.posts %}
-  {% if post.categories contains 'ownerbio' or post.categories contains 'teacherbio' or post.categories contains 'counselorbio' %}
-  {% if post.email == nil %}
-  {% else %}
-  $("#{{post.shortname}}contact").click(function() {
-	    $("#teacher").val("{{post.title}}");
-	    $("#dLabel").html("{{post.title}}");
-	});
-  {% endif %}
-  {% endif %}
-  {% endfor %}
-
-
-
-});</script>
 </head>

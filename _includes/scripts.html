@@ -1,0 +1,70 @@
+
+<script type="text/javascript">
+$(document).ready(function(){
+  $( "#frmContact" ).validate({
+  invalidHandler: function(event, validator)
+  {
+    var list = validator.errorList;
+    $.each(list, function(index, item)
+    {
+      $(item).addClass("errorLabel");
+    });
+  },
+  rules:
+  {
+    name:
+    {
+      required: true,
+      minlength: 3
+    },
+    email:
+    {
+      required: function(element)
+      {
+        if(!$("#phone").val() == "")
+          return false;
+        else
+          return true;
+      },
+        email: true
+    },
+    phone:
+    {
+      required: true
+
+    },
+    message:
+    {
+      required: true
+    }
+  },
+  messages: {
+    name: {
+      required: "Please include your name.",
+      minlength: "Please ensure your name is longer than {0} characters.",
+      }
+
+  }
+});
+
+
+$("#generalcontact").click(function() {
+    $("#teacher").val("All");
+    $("#dLabel").html("General Questions and Comments");
+});
+
+{% for post in site.posts %}
+{% if post.categories contains 'ownerbio' or post.categories contains 'teacherbio' or post.categories contains 'counselorbio' %}
+{% if post.email == nil %}
+{% else %}
+$("#{{post.shortname}}contact").click(function() {
+    $("#teacher").val("{{post.title}}");
+    $("#dLabel").html("{{post.title}}");
+});
+{% endif %}
+{% endif %}
+{% endfor %}
+
+
+
+});</script>
