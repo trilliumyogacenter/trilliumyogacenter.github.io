@@ -1,9 +1,9 @@
 ---
-title:  "Debra Mitchell"
+title:  "Debra Mitchell, MSW, LCSW-R"
 categories: instructor counselorbio teacherbio mitchell
 shortname: mitchell
 headshot: /images/mitchell.jpg
-phone: 1 (315) 244-3082
+phone: (315) 244-3082
 ---
 Debra Mitchell has over 25 years experience in the areas of psychology and self- development.  She has devoted much of her life to the healing and spiritual process since learning transcendental meditation at the age of 17.  One of her greatest joys is to support and help others on their own unique life journey.
 

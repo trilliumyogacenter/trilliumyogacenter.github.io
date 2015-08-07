@@ -1,6 +1,6 @@
 
 
-		{% for post in site.posts %} 
+		{% for post in site.posts %}
 		{% if post.categories contains 'class' %}
 
 				<div class="modal fade teacher-bio" id="{{post.classidentifier}}-description"
@@ -15,7 +15,9 @@
 								</button>
 								<h4 class="modal-title" id="myModalLabel">{{post.title}}</h4>
 							</div>
-							<div class="modal-body">{{ post.content }}</div>
+							<div class="modal-body">
+								{{post.content}}
+							</div>
 							<div class="modal-footer">
 								<button id="miller-bio-close" type="button"
 									class="btn btn-default" data-dismiss="modal">Close</button>
@@ -26,7 +28,7 @@
 
 		{% endif %} {% endfor %}
 
-		{% for post in site.posts %} 
+		{% for post in site.posts %}
 		{% if post.categories contains 'teacherbio' or post.categories contains 'ownerbio' or post.categories contains 'counselorbio' %}
 
 				<div class="modal fade teacher-bio" id="{{post.shortname}}-bio"
@@ -41,7 +43,37 @@
 								</button>
 								<h4 class="modal-title" id="myModalLabel">{{post.title}}</h4>
 							</div>
-							<div class="modal-body">{{ post.content }}</div>
+							<div class="modal-body">
+										{{ post.content }}
+
+										{% if post.email == nil and post.phone == nil and post.facebook == nil %}
+										{% else %}
+										<h3>Contact information</h3>
+										<div class="row">
+											<div class="col-md-6 col-sm-6">
+												{% if post.email == nil %}
+												{% else %}
+												<p><a href="mailto:{{post.email}}">Send me an e-mail!</a></p>
+												{% endif %}
+												{% if post.phone == nil %}
+												{% else %}
+												<p>Call me: {{post.phone}}</p>
+												{% endif %}
+											</div>
+											<div class="col-md-6 col-sm-6">
+										{% if post.facebook == nil %}
+										{% else %}
+										<div class="facebook-btn">
+											<a class="btn btn-primary btn-md round"
+												href="https://www.facebook.com/pages/Trillium-Center-for-Yoga-Health/1585666391687863?fref=ts">
+												Love me on Facebook! </a>
+										</div>
+										{% endif %}
+										</div>
+								    </div>
+										{% endif %}
+
+							</div>
 							<div class="modal-footer">
 								<button id="miller-bio-close" type="button"
 									class="btn btn-default" data-dismiss="modal">Close</button>

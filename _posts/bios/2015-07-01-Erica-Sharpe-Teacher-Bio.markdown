@@ -3,6 +3,8 @@ title:  "Erica Sharpe"
 categories: instructor teacherbio sharpe
 shortname: sharpe
 headshot: /images/sharpe.jpg
+phone: (518) 681-2580
+email: ericashrp@gmail.com 
 ---
 During the practice of yoga we become present within ourselves. We become aware of our every movement, thought, and intention; of every brand new moment. Importantly, we practice non-judgment during this deep awareness. Through tuning in to the breath as we move and observe, we focus the mind, welcome new experiences, and nurture patience, compassion and curiosity. Physical pains disappear and worry falls out of sight. The mind is still.
 

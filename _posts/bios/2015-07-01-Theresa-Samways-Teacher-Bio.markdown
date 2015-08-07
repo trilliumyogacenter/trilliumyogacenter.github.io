@@ -1,5 +1,5 @@
 ---
-title:  "Theresa Samways"
+title:  "Theresa Samways, LCSW"
 categories: instructor counselorbio mitchell
 shortname: samways
 headshot: /images/missing-headshot.jpg
