@@ -27,7 +27,7 @@
 								<h3>Class description</h3>
 								{{post.content}}
 								<h3>About this class</h3>
-								<p>This is {% if post.type == 'session' %}a session{% else %}an on-going{% endif %} class, and
+								<p>This is {% if post.type == 'session' %}a session{% else %}an on-going{% endif %} class{% if post.number == nill %}{%else%} with {{post.number}} classes{% endif %}, and
 								{% if post.dropins == 'no' %} is closed{%else%} is open to{%endif%} to drop-ins.
 								{% if post.fee == nil %}
 								{% else %}
