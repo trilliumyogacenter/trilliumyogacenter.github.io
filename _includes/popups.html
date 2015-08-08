@@ -2,6 +2,14 @@
 
 		{% for post in site.posts %}
 		{% if post.categories contains 'class' %}
+				{% for teacher in site.posts %}
+				{% if teacher.categories contains 'teacherbio' or teacher.categories contains 'ownerbio' or teacher.categories contains 'counselorbio' %}
+					{% if teacher.shortname == post.teacher %}
+						{% assign teacherpost = teacher %}
+						{% break %}
+					{% endif %}
+				{% endif %}
+				{% endfor %}
 
 				<div class="modal fade teacher-bio" id="{{post.classidentifier}}-description"
 					tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
@@ -13,10 +21,19 @@
 									aria-label="Close">
 									<span aria-hidden="true">&times;</span>
 								</button>
-								<h4 class="modal-title" id="myModalLabel">{{post.title}}</h4>
+								<h2 class="modal-title" id="myModalLabel">{{post.title}} with {{teacherpost.title}}</h2>
 							</div>
 							<div class="modal-body">
+								<h3>Class description</h3>
 								{{post.content}}
+								<h3>About this class</h3>
+								<p>This is {% if post.type == 'session' %}a session{% else %}an on-going{% endif %} class, and
+								{% if post.dropins == 'no' %} is closed{%else%} is open to{%endif%} to drop-ins.
+								{% if post.fee == nil %}
+								{% else %}
+
+								The class fee is {{post.fee}}.</p>
+								{% endif %}
 							</div>
 							<div class="modal-footer">
 								<button id="miller-bio-close" type="button"

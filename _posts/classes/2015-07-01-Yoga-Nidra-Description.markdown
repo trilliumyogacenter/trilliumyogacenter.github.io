@@ -3,6 +3,8 @@ title:  "Yoga Nidra"
 categories: class
 classidentifier: yoganidra
 teacher: miller
+type: on-going
+dropins: yes
 ---
 **Evening Bliss with Yoga Nidra** - The first 45 minutes of the class will explore physical postures at a gentle to moderate pace. Do what you can. The second 45 minutes will explore the practice of Yoga Nidra, a deep, extended relaxation.
 
