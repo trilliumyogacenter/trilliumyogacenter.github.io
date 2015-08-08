@@ -27,13 +27,20 @@
 								<h3>Class description</h3>
 								{{post.content}}
 								<h3>About this class</h3>
-								<p>This is {% if post.type == 'session' %}a session{% else %}an on-going{% endif %} class{% if post.number == nill %}{%else%} with {{post.number}} classes{% endif %}, and
-								{% if post.dropins == 'no' %} is closed{%else%} is open to{%endif%} to drop-ins.
-								{% if post.fee == nil %}
-								{% else %}
+								<p>This is
+									{% if post.type == 'session' %}
+									a session class
+										{% if post.number == nill %}
+										{%else%} with {{post.number}} classes,
+										{% endif %} and
+										{% if post.dropins == 'no' %} is closed{%else%} is open to{%endif%} to drop-ins.
+										{% if post.fee == nil %}
+										{% else %}
+										The class fee is {{post.fee}}.</p>
+										{% endif %}
+								 {% else %}an on-going class.
+								 {% endif %}
 
-								The class fee is {{post.fee}}.</p>
-								{% endif %}
 							</div>
 							<div class="modal-footer">
 								<button id="miller-bio-close" type="button"
