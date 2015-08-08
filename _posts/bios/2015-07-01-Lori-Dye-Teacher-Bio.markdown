@@ -3,6 +3,8 @@ title:  "Lori Dye"
 categories: instructor dye teacherbio
 shortname: dye
 headshot: /images/dye.png
+email: LoriLynnDye@gamil.com
+phone: (315) 261-0156
 ---
 Lori has been practicing yoga for over 25 years. She loves sharing the sense of balance and wholeness that is cultivated through practice with others. When Lori found yoga, she was amazed and soon hooked by the overall feeling of peace and joy that came along with the physical benefits of a yoga practice.
 

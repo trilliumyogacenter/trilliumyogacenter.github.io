@@ -19,4 +19,4 @@ Offered by
 Offered by
 
 * <a data-toggle="modal" data-target="#mitchell-bio">Debra Mitchell, MSW, LCSW-R</a>
-* <a data-toggle="modal" data-target="#samways-bio">Theresa Samways</a>
+* <a data-toggle="modal" data-target="#samways-bio">Theresa Samways, LCSW</a>
