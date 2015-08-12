@@ -2,10 +2,11 @@
 title:  "Yoga Fit"
 categories: class
 classidentifier: yogafit
-teacher: honhay
+teacher: hongay
 type: session
 dropins: yes
 number: 5
+fee: $60
 ---
 A yoga smorgasbord that draws on elements of Iyengar, Kripalu, Kundalini, and Yoga sculpt to start your week with a positive outlook. Ideal for beginners, all levels welcome. Drop ins welcome.
 

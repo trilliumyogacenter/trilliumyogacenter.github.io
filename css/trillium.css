@@ -1,4 +1,4 @@
-/* http://meyerweb.com/eric/tools/css/reset/ 
+/* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
 */
@@ -227,6 +227,10 @@ a {
 	background-image: url("/images/suryathon4.jpg");
 }
 
+.fixed.partners {
+	background-image: url("/images/partners.jpeg");
+}
+
 .fixed.neutral {
 	background-color: #ECF1EF;
 }
@@ -250,7 +254,7 @@ a {
 
 @media only screen and (min-width: 768px) {
 	.fixed {
-		
+
 	}
 	.fixed h1, .fixed h2 {
 		font-size: 36px;
@@ -499,7 +503,7 @@ address {
  * TEACHER PROFILE THUMBS
  */
 .profileblocks {
-	
+
 }
 
 .profile-thumb  img {
@@ -511,7 +515,7 @@ address {
 }
 
 .profileblock {
-	
+
 }
 
 .profilestretch {
@@ -546,7 +550,7 @@ address {
 }
 
 /**
- * CONTACT FORM STYLE OVERRIDES 
+ * CONTACT FORM STYLE OVERRIDES
  */
 .contactreset {
 	width: 70%;
@@ -596,7 +600,7 @@ address {
 }
 
 .button:hover {
-	
+
 }
 
 .overlay {
@@ -655,7 +659,7 @@ address {
 }
 
 /**
- * FACEBOOK BTN 
+ * FACEBOOK BTN
  */
 .facebook-btn {
 	display: block;
@@ -672,7 +676,7 @@ address {
 /**
  * SChedule
  */
- 
+
  .scheduledate {
  	border-top: 1px solid #eee;
  	border-bottom: 1px solid #eee;
@@ -688,14 +692,14 @@ address {
  .classdescription {
   min-height: 15rem;
  }
- 
+
 .classdescription p {
 	padding: 0rem;
 	font-size: large;
 }
 
 /**
- * Jumbotrons 
+ * Jumbotrons
  */
 .jumbotron.nature {
 	background-size: cover;
@@ -714,10 +718,10 @@ address {
 	text-shadow: 1px 1px black;
 	font-weight: bold;
 	font-size: large;
-	
+
 	text-align: center;
 	line-height: 1.25;
-	
+
 }
 
 .jumbotron h1 {
@@ -743,5 +747,3 @@ address {
 	margin-right: auto;
 	margin-bottom: 1em;
 }
-
-

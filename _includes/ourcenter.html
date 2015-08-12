@@ -1,17 +1,17 @@
 
 
-{% include section-head.html identification="center" title="Our Center" subtitle="" splash="suryathon"%}
+{% include section-head.html identification="center" title="Our Center" subtitle="" splash="partners"%}
 
 
 <div class="scrolling">
 	<div class="container">
-	
-	
-		{% for post in site.posts reversed %} 
-	
-		{% if post.categories contains 'center'  %}		
 
-		<div class="row">	
+
+		{% for post in site.posts reversed %}
+
+		{% if post.categories contains 'center'  %}
+
+		<div class="row">
 				<h3>{{post.title}}</h3>
 			        {{ post.content }}
 		</div>
@@ -19,9 +19,7 @@
 		{% endif %}
 
 		{% endfor %}
-	
-	
+
+
 	</div>
 </div>
-
-
