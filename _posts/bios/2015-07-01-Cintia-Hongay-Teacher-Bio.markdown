@@ -1,5 +1,5 @@
 ---
-title:  "Cintia Hongay"
+title:  "Cintia Hongay, PhD"
 categories: instructor teacherbio hongay
 shortname: hongay
 headshot: /images/hongay.jpg
