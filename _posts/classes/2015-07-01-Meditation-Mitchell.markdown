@@ -14,4 +14,4 @@ Integrated into the meditations will also be teachings around breath awareness, 
 
 The class is appropriate for the Beginner student and also for the more advanced student who wishes to deepen their practice.
 
-Mondays - 11-12:15pm;  Sept 14, 21, 28, Oct 5, 19, 26
+Mondays - 11-12:00pm; Debra will be available until 12:15 for questions. 6 week Session 9/21-11/2, no class 10/12
