@@ -1,11 +1,11 @@
 ---
-title:  "Yoga for Strength and Hip Opening"
+title:  "Happy Hour Yoga"
 categories: class
 classidentifier: strengthandhip
-teacher: barkley
+teacher: barklay
 type: on-going
 dropins: yes
 ---
-The focus of this class is to build strength, increase body awareness, and to bring release to the hip and lower back muscles. The first half of the class is active and strength building. The second half involves gentle and relaxing hip opening sequences. This class is appropriate for all levels.
+Kick your weekend off right! Happy Hour Yoga is a fun class for all levels using energetic music. The first half of class will focus on active postures to build strength, and the second half will feature a slow relaxing sequence aimed at relieving tension in the body and mind.
 
 Fridays 5:30pm-6:30pm

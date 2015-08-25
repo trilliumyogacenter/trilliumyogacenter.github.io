@@ -1,0 +1,7 @@
+---
+title:  "Slow Flow"
+teacher: benvenuto
+date:   2015-08-31 17:00
+classidentifier: gentleflow
+categories: instructor schedule benvenuto intro
+---
