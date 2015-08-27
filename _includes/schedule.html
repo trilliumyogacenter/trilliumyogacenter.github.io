@@ -5,70 +5,109 @@
 
 <div class="scrolling">
 	<div class="container">
-		<div class="container">
+		{% assign today = 'now' | date: "%s" %}
+		{% assign thisday = 'now' | date: "%A" %}
+		{% assign count=0 %}
+
+		<!-- {{today|date:"%A"|downcase}} -->
+		{% for test in site.categories.{{today|date:"%A"|downcase}} %}
+			<!-- {{test.title}} -->
+		{% endfor %}
+
+		{% for post in site.categories.schedule reversed %}
+			{% assign posttime = {{post.date|date:"%s"}} %}
+			{% assign postday = {{post.date|date:"%A"}} %}
+
+			{% if {{posttime}} >= {{today}} %}
+			{% if post.categories contains 'intro' %}
+				{%comment%}Dont process intro posts here ... those are different {%endcomment%}
+			{% else %}
+
+			{% if post.previous == nil or postday != priorday %}
+				{% if count == 0 %}
+				{% capture firstday %}{{ post.date | date: "%A" }}{% endcapture %}
+				{% endif %}
+
+				{% capture postday %}{{ post.date | date: "%A" }}{% endcapture %}
+				{% capture priorday %}{{ post.previous.date | date: "%A" }}{% endcapture %}
+				{% capture nextday %}{{ post.next.date | date: "%A" }}{% endcapture %}
+
+				{% if count == 0 %}
+				<div class="row scheduledate notop">
+				{% else %}
+				<div class="row scheduledate">
+				{% endif %}
+
+				{% assign count = count|plus:1%}
+				<div class="col-md-4 col-sm-4">
+					<div><h1>{{ postday }}</h1></div>
+				</div>
+				<div class="col-md-8 col-sm-8 classdescription"><p>
+			{% endif %}
+
+
+				{% for class in post.classes %}
+					{% comment %}
+					-- Find the post that contains my class identification ...
+					{% endcomment %}
+					{% assign classid = class.classidentifier %}
+					{% assign classpost = nil %}
+					{% for description in site.posts %}
+						{% if description.categories contains 'class' and description.classidentifier == classid %}
+							{% assign classpost = description %}
+							{% break %}
+						{% endif %}
+					{% endfor %}
+
+					{% comment %}
+						-- Find the post that contains the teacher bio ...
+					{% endcomment %}
+					{% assign teacherpost = nil %}
+					{% for description in site.posts %}
+						{% if description.categories contains 'teacherbio' or description.categories contains 'ownerbio' or description.categories contains 'counselorbio'  %}
+						{% if description.shortname == class.teacher %}
+						{% assign teacherpost = description %}
+						{% break %}
+						{% endif %}
+						{% endif %}
+					{% endfor %}
+
+
+						<div>
+							<h3>
+							{% if classpost == nil %}
+							{{class.classidentifier}}
+							{% else %}
+							<a data-toggle="modal" data-target="#{{post.classidentifier}}-description">{{classpost.title}}</a>
+							{% endif %}
+							with
+
+							{% if teacherpost == nil %}
+							{{class.teacher}}
+							{% else %}
+							<a data-toggle="modal" data-target="#{{teacherpost.shortname}}-bio">{{teacherpost.title}}</a>
+							{% endif %}
+							</h3>
+							{% capture classtime %}{{ post.date | date: "%F"}} {{ class.time }}{% endcapture %}
+							<!-- CLASSTIME: {{classtime}} -->
+							<p>Class starts at {{ classtime | date: "%I:%M %p" }}</p>
+						</div>
+			{% endfor %}
+			{% if post.next == nil or postday != nextday %}
+			{% endif %}
 
 		</div>
-		{% assign today = 'now' | date: "%s" %}
-		
-		{% assign count=0 %}
-		{% for post in site.posts reversed %} 
-		{% assign posttime = {{post.date|date:"%s"}} %}
-		<!--  {{post.date|date:"%s"}} > {{today}}  -->
-		{% if post.categories contains 'schedule' and {{posttime}} > {{today}} %}
-		
-		
-		{% comment %}
-			-- Find the post that contains my class identification ...
-		{% endcomment %}
-		{% assign classid = post.classidentifier %}
-		{% assign classpost = nil %}
-		{% for description in site.posts %}
-			{% if description.categories contains 'class' and description.classidentifier == classid %}
-			{% assign classpost = description %}
-			{% break %}
-			{% endif %}
-		{% endfor %}
-				
-		{% if count == 0 %}
-		{% capture firstday %}{{ post.date | date: "%A" }}{% endcapture %}
+		</div>
+
+
+
 		{% endif %}
-		
-		{% capture postday %}{{ post.date | date: "%A" }}{% endcapture %}
-		{% capture priorday %}{{ post.previous.date | date: "%A" }}{% endcapture %}
-		{% capture nextday %}{{ post.next.date | date: "%A" }}{% endcapture %}
-		
-			{% if post.previous == nil or postday != priorday %}
-			{% assign count = count|plus:1%}
-			<div class="row scheduledate">
-			<div class="col-md-4 col-sm-4">
-				<div><h1>{{ postday }}</h1></div>
-				<div><h4>{{ post.date | date: "%B %-d" }}</h4></div>
-			</div>
-			<div class="col-md-8 col-sm-8 classdescription"><p>
-			{% endif %}
-			<div>
-				{% if classpost == nil %}
-				<h3>{{post.title}} with {{post.teacher}}</h3>
-				{% else %}
-				<h3><a data-toggle="modal" data-target="#{{post.classidentifier}}-description">{{post.title}}</a> with {{post.teacher}}</h3>
-				{% endif %}
-				{% assign content = post.content | strip_newlines %}
-			    {% if content != "" %}
-			        {{ post.content }}
-			    {% endif %} <p>Class starts at {{ post.date | date: "%I:%M %p" }}</p>
-			</div>			
-			{% if post.next == nil or postday != nextday %}
-			</div>
-			</div>
-			{% endif %}
 		{% endif %}
 
-		<!-- {{nextday}} == {{firstday}} -->
+
 		{% if count > 1 and nextday == firstday %} {% break %} {% endif %}
 		{% endfor %}
-		
+
 	</div>
 
 </div>
-
-

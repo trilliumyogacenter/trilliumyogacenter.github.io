@@ -1,0 +1,21 @@
+---
+title:  "Tuesday"
+date:   2015-07-31 00:00:00
+categories: tuesday fall schedule
+classes:
+  - classidentifier: littlelotus
+    teacher: harris
+    time: 9:30 AM
+  - classidentifier: Boomer Yoga
+    teacher: benvenuto
+    time: 11:00 AM
+  - classidentifier: tabata
+    teacher: sharlow
+    time: 4:00 PM
+  - classidentifier: Active Boomer Yoga 50+
+    teacher: benvenuto
+    time: 5:15 PM
+  - classidentifier: kundalini
+    teacher: gurumantrakaur
+    time: 7:00 PM
+---

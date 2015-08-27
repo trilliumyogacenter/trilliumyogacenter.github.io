@@ -1,0 +1,225 @@
+
+<div class="scrolling">
+	<div class="container">
+		<h1>Upcoming Class Schedule</h1>
+
+		{% assign today = 'now' | date: "%s" %}
+		{% assign count=0 %}
+
+		{% for datevalue in site.datenumbers %}
+			{% assign day = {{today|date:"%A"|downcase}} %}
+			{% if datevalue.day == day %}
+				{% assign startindex = datevalue.value %}
+				{% break %}
+			{% endif %}
+		{% endfor %}
+
+		<!-- STARTING AT INDEX: {{startindex}} -->
+		{% for index in ({{startindex}}..6) %}
+			{% assign schedulepost=nil %}
+			{% for datevalue in site.datenumbers %}
+				{% if datevalue.value == index %}
+					{% assign currentday = datevalue.day %}
+					{% break %}
+				{% endif %}
+			{% endfor %}
+
+			<!-- {{currentday}} -->
+			{% comment %}Now we can find the latest post tagged {{currentday}} {%endcomment%}
+			{% for post in site.categories.schedule %}
+				{% if post.categories contains 'intro' %}
+				{% else %}
+					{% if post.categories contains {{currentday}} %}
+						{% assign postdate = {{post.date | date: "%s" }} %}
+						{% if postdate <= today %}
+							{% assign schedulepost = post %}
+						{% endif %}
+					{% endif %}
+				{% endif %}
+			{% endfor %}
+
+			{% comment %} schedulepost is now the post to display! {% endcomment %}
+
+			<!-- new row -->
+			{% if index == startindex %}
+			<div class="row scheduledate notop">
+			{% else %}
+			<div class="row scheduledate">
+			{% endif %}
+
+			<div class="col-md-4 col-sm-4">
+				<div><h1>{{schedulepost.title}}</h1></div>
+			</div>
+			<div class="col-md-8 col-sm-8 classdescription">
+
+
+				{% for class in schedulepost.classes %}
+					{% comment %}
+					-- Find the post that contains my class identification ...
+					{% endcomment %}
+					{% assign classid = class.classidentifier %}
+					{% assign classpost = nil %}
+					{% for description in site.posts %}
+						{% if description.categories contains 'class' and description.classidentifier == classid %}
+							{% assign classpost = description %}
+							{% break %}
+						{% endif %}
+					{% endfor %}
+
+					{% comment %}
+						-- Find the post that contains the teacher bio ...
+					{% endcomment %}
+					{% assign teacherpost = nil %}
+					{% for description in site.posts %}
+						{% if description.categories contains 'teacherbio' or description.categories contains 'ownerbio' or description.categories contains 'counselorbio'  %}
+						{% if description.shortname == class.teacher %}
+						{% assign teacherpost = description %}
+						{% break %}
+						{% endif %}
+						{% endif %}
+					{% endfor %}
+
+
+						<div>
+							<h3>
+							{% if classpost == nil %}
+							{{class.classidentifier}}
+							{% else %}
+							<a data-toggle="modal" data-target="#{{classpost.classidentifier}}-description">{{classpost.title}}</a>
+							{% endif %}
+							with
+
+							{% if teacherpost == nil %}
+							{{class.teacher}}
+							{% else %}
+							<a data-toggle="modal" data-target="#{{teacherpost.shortname}}-bio">{{teacherpost.title}}</a>
+							{% endif %}
+							</h3>
+							{% capture classtime %}{{ post.date | date: "%F"}} {{ class.time }}{% endcapture %}
+							<!-- CLASSTIME: {{classtime}} -->
+							<p>Class begins at {{ classtime | date: "%I:%M %p" }}</p>
+						</div>
+			{% endfor %}
+
+
+			</div>
+
+			</div>
+			{% assign schedulepost = nil %}
+			<!-- end row -->
+		{% endfor %}
+
+		{% for index in (0..{{startindex}}) %}
+		  {% if index == startindex %}{%break%}{%endif%}
+			{% assign schedulepost=nil %}
+			{% for datevalue in site.datenumbers %}
+				{% if datevalue.value == index %}
+					{% assign currentday = datevalue.day %}
+					{% break %}
+				{% endif %}
+			{% endfor %}
+
+			<!-- {{currentday}} -->
+			{% comment %}Now we can find the latest post tagged {{currentday}} {%endcomment%}
+			{% for post in site.categories.schedule %}
+				{% if post.categories contains 'intro' %}
+				{% else %}
+					{% if post.categories contains {{currentday}} %}
+						{% assign postdate = {{post.date | date: "%s" }} %}
+						{% if postdate <= today %}
+							{% assign schedulepost = post %}
+						{% endif %}
+					{% endif %}
+				{% endif %}
+			{% endfor %}
+
+			{% comment %} schedulepost is now the post to display! {% endcomment %}
+
+			<!-- new row -->
+			{% if index == startindex %}
+			<div class="row scheduledate notop">
+			{% else %}
+			<div class="row scheduledate">
+			{% endif %}
+
+			<div class="col-md-4 col-sm-4">
+				<div><h1>{{schedulepost.title}}</h1></div>
+			</div>
+			<div class="col-md-8 col-sm-8 classdescription">
+
+
+				{% for class in schedulepost.classes %}
+					{% comment %}
+					-- Find the post that contains my class identification ...
+					{% endcomment %}
+					{% assign classid = class.classidentifier %}
+					{% assign classpost = nil %}
+					{% for description in site.posts %}
+						{% if description.categories contains 'class' and description.classidentifier == classid %}
+							{% assign classpost = description %}
+							{% break %}
+						{% endif %}
+					{% endfor %}
+
+					{% comment %}
+						-- Find the post that contains the teacher bio ...
+					{% endcomment %}
+					{% assign teacherpost = nil %}
+					{% for description in site.posts %}
+						{% if description.categories contains 'teacherbio' or description.categories contains 'ownerbio' or description.categories contains 'counselorbio'  %}
+						{% if description.shortname == class.teacher %}
+						{% assign teacherpost = description %}
+						{% break %}
+						{% endif %}
+						{% endif %}
+					{% endfor %}
+
+
+						<div>
+							<h3>
+							{% if classpost == nil %}
+							{{class.classidentifier}}
+							{% else %}
+							<a data-toggle="modal" data-target="#{{classpost.classidentifier}}-description">{{classpost.title}}</a>
+							{% endif %}
+							with
+
+							{% if teacherpost == nil %}
+							{{class.teacher}}
+							{% else %}
+							<a data-toggle="modal" data-target="#{{teacherpost.shortname}}-bio">{{teacherpost.title}}</a>
+							{% endif %}
+							</h3>
+							{% capture classtime %}{{ post.date | date: "%F"}} {{ class.time }}{% endcapture %}
+							<!-- CLASSTIME: {{classtime}} -->
+							<p>Class begins at {{ classtime | date: "%I:%M %p" }}</p>
+						</div>
+			{% endfor %}
+
+
+			</div>
+
+			</div>
+			{% assign schedulepost = nil %}
+			<!-- end row -->
+		{% endfor %}
+
+
+
+		<h2>How to register for classes</h2>
+    <p><b>Session Classes</b>: Contact the teacher of the class you wish to take. Teacher contact
+			information is located on the teacher information page which pops up when you click on the
+			teacher’s name. When you come to Trillium for the first time for a session class, you will
+			sign a registration form and a liability release form. You will pay the teacher for the full
+			session. Please note: Most teachers allow drop-in students to attend their session classes.
+			If the class is closed to drop-ins, it will be clearly stated in the class description.</p>
+		<p><b>On-going classes</b>: When you come to Trillium for the first time, you will sign a
+			registration form and a liability release form. You may pay for your class as a drop-in
+			student or the you may purchase a 10-class card. The 10 class card will be initialed by
+			the teacher every time you take a class. You may only use 10-class cards for ongoing classes.
+			Cards will stay at Trillium and you will be shown how to retrieve and use your card.</p>
+
+
+	</div>
+
+</div>

@@ -1,0 +1,18 @@
+---
+title:  "Thursday"
+date:   2015-08-06 00:00:00
+categories: thursday fall schedule
+classes:
+  - classidentifier: restorativeyoga
+    teacher: delavega
+    time: 10:00 AM
+  - classidentifier: vinyasa
+    teacher: dye
+    time: 12:00 PM
+  - classidentifier: tabata
+    teacher: sharlow
+    time: 4:00 PM
+  - classidentifier: yoganidra
+    teacher: miller
+    time: 6:30 PM
+---

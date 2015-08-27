@@ -1,0 +1,18 @@
+---
+title:  "Friday"
+date:   2015-08-07 00:00:00
+categories: friday fall schedule
+classes:
+  - classidentifier: hatha2
+    teacher: harris
+    time: 06:30 AM
+  - classidentifier: Drumming Circle
+    teacher: mackey
+    time: 10:30 AM
+  - classidentifier: happyhour
+    teacher: barklay
+    time: 5:30 PM
+  - classidentifier: dancevibe
+    teacher: mackey
+    time: 6:45 PM
+---

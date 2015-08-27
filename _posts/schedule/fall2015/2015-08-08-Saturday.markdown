@@ -1,0 +1,18 @@
+---
+title:  "Saturday"
+date:   2015-08-08 00:00:00
+categories: saturday fall schedule
+classes:
+  - classidentifier: beginners
+    teacher: delavega
+    time: 9:00 AM
+  - classidentifier: kundalini
+    teacher: gurumantrakaur
+    time: 10:30 AM
+  - classidentifier: vinyasa
+    teacher: dye
+    time: 12:15 PM
+  - classidentifier: Moderate-Advanced Hatha
+    teacher: sharpe
+    time: 4:00 PM
+---
