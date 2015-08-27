@@ -5,10 +5,10 @@ categories: monday fall schedule
 classes:
   - classidentifier: hatha2
     teacher: harris
-    time: 06:30
+    time: 06:30 AM
   - classidentifier: hatha
     teacher: miller
-    time: 08:30
+    time: 08:30 AM
   - classidentifier: meditation
     teacher: mitchell
     time: 11:00 AM

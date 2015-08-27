@@ -2,7 +2,8 @@
 <div class="scrolling">
 	<div class="container">
 		<h1>Upcoming Class Schedule</h1>
-
+		<p>Here's what's going over the next week!</p>
+		
 		{% assign today = 'now' | date: "%s" %}
 		{% assign count=0 %}
 
@@ -41,65 +42,18 @@
 			{% comment %} schedulepost is now the post to display! {% endcomment %}
 
 			<!-- new row -->
-			{% if index == startindex %}
 			<div class="row scheduledate notop">
-			{% else %}
-			<div class="row scheduledate">
-			{% endif %}
 
-			<div class="col-md-4 col-sm-4">
-				<div><h1>{{schedulepost.title}}</h1></div>
+			<div class="col-md-2 col-sm-2">
+				<div><h2>{{schedulepost.title}}</h2></div>
 			</div>
-			<div class="col-md-8 col-sm-8 classdescription">
+			</div>
+			<div class="row">
+				<div class="col-md-2 col-sm-2"></div>
+			<div class="col-md-10 col-sm-10 classdescription">
 
 
-				{% for class in schedulepost.classes %}
-					{% comment %}
-					-- Find the post that contains my class identification ...
-					{% endcomment %}
-					{% assign classid = class.classidentifier %}
-					{% assign classpost = nil %}
-					{% for description in site.posts %}
-						{% if description.categories contains 'class' and description.classidentifier == classid %}
-							{% assign classpost = description %}
-							{% break %}
-						{% endif %}
-					{% endfor %}
-
-					{% comment %}
-						-- Find the post that contains the teacher bio ...
-					{% endcomment %}
-					{% assign teacherpost = nil %}
-					{% for description in site.posts %}
-						{% if description.categories contains 'teacherbio' or description.categories contains 'ownerbio' or description.categories contains 'counselorbio'  %}
-						{% if description.shortname == class.teacher %}
-						{% assign teacherpost = description %}
-						{% break %}
-						{% endif %}
-						{% endif %}
-					{% endfor %}
-
-
-						<div>
-							<h3>
-							{% if classpost == nil %}
-							{{class.classidentifier}}
-							{% else %}
-							<a data-toggle="modal" data-target="#{{classpost.classidentifier}}-description">{{classpost.title}}</a>
-							{% endif %}
-							with
-
-							{% if teacherpost == nil %}
-							{{class.teacher}}
-							{% else %}
-							<a data-toggle="modal" data-target="#{{teacherpost.shortname}}-bio">{{teacherpost.title}}</a>
-							{% endif %}
-							</h3>
-							{% capture classtime %}{{ post.date | date: "%F"}} {{ class.time }}{% endcapture %}
-							<!-- CLASSTIME: {{classtime}} -->
-							<p>Class begins at {{ classtime | date: "%I:%M %p" }}</p>
-						</div>
-			{% endfor %}
+				{% include regular-schedule-day.html classes=schedulepost.classes %}
 
 
 			</div>
@@ -136,66 +90,17 @@
 			{% comment %} schedulepost is now the post to display! {% endcomment %}
 
 			<!-- new row -->
-			{% if index == startindex %}
 			<div class="row scheduledate notop">
-			{% else %}
-			<div class="row scheduledate">
-			{% endif %}
 
-			<div class="col-md-4 col-sm-4">
-				<div><h1>{{schedulepost.title}}</h1></div>
+			<div class="col-md-2 col-sm-2">
+				<div><h2>{{schedulepost.title}}</h2></div>
 			</div>
-			<div class="col-md-8 col-sm-8 classdescription">
+			</div>
+			<div class="row">
+				<div class="col-md-2 col-sm-2"></div>
+			<div class="col-md-10 col-sm-10 classdescription">
 
-
-				{% for class in schedulepost.classes %}
-					{% comment %}
-					-- Find the post that contains my class identification ...
-					{% endcomment %}
-					{% assign classid = class.classidentifier %}
-					{% assign classpost = nil %}
-					{% for description in site.posts %}
-						{% if description.categories contains 'class' and description.classidentifier == classid %}
-							{% assign classpost = description %}
-							{% break %}
-						{% endif %}
-					{% endfor %}
-
-					{% comment %}
-						-- Find the post that contains the teacher bio ...
-					{% endcomment %}
-					{% assign teacherpost = nil %}
-					{% for description in site.posts %}
-						{% if description.categories contains 'teacherbio' or description.categories contains 'ownerbio' or description.categories contains 'counselorbio'  %}
-						{% if description.shortname == class.teacher %}
-						{% assign teacherpost = description %}
-						{% break %}
-						{% endif %}
-						{% endif %}
-					{% endfor %}
-
-
-						<div>
-							<h3>
-							{% if classpost == nil %}
-							{{class.classidentifier}}
-							{% else %}
-							<a data-toggle="modal" data-target="#{{classpost.classidentifier}}-description">{{classpost.title}}</a>
-							{% endif %}
-							with
-
-							{% if teacherpost == nil %}
-							{{class.teacher}}
-							{% else %}
-							<a data-toggle="modal" data-target="#{{teacherpost.shortname}}-bio">{{teacherpost.title}}</a>
-							{% endif %}
-							</h3>
-							{% capture classtime %}{{ post.date | date: "%F"}} {{ class.time }}{% endcapture %}
-							<!-- CLASSTIME: {{classtime}} -->
-							<p>Class begins at {{ classtime | date: "%I:%M %p" }}</p>
-						</div>
-			{% endfor %}
-
+				{% include regular-schedule-day.html classes=schedulepost.classes %}
 
 			</div>
 
