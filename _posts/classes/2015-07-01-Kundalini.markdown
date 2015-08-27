@@ -19,4 +19,6 @@ mental acuity under strain.
 
 Kundalini Yoga is appropriate for all experience levels, including beginner and advanced students.
 
-Class is offered Tuesdays from 7:00P - 8:30P, and Saturdays from 10:30A - 12P, except 10/3/15, 11/7/15, 12/12/15, 1/23/16, 2/20/16, 3/5/16, 4/9/16, 5/7/16, and 5/21/16
+Class is offered Tuesdays from 7:00P - 8:30P, and Saturdays from 10:30A - 12P.
+
+There will be no class on the following dates: 9/12/15, 10/3/15, 11/7/15, 12/12/15, 1/23/16, 2/20/16, 3/5/16, 4/9/16, 5/7/16, and 5/21/16
