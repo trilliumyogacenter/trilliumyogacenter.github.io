@@ -3,7 +3,7 @@
 
 <div class="scrolling">
 	<div class="container">
-		{% for post in site.posts reversed %} 
+		{% for post in site.posts reversed %}
 		{% if post.categories contains 'beginners' %}
 			        {{ post.content }}
 		{% endif %}
@@ -14,4 +14,3 @@
 
 
 </div>
-

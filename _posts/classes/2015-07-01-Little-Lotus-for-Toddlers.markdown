@@ -2,7 +2,7 @@
 title:  "Little Lotus Yoga for Toddlers"
 categories: class
 classidentifier: littlelotus
-teacher: harris
+teacher: scafidimaguire
 type: session
 number: 8
 dropins: yes

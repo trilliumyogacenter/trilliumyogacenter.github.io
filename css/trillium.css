@@ -244,6 +244,11 @@ a {
 		url("https://upload.wikimedia.org/wikipedia/commons/2/2a/Vrksasana.jpg");
 }
 
+.fixed.mynewsplash {
+	background-image:
+		url("https://upload.wikimedia.org/wikipedia/commons/2/2a/Vrksasana.jpg");
+}
+
 .fixed.sauce {
 	background-image: url("images/sauce.jpg");
 }
