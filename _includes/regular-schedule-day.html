@@ -35,14 +35,14 @@
           {% if classpost == nil %}
           {{class.classidentifier}}
           {% else %}
-          <a data-toggle="modal" data-target="#{{classpost.classidentifier}}-description">{{classpost.title}}</a>
+          <a href="#schedule" data-toggle="modal" data-target="#{{classpost.classidentifier}}-description">{{classpost.title}}</a>
           {% endif %}
         </h3>
         <p>With
           {% if teacherpost == nil %}
           {{class.teacher}}
           {% else %}
-          <a data-toggle="modal" data-target="#{{teacherpost.shortname}}-bio">{{teacherpost.title}}</a>
+          <a href="#scheule" data-toggle="modal" data-target="#{{teacherpost.shortname}}-bio">{{teacherpost.title}}</a>
           {% endif %}
           {% if classpost.type == 'session' %}
           <p>This is a session class
