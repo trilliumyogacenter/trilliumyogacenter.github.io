@@ -1,5 +1,5 @@
 ---
-title:  "Hatha Yoga"
+title:  "Monday Hatha"
 categories: class
 classidentifier: hatha
 teacher: miller
