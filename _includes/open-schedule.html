@@ -70,7 +70,7 @@
 				{% if classpost == nil %}
 				<h3>{{post.title}}
 				{% else %}
-				<h3><a data-toggle="modal" data-target="#{{post.classidentifier}}-description">{{post.title}}</a>
+				<h3><a href="#schedule" data-toggle="modal" data-target="#{{post.classidentifier}}-description">{{post.title}}</a>
 				{% endif %}
 
 				with
@@ -78,7 +78,7 @@
 				{% if teacherpost == nil %}
 				{{post.teacher}}
 				{% else %}
-				<a data-toggle="modal" data-target="#{{teacherpost.shortname}}-bio">{{teacherpost.title}}</a>
+				<a href="#schedule" data-toggle="modal" data-target="#{{teacherpost.shortname}}-bio">{{teacherpost.title}}</a>
 				{% endif %}
 				</h3>
 				<p>Class starts at {{ post.date | date: "%I:%M %p" }}</p>
