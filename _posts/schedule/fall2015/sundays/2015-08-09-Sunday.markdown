@@ -6,7 +6,7 @@ classes:
   - classidentifier: yogafit
     teacher: hongay
     time: 10:30 AM
-  - classidentifier: hatha2
+  - classidentifier: sundayhatha
     teacher: harris
     time: 4:00 PM
 ---
