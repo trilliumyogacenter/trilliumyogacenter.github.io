@@ -1,8 +1,6 @@
 
-<div class="scrolling">
-	<div class="container">
-		<h1>Upcoming Class Schedule</h1>
-
+		<h1>Fall 2015 Class Schedule</h1>
+		<p>The Fall schedule begins Tuesday, September 1.</p>
 		{% assign today = 'now' | date: "%s" %}
 		{% assign count=0 %}
 
@@ -39,11 +37,7 @@
 			<div class="row">
 				<div class="col-md-2 col-sm-2"></div>
 			<div class="col-md-10 col-sm-10 classdescription">
-
-
 				{% include regular-schedule-day.html classes=schedulepost.classes %}
-
-
 			</div>
 
 			</div>
@@ -64,8 +58,3 @@
 			student or the you may purchase a 10-class card. The 10 class card will be initialed by
 			the teacher every time you take a class. You may only use 10-class cards for ongoing classes.
 			Cards will stay at Trillium and you will be shown how to retrieve and use your card.</p>
-
-
-	</div>
-
-</div>
