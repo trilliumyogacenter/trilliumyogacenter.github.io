@@ -2,21 +2,11 @@
 <div class="scrolling">
 	<div class="container">
 		<h1>Upcoming Class Schedule</h1>
-		<p>Here's what's going over the next week!</p>
-		
+
 		{% assign today = 'now' | date: "%s" %}
 		{% assign count=0 %}
 
-		{% for datevalue in site.datenumbers %}
-			{% assign day = {{today|date:"%A"|downcase}} %}
-			{% if datevalue.day == day %}
-				{% assign startindex = datevalue.value %}
-				{% break %}
-			{% endif %}
-		{% endfor %}
-<!-- -->
-		<!-- STARTING AT INDEX: {{startindex}} for time {{ 'now'|date:"%F"}} -->
-		{% for index in ({{startindex}}..6) %}
+		{% for index in (0..6) %}
 			{% assign schedulepost=nil %}
 			{% for datevalue in site.datenumbers %}
 				{% if datevalue.value == index %}
@@ -39,8 +29,6 @@
 				{% endif %}
 			{% endfor %}
 
-			{% comment %} schedulepost is now the post to display! {% endcomment %}
-
 			<!-- new row -->
 			<div class="row scheduledate notop">
 
@@ -62,53 +50,6 @@
 			{% assign schedulepost = nil %}
 			<!-- end row -->
 		{% endfor %}
-
-		{% for index in (0..{{startindex}}) %}
-		  {% if index == startindex %}{%break%}{%endif%}
-			{% assign schedulepost=nil %}
-			{% for datevalue in site.datenumbers %}
-				{% if datevalue.value == index %}
-					{% assign currentday = datevalue.day %}
-					{% break %}
-				{% endif %}
-			{% endfor %}
-
-			<!-- {{currentday}} -->
-			{% comment %}Now we can find the latest post tagged {{currentday}} {%endcomment%}
-			{% for post in site.categories.schedule %}
-				{% if post.categories contains 'intro' %}
-				{% else %}
-					{% if post.categories contains {{currentday}} %}
-						{% assign postdate = {{post.date | date: "%s" }} %}
-						{% if postdate <= today %}
-							{% assign schedulepost = post %}
-						{% endif %}
-					{% endif %}
-				{% endif %}
-			{% endfor %}
-
-			{% comment %} schedulepost is now the post to display! {% endcomment %}
-
-			<!-- new row -->
-			<div class="row scheduledate notop">
-
-			<div class="col-md-2 col-sm-2">
-				<div><h2>{{schedulepost.title}}</h2></div>
-			</div>
-			</div>
-			<div class="row">
-				<div class="col-md-2 col-sm-2"></div>
-			<div class="col-md-10 col-sm-10 classdescription">
-
-				{% include regular-schedule-day.html classes=schedulepost.classes %}
-
-			</div>
-
-			</div>
-			{% assign schedulepost = nil %}
-			<!-- end row -->
-		{% endfor %}
-
 
 
 		<h2>How to register for classes</h2>
