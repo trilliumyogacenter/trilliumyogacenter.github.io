@@ -11,7 +11,7 @@ github_username:  trilliumyogacenter
 
 # Build settings
 markdown: kramdown
-timezone: GMT
+timezone: America/New_York
 
 datenumbers:
   - day: monday
