@@ -14,7 +14,7 @@
 			{% endif %}
 		{% endfor %}
 
-		<!-- STARTING AT INDEX: {{startindex}} -->
+		<!-- STARTING AT INDEX: {{startindex}} for time {{ 'now'|date:"%F"}} -->
 		{% for index in ({{startindex}}..6) %}
 			{% assign schedulepost=nil %}
 			{% for datevalue in site.datenumbers %}
