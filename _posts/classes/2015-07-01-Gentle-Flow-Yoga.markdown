@@ -1,5 +1,5 @@
 ---
-title:  "Gentle Flow Yoga"
+title:  "Slow Flow Yoga"
 categories: class
 classidentifier: gentleflow
 teacher: benvenuto

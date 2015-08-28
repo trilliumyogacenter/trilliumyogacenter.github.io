@@ -12,6 +12,9 @@ classes:
   - classidentifier: meditation
     teacher: mitchell
     time: 11:00 AM
+  - classidentifier: gentleflow
+    teacher: benvenuto
+    time: 5:00 PM
   - classidentifier: dancevibe
     teacher: mackey
     time: 7:00 PM
