@@ -1,8 +1,8 @@
 ---
 title:  "Intermediate / Advanced Yoga"
 categories: class
-classidentifier: intermediateadvanced
-teacher: barklay
+classidentifier: intermediateadvanced2
+teacher: sharpe
 type: session
 dropins: yes
 fee: TBD
