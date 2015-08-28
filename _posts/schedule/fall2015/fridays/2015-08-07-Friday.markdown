@@ -3,9 +3,6 @@ title:  "Friday"
 date:   2015-08-07 00:00:00
 categories: friday fall schedule
 classes:
-  - classidentifier: Drumming Circle
-    teacher: mackey
-    time: 10:30 AM
   - classidentifier: happyhour
     teacher: barklay
     time: 5:30 PM
