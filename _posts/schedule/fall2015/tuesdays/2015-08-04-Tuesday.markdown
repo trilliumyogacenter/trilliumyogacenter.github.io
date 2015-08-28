@@ -6,13 +6,13 @@ classes:
   - classidentifier: littlelotus
     teacher: scafidimaguire
     time: 9:30 AM
-  - classidentifier: Boomer Yoga
+  - classidentifier: boomeryoga
     teacher: benvenuto
     time: 11:00 AM
   - classidentifier: tabata
     teacher: sharlow
     time: 4:00 PM
-  - classidentifier: Active Boomer Yoga 50+
+  - classidentifier: boomeryoga2
     teacher: benvenuto
     time: 5:15 PM
   - classidentifier: kundalini
