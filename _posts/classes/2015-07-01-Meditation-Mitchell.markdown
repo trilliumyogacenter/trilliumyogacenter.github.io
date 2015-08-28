@@ -5,7 +5,7 @@ classidentifier: meditation
 teacher: mitchell
 type: session
 number: 6
-fee: TBD
+fee: $72.00
 ---
 Come learn and experience a sampler of meditations including:
 Creative Visualization, Presence, Chakra Balancing, Oneness Deeksha.
