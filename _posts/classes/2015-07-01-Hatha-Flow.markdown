@@ -8,4 +8,4 @@ dropins: yes
 ---
 Reground and re-energize for the week ahead. We’ll move through a series of postures and link body and breath. Class will close with meditation and pranayama.
 
-Sundays 6:30am
+Mondays and Wednesdays 6:30am
