@@ -38,7 +38,7 @@ My intention as a Massage Therapist is to encourage awareness and understanding 
 
  * 60-90 minutes  $65 - $95
 
-### Choose to incorporate yogic philosophy and practice into your massage session.
+#### Choose to incorporate yogic philosophy and practice into your massage session.
 
 **Deep Relaxation - Nidra** (Divine Sleep)
 
