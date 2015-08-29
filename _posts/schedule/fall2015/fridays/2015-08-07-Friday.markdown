@@ -4,7 +4,7 @@ date:   2015-08-07 00:00:00
 categories: friday fall schedule
 classes:
   - classidentifier: happyhour
-    teacher: barklay
+    teacher: barkley
     time: 5:30 PM
   - classidentifier: dancevibe
     teacher: mackey

@@ -5,7 +5,7 @@ categories: healingarts
 ---
 Our Healing Arts Room is located at the rear of Trillium Center and is accessed privately through our back entrance. Appointments are scheduled with each provider. Please discuss fees with your provider.
 
-## Theraputic Massage
+## Therapeutic Massage
 Offered by
 
 * <a data-toggle="modal" data-target="#miller-bio">Shannon Miller, LMT</a>

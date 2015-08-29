@@ -1,5 +1,5 @@
 ---
-title:  "Theraputic Massage Services and Fees"
+title:  "Therapeutic Massage Services and Fees"
 date:   2015-08-28 12:00:00
 categories: healingartsdetails
 ---

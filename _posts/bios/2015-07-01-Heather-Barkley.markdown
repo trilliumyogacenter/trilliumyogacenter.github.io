@@ -1,7 +1,7 @@
 ---
-title:  "Heather Barklay"
-categories: instructor teacherbio barklay
-shortname: barklay
+title:  "Heather Barkley"
+categories: instructor teacherbio barkley
+shortname: barkley
 headshot: /images/missing-headshot.jpg
 phone: 315-262-5568
 email: heatherbarkley@icloud.com

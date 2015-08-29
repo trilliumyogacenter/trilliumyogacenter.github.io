@@ -2,7 +2,7 @@
 title:  "Happy Hour Yoga"
 categories: class
 classidentifier: happyhour
-teacher: barklay
+teacher: barkley
 type: on-going
 dropins: yes
 ---
