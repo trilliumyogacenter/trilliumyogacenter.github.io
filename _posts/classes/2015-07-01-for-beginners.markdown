@@ -1,5 +1,5 @@
 ---
-title:  "For Beginners"
+title:  "For Beginners - starts 9/12"
 categories: class
 classidentifier: beginners
 teacher: delavega

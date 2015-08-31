@@ -1,5 +1,5 @@
 ---
-title:  "Intermediate / Advanced Yoga"
+title:  "Intermediate / Advanced Yoga - starts 9/26"
 categories: class
 classidentifier: intermediateadvanced2
 teacher: sharpe

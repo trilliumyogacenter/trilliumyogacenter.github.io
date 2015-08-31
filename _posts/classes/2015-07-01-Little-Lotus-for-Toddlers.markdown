@@ -1,5 +1,5 @@
 ---
-title:  "Little Lotus Yoga for Toddlers"
+title:  "Little Lotus Yoga for Toddlers - starts 9/22"
 categories: class
 classidentifier: littlelotus
 teacher: scafidimaguire
