@@ -10,4 +10,4 @@ Get strong and feel great with this blend of yoga and Pilates. Focus on core mus
 
 Ongoing Class, three times each month, begins September 16.
 
-Wednesdays, 7pm-8pm, no class third week each month
+Wednesdays, 6:30pm-7:30pm, no class third week each month
