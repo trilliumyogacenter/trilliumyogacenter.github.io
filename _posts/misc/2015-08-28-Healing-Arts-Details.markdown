@@ -6,6 +6,7 @@ categories: healingartsdetails
 While massage may simply feel good, its health-giving benefits are well documented today. We can no longer deny the relationship between high stress levels and dis-ease in our culture and busy lives.
 
 **Massage may also:**
+
 * reduce or manage pain
 * relieve headaches
 * balance the nervous system
@@ -21,11 +22,13 @@ My intention as a Massage Therapist is to encourage awareness and understanding 
 ### Bodywork and Services
 
 **Swedish Massage**
+
 * 30 minutes - $35
 * 60 minutes - $60
 * 90 minutes - $90
 
 **Integrated Massage** (May include a combination of modalities, swedish, connective tissue, energy, reflexology, aromatherapy, hydrotherapy)
+
 * 30 minutes - $40
 * 60 minutes - $65
 * 90 minutes - $95

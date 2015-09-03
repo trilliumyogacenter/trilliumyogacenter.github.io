@@ -9,6 +9,7 @@ Our Healing Arts Room is located at the rear of Trillium Center and is accessed 
 Offered by
 
 * <a data-toggle="modal" data-target="#miller-bio">Shannon Miller, LMT</a>
+  * <a data-toggle="modal" data-target="#healingartsdetails-popup">Therapeutic Massage Services and Fees</a>
 
 ## Medical Yoga Therapy
 Offered by
