@@ -27,11 +27,10 @@ Some results that can be expected include:
 
 Karyn offers brief consultations free of charge by phone, email, or Facebook chat if you would like more information about what to expect from your healing.
 
-Contact information: 
+On Facebook:
 
-karyn@karyncrispo.com
 https://www.facebook.com/spiritmamajoy?ref=hl
+
+On the web:
+
 http://karyncrispo.com/
-
-
-Call me: 617-901-5348
