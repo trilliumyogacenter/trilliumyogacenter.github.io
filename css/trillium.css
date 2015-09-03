@@ -504,6 +504,11 @@ address {
 	line-height: 1.25;
 }
 
+.teacher-bio li {
+	font-size: medium;
+	line-height: 1.25;
+}
+
 /**
  * TEACHER PROFILE THUMBS
  */
