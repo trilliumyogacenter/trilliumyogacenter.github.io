@@ -8,16 +8,16 @@ Our Healing Arts Room is located at the rear of Trillium Center and is accessed 
 ## Therapeutic Massage
 Offered by
 
-* <a data-toggle="modal" data-target="#miller-bio">Shannon Miller, LMT</a>
-  * <a data-toggle="modal" data-target="#healingartsdetails-popup">Therapeutic Massage Services and Fees</a>
+* <a href="#" data-toggle="modal" data-target="#miller-bio">Shannon Miller, LMT</a>
+  * <a href="#" data-toggle="modal" data-target="#healingartsdetails-popup">Therapeutic Massage Services and Fees</a>
 
 ## Medical Yoga Therapy
 Offered by
 
-* <a data-toggle="modal" data-target="#delavega-bio">Terry de la Vega, NP, CYN</a>
+* <a href="#" data-toggle="modal" data-target="#delavega-bio">Terry de la Vega, NP, CYN</a>
 
 ## Counseling
 Offered by
 
-* <a data-toggle="modal" data-target="#mitchell-bio">Debra Mitchell, MSW, LCSW-R</a>
-* <a data-toggle="modal" data-target="#samways-bio">Theresa Samways, LCSW</a>
+* <a href="#" data-toggle="modal" data-target="#mitchell-bio">Debra Mitchell, MSW, LCSW-R</a>
+* <a href="#" data-toggle="modal" data-target="#samways-bio">Theresa Samways, LCSW</a>
