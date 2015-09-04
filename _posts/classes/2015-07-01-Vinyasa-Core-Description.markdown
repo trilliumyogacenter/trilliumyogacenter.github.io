@@ -1,7 +1,9 @@
 ---
-title:  "Vinyasa Yoga"
+title:  "Core Vinyasa Yoga"
 categories: class
-classidentifier: vinyasa
+classidentifier: vinyasacore
 teacher: dye
 ---
-This class moves through a sequence of poses with a strong emphasis on the breath, building strength and stamina, with a mix of standing, balancing, and floor poses. Students will be encouraged to cultivate a quiet mind in stillness and in motion. Modifications provided for all levels. Ongoing.
+In this class we will move with the breath through core strengthening poses. The focus will be on strengthening, lengthening and toning muscles in the belly, back, buttocks, hip flexors and hamstrings to build core strength, balance and flexibility. This class is suitable for all levels. Ongoing.
+
+Thursdays 12 pm-1 pm
