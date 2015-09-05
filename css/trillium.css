@@ -239,10 +239,6 @@ a {
 	background-image: url("/images/storefront.png");
 }
 
-.fixed.banner {
-	background-image: url("/images/banner.png");
-}
-
 .fixed.vrksasana {
 	background-image:
 		url("https://upload.wikimedia.org/wikipedia/commons/2/2a/Vrksasana.jpg");
@@ -723,7 +719,7 @@ address {
 
 .jumbotron.center {
 	background-size: cover;
-	background-image: url("/images/banner.png");
+	background-image: url("/images/storefront.png");
 	color: #ECF1EF;
 }
 
