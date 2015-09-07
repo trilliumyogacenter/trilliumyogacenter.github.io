@@ -5,7 +5,7 @@ categories: center
 ---
 #Our Center
 
-##Our Vision
+###Our Vision
 
 Our vision is to create a sacred space for yoga and healing arts in the middle of our beloved downtown Potsdam, NY. We welcome people of all ages, from all walks of life,
 to find a supportive community here.
