@@ -7,23 +7,23 @@ categories: healingarts
 
 Our Healing Arts Room is located at the rear of Trillium Center and is accessed privately through our back entrance. Appointments are scheduled with each provider. Please discuss fees with your provider.
 
-## Therapeutic Massage
+### Therapeutic Massage
 Offered by
 
 * <a href="#" data-toggle="modal" data-target="#miller-bio">Shannon Miller, LMT</a>
 * <a href="#" data-toggle="modal" data-target="#healingartsdetails-popup">Therapeutic Massage Services and Fees</a>
 
-## Medical Yoga Therapy
+### Medical Yoga Therapy
 Offered by
 
 * <a href="#" data-toggle="modal" data-target="#delavega-bio">Terry de la Vega, NP, CYN</a>
 
-## Reiki
+### Reiki
 Offered by
 
 * <a href="#" data-toggle="modal" data-target="#crispo-bio">Karyn Crispo, Reiki Practitioner</a>
 
-## Counseling
+### Counseling
 Offered by
 
 * <a href="#" data-toggle="modal" data-target="#mitchell-bio">Debra Mitchell, MSW, LCSW-R</a>
