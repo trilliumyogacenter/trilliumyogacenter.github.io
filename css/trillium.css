@@ -239,6 +239,10 @@ a {
 	background-image: url("/images/storefront.png");
 }
 
+.fixed.topbanner {
+	background-image: url("/images/topbanner.png");
+}
+
 .fixed.vrksasana {
 	background-image:
 		url("https://upload.wikimedia.org/wikipedia/commons/2/2a/Vrksasana.jpg");
