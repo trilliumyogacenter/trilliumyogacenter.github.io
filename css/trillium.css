@@ -253,6 +253,11 @@ a {
 		url("https://upload.wikimedia.org/wikipedia/commons/2/2a/Vrksasana.jpg");
 }
 
+.fixed.beginnerssplash {
+	background-image:
+		url("/images.beginnerssplash.png");
+}
+
 .fixed.sauce {
 	background-image: url("images/sauce.jpg");
 }
