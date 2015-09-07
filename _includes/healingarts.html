@@ -1,13 +1,12 @@
-{% include section-head.html identification="healingarts" title="Healing Arts" subtitle="" splash="vrksasana"%}
+{% include section-head.html identification="healingarts" title="" subtitle="" splash="vrksasana"%}
 
 
 <div class="scrolling">
 	<div class="container">
-		{% for post in site.posts reversed %} 
+		{% for post in site.posts reversed %}
 		{% if post.categories contains 'healingarts' %}
 			        {{ post.content }}
 		{% endif %}
 		{% endfor %}
 	</div>
 </div>
-

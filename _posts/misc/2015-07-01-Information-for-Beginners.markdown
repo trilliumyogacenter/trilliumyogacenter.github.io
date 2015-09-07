@@ -1,8 +1,12 @@
 ---
-title:  "For Beginners"
+title:  ""
 date:   2015-07-01 12:00:00
 categories: beginners
 ---
+#Information for Beginners
+
+###Just Getting Started?
+
 If you have never taken a yoga class before it might feel a bit intimidating to walk into a yoga center for the first time. So that you will have some idea as to what to expect at Trillium, we offer this introduction.
 First of all, we are glad you are here! Being curious enough to come in and take a class is a great start. We want you to feel welcome. We are honored to be part of your beginning and continuing yoga journey.
 
