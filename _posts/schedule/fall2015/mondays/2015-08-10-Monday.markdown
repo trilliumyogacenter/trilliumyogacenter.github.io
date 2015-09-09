@@ -17,5 +17,5 @@ classes:
     time: 5:00 PM
   - classidentifier: dancevibe
     teacher: mackey
-    time: 6:45 PM
+    time: 7:00 PM
 ---
