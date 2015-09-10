@@ -1,0 +1,19 @@
+---
+layout: trillium
+head: trillium-head.html
+simpleformtoken: 46b241b1bb51d1e85816689abbb6ceee
+---
+{% include site-head.html %}
+
+<div class="container">
+<h1>Current classes</h1>
+<ul>
+{% assign sorted_classes = (site.categories.class | sort: 'title') %}
+{% for post in sorted_classes %}
+    <li><a href="#" data-toggle="modal" data-target="#{{post.classidentifier}}-description">{{post.title}}</a></li>
+{% endfor %}
+</ul>
+</container>
+
+{% include popups.html %}
+{% include scripts.html %}
