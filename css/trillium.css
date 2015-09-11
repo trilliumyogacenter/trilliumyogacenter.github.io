@@ -258,6 +258,11 @@ a {
 		url("/images/beginners.png");
 }
 
+.fixed.healingarts {
+	background-image:
+		url("/images/healingarts.png");
+}
+
 .fixed.sauce {
 	background-image: url("images/sauce.jpg");
 }
