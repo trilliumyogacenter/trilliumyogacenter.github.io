@@ -231,6 +231,10 @@ a {
 	background-image: url("/images/partners.jpeg");
 }
 
+.fixed.teachers {
+	background-image: url("/images/teachers.png");
+}
+
 .fixed.neutral {
 	background-color: #ECF1EF;
 }
