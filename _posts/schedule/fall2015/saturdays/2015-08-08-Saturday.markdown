@@ -6,7 +6,7 @@ classes:
   - classidentifier: beginners
     teacher: delavega
     time: 9:00 AM
-  - classidentifier: kundalini
+  - classidentifier: kundalini2
     teacher: gurumantrakaur
     time: 10:30 AM
   - classidentifier: vinyasadetox
