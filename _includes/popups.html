@@ -56,7 +56,7 @@
 										{% if post.number == nill %}
 										{%else%} with {{post.number}} classes,
 										{% endif %} and
-										{% if post.dropins == 'no' %} is closed{%else%} is open to{%endif%} to drop-ins.
+										{% if post.dropins == 'no' %} is closed{%else%} is open {%endif%} to drop-ins.
 										{% if post.fee == nil %}
 										{% else %}
 										The session fee is {{post.fee}}.</p>
