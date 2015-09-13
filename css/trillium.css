@@ -235,6 +235,10 @@ a {
 	background-image: url("/images/teachers.png");
 }
 
+.fixed.counselors {
+	background-image: url("/images/counselors.png");
+}
+
 .fixed.neutral {
 	background-color: #ECF1EF;
 }
