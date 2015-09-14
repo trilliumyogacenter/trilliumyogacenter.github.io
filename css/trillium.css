@@ -239,6 +239,10 @@ a {
 	background-image: url("/images/counselors.png");
 }
 
+.fixed.fees {
+	background-image: url("/images/fees.png");
+}
+
 .fixed.neutral {
 	background-color: #ECF1EF;
 }
