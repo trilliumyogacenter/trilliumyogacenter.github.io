@@ -1,5 +1,5 @@
 ---
-title:  "Yoga Pilates Blend - starts 9/16"
+title:  "Yoga Pilates Blend"
 categories: class
 classidentifier: pilatesblend
 teacher: brant
