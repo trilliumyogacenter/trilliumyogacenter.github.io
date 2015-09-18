@@ -6,7 +6,7 @@ classes:
   - classidentifier: littlelotus
     teacher: scafidimaguire
     time: 9:30 AM
-  - classidentifier: boomeryoga
+  - classidentifier: boomeryoga2
     teacher: benvenuto
     time: 11:00 AM
   - classidentifier: tabata
