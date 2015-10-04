@@ -1,14 +1,14 @@
 ---
-title:  "Yoga Fit"
+title:  "Yoga Fit--(starts Nov. 1)"
 categories: class
 classidentifier: yogafit
 teacher: hongay
-type: session
+type: ongoing
 dropins: yes
-number: 5
-fee: $60
+number:
+fee:
 ---
 A yoga smorgasbord that draws on elements of Iyengar, Kripalu, Kundalini, and Yoga sculpt to start your week with a positive outlook. Ideal for beginners, all levels welcome. Drop ins welcome.
 
-Sunday mornings, September 6-October 4, 10:30-11:45 am
+Sunday mornings, 10:30-11:45 am
 Class will resume November 1 as an ongoing class.
