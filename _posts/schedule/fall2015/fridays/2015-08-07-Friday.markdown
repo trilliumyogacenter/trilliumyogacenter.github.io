@@ -6,7 +6,4 @@ classes:
   - classidentifier: happyhour
     teacher: barkley
     time: 5:30 PM
-  - classidentifier: dancevibe
-    teacher: mackey
-    time: 6:45 PM
 ---
