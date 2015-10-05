@@ -17,6 +17,7 @@ Offered by
 Offered by
 
 * <a href="#" data-toggle="modal" data-target="#delavega-bio">Terry de la Vega, NP, CYN</a>
+* <a href="#" data-toggle="modal" data-target="#yogatherapydetails-popup">Medical Yoga Therapy and Fees</a>
 
 ### Reiki
 Offered by
