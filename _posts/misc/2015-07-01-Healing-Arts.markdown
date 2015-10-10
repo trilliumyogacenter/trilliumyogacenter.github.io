@@ -22,7 +22,7 @@ Offered by
 ### Reiki
 Offered by
 
-* <a href="#" data-toggle="modal" data-target="#crispo-bio">Karyn Crispo, Reiki Practitioner</a>
+* <a href="#" data-toggle="modal" data-target="#crispo-bio">Karyn Crispo, Reiki Master</a>
 
 ### Counseling
 Offered by
