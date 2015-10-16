@@ -1,5 +1,5 @@
 ---
-title:  "Yoga Pilates Blend (No class Nov. 4 or third Wed. of the month)"
+title:  "Yoga Pilates Blend (No class 11/4 or 3rd Wed.)"
 categories: class
 classidentifier: pilatesblend
 teacher: brant
