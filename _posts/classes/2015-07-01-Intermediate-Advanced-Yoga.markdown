@@ -1,7 +1,5 @@
 ---
 title:  "Intermediate / Advanced Yoga"
-categories: class
-classidentifier: intermediateadvanced
 teacher: barklay
 type: session
 dropins: yes
