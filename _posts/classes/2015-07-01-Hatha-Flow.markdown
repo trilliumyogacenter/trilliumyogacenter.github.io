@@ -1,7 +1,7 @@
 ---
 title:  "Hatha Flow"
-categories: class
-classidentifier: 
+categories: 
+classidentifier:
 teacher: harris
 type: on-going
 dropins: yes
