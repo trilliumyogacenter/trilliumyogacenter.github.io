@@ -1,7 +1,5 @@
 ---
 title:  "Yoga Dance, Yoga Vibe"
-categories: class
-classidentifier: dancevibe
 teacher: mackey
 type: on-going
 dropins: yes
