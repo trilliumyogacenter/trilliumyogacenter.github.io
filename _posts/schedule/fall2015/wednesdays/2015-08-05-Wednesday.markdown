@@ -3,9 +3,6 @@ title:  "Wednesday"
 date:   2015-08-05 00:00:00
 categories: wednesday fall schedule
 classes:
-  - classidentifier: hatha2
-    teacher: harris
-    time: 06:30 AM
   - classidentifier: morningyoga
     teacher: benvenuto
     time: 08:30 AM
