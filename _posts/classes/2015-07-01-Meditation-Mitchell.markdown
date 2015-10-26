@@ -1,5 +1,5 @@
 ---
-title:  "Meditation Class - starts 9/21"
+title:  "Meditation Class - new session starts 11/16"
 categories: class
 classidentifier: meditation
 teacher: mitchell
