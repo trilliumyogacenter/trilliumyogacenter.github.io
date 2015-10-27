@@ -1,8 +1,7 @@
 ---
-title:  "Classic Hatha"
+title:  "Classic Hatha with Lori, Shannon, and Jean"
 categories: class
 classidentifier: classichatha
-teacher: dye,miller,benvenuto
 type: on-going
 dropins: yes
 ---
