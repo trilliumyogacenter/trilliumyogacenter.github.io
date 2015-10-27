@@ -6,7 +6,7 @@ classes:
   - classidentifier: classichatha
     teacher:
     time: 8:30 AM
-  - classidentifier: classichatha
+  - classidentifier: happyhour
     teacher: barkley
     time: 5:30 PM
 ---
