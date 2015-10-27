@@ -29,4 +29,4 @@ Traditional Chinese Medicine is effective at treating the individual not just th
 
 315-250-2018 
 
-<div><a href-"http://acupuncturebydesign.com">acupuncturebydesign.com</a></div>
+<div><a href="http://acupuncturebydesign.com">acupuncturebydesign.com</a></div>
