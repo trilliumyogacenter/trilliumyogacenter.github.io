@@ -26,5 +26,7 @@ Traditional Chinese Medicine is effective at treating the individual not just th
 * Circulatory Problems
  
 **Contact information:** 
-315.250.2018 
-acupuncturebydesign.com
+
+315-250-2018 
+
+<div><a href-"http://acupuncturebydesign.com">acupuncturebydesign.com</a></div>
