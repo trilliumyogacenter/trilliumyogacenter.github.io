@@ -3,7 +3,10 @@ title:  "Friday"
 date:   2015-08-07 00:00:00
 categories: friday fall schedule
 classes:
-  - classidentifier: happyhour
+  - classidentifier: classichatha
+    teacher:
+    time: 8:30 AM
+  - classidentifier: classichatha
     teacher: barkley
     time: 5:30 PM
 ---
