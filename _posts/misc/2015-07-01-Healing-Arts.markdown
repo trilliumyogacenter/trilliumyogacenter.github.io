@@ -29,3 +29,8 @@ Offered by
 
 * <a href="#" data-toggle="modal" data-target="#mitchell-bio">Debra Mitchell, MSW, LCSW-R</a>
 * <a href="#" data-toggle="modal" data-target="#samways-bio">Theresa Samways, LCSW</a>
+
+### Acupuncture
+Offered by
+* Michael Ayotte, MSTOM, L.A.c., Practitioner of Traditional Chinese Medicine, Licensed Acupuncturist 
+* <a href="#" data-toggle="modal" data-target="#acupuncturedetails-popup">Community Acupuncture details and Fees</a>
