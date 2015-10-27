@@ -12,4 +12,7 @@ classes:
   - classidentifier: gentleflow
     teacher: benvenuto
     time: 5:00 PM
+  - classidentifier: moderateflow
+    teacher: barkley
+    time: 7:00 PM
 ---
