@@ -34,4 +34,4 @@ Offered by
 Offered by
 
 * Michael Ayotte, MSTOM, L.A.c., Practitioner of Traditional Chinese Medicine, Licensed Acupuncturist 
-* <a href="#" data-toggle="modal" data-target="#acupuncturedetails-popup">Community Acupuncture details and Fees</a>
+* <a href="#" data-toggle="modal" data-target="#acupuncturedetails-popup">Community Acupuncture Details and Fees</a>
