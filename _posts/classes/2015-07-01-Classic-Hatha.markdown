@@ -2,6 +2,9 @@
 title:  "Classic Hatha"
 categories: class
 classidentifier: classichatha
+teacher: dye
+teacher: miller
+teacher: benvenuto
 type: on-going
 dropins: yes
 ---
