@@ -3,6 +3,9 @@ title:  "Thursday"
 date:   2015-08-06 00:00:00
 categories: thursday fall schedule
 classes:
+  - classidentifier: amvinyasa
+    teacher: dye
+    time: 8:30 AM
   - classidentifier: restorativeyoga
     teacher: delavega
     time: 10:00 AM
