@@ -9,7 +9,4 @@ classes:
   - classidentifier: kundalini2
     teacher: gurumantrakaur
     time: 10:30 AM
-  - classidentifier: intermediateadvanced2
-    teacher: sharpe
-    time: 4:00 PM
 ---

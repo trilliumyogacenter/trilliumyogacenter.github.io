@@ -1,7 +1,5 @@
 ---
-title:  "Intermediate / Advanced Yoga - starts 9/26"
-categories: class
-classidentifier: intermediateadvanced2
+title:  "Intermediate / Advanced Yoga"
 teacher: sharpe
 type: session
 dropins: yes

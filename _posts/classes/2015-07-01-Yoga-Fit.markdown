@@ -1,5 +1,5 @@
 ---
-title:  "Yoga Fit--(starts Nov. 1)"
+title:  "Yoga Fit"
 categories: class
 classidentifier: yogafit
 teacher: hongay
