@@ -9,9 +9,6 @@ classes:
   - classidentifier: restorativeyoga
     teacher: delavega
     time: 10:00 AM
-  - classidentifier: vinyasacore
-    teacher: dye
-    time: 12:00 PM
   - classidentifier: tabata
     teacher: sharlow
     time: 4:00 PM
