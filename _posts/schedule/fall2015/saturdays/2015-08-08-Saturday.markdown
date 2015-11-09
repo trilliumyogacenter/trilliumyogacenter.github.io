@@ -3,8 +3,8 @@ title:  "Saturday"
 date:   2015-08-08 00:00:00
 categories: saturday fall schedule
 classes:
-  - classidentifier: beginners
-    teacher: delavega
+  - classidentifier: communityyoga
+    teacher: multiple
     time: 9:00 AM
   - classidentifier: kundalini2
     teacher: gurumantrakaur

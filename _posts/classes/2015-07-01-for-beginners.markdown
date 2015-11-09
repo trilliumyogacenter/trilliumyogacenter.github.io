@@ -1,8 +1,6 @@
 ---
 title:  "For Beginners - starts 9/12"
 categories: class
-classidentifier: beginners
-teacher: delavega
 type: session
 fee: $90.00
 number: 8

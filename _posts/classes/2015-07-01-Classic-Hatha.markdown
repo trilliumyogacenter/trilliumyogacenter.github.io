@@ -1,7 +1,8 @@
 ---
-title:  "Classic Hatha with Lori, Shannon, and Jean"
+title:  "Classic Hatha"
 categories: class
 classidentifier: classichatha
+teacher: multiple
 type: on-going
 dropins: yes
 ---
