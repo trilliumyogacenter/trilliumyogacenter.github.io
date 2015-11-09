@@ -1,6 +1,5 @@
 ---
 title:  "For Beginners - starts 9/12"
-categories: class
 type: session
 fee: $90.00
 number: 8
