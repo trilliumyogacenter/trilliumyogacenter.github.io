@@ -3,8 +3,8 @@ title:  "Tuesday"
 date:   2015-07-31 00:00:00
 categories: tuesday fall schedule
 classes:
-  - classidentifier: littlelotus
-    teacher: scafidimaguire
+  - classidentifier: babyandme
+    teacher: dye
     time: 9:30 AM
   - classidentifier: boomeryoga2
     teacher: benvenuto

@@ -9,4 +9,7 @@ classes:
   - classidentifier: kundalini2
     teacher: gurumantrakaur
     time: 10:30 AM
+  - classidentifier: pregnancy
+    teacher: delevega
+    time: 1:00 PM
 ---
