@@ -17,4 +17,4 @@ Fridays, 11 am - 3:00 pm with Michael Ayotte MSTOM, L.A.c.
  
 <p><strong>Contact information:</strong><br /> 
 315-250-2018<br />
-<a style="font-size:16px" href="http://acupuncturebydesign.com">acupuncturebydesign.com</a></p>
+<a href="http://acupuncturebydesign.com"> <span style="font-size:16px"> acupuncturebydesign.com</span></a></p>
