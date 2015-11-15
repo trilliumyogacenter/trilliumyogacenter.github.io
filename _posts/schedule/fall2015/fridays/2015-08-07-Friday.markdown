@@ -8,7 +8,7 @@ classes:
     time: 8:30 AM
   - classidentifier: acupuncture
     teacher: Ayotte
-    time: 10:00 AM
+    time: 11:00 AM
   - classidentifier: happyhour
     teacher: barkley
     time: 5:30 PM
