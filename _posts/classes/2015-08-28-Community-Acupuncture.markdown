@@ -16,6 +16,5 @@ When individuals, friends, family, students, and co-workers arrive they will sit
 Fridays, 11 am - 3:00 pm with Michael Ayotte MSTOM, L.A.c.
  
 <p><strong>Contact information:</strong><br /> 
-315-250-2018</p> 
-
-<div><a href="http://acupuncturebydesign.com">acupuncturebydesign.com</a></div>
+315-250-2018<br />
+<a style="font-size:16px" href="http://acupuncturebydesign.com">acupuncturebydesign.com</a></p>
