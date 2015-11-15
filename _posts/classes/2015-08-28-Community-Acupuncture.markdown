@@ -6,8 +6,6 @@ classidentifier: acupuncture
 teacher: Ayotte
 type: on-going
 dropins: yes
-
-categories: acupuncturedetails
 ---
 Drop-in Fee $25.00
 
