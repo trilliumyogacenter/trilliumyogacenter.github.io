@@ -10,6 +10,6 @@ classes:
     teacher: gurumantrakaur
     time: 10:30 AM
   - classidentifier: pregnancy
-    teacher: delevega
+    teacher: delavega
     time: 1:00 PM
 ---
