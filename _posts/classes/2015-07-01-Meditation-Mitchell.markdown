@@ -1,5 +1,5 @@
 ---
-title:  "Meditation Class - new session starts 11/16"
+title:  "Meditation Class - new session starts in January"
 categories: class
 classidentifier: meditation
 teacher: mitchell
@@ -14,4 +14,4 @@ Integrated into the meditations will also be teachings around breath awareness, 
 
 The class is appropriate for the Beginner student and also for the more advanced student who wishes to deepen their practice.
 
-Mondays - 11-12:00pm; Debra will be available until 12:15 for questions. 6 week Session 11/16-12/21.
+Mondays - 11-12:00pm; Debra will be available until 12:15 for questions. 6 week Session.
