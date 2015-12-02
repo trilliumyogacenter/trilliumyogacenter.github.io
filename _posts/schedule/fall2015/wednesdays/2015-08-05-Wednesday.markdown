@@ -12,7 +12,4 @@ classes:
   - classidentifier: pilatesblend
     teacher: brant
     time: 6:30 PM
-  - classidentifier: vinyasa
-    teacher: dye
-    time: 8:00 PM
 ---
