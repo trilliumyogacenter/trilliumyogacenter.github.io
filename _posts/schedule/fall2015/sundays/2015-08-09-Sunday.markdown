@@ -6,6 +6,9 @@ classes:
   - classidentifier: yogafit
     teacher: hongay
     time: 10:30 AM
+  - classidentifier: acupuncture
+    teacher: Ayotte
+    time: 12:30 PM
   - classidentifier: sundayhatha
     teacher: harris
     time: 4:00 PM

@@ -1,5 +1,5 @@
 ---
-title:  "Yoga Pilates Blend (Class resumes 12/2, No class 3rd Wed.)"
+title:  "Yoga Pilates Blend (No class 3rd Wed.)"
 categories: class
 classidentifier: pilatesblend
 teacher: brant
@@ -8,6 +8,6 @@ dropins: yes
 ---
 Get strong and feel great with this blend of yoga and Pilates. Focus on core muscles and precise movements while completing multiple series of exercises and posture groupings. Exercises are progressively more challenging so students can work at their own level. This is a moderately challenging class, appropriate for beginners and those with yoga and/or Pilates experience.
 
-Ongoing Class, three times each month, resumes December 2.
+Ongoing Class, three times each month.
 
 Wednesdays, 6:30 pm-7:30 pm, no class third week each month
