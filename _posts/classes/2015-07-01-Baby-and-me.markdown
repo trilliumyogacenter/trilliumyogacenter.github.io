@@ -1,5 +1,5 @@
 ---
-title:  "Baby and Me Yoga (starts December 1)"
+title:  "Baby and Me Yoga (December 1 - December 22)"
 categories: class
 classidentifier: babyandme
 teacher: dye

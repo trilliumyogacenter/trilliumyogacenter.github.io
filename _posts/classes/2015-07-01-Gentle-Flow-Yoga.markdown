@@ -1,5 +1,5 @@
 ---
-title:  "Slow Flow Yoga"
+title:  "Slow Flow Yoga (last class December 28)"
 categories: class
 classidentifier: gentleflow
 teacher: benvenuto
