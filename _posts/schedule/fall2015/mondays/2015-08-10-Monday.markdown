@@ -9,6 +9,9 @@ classes:
   - classidentifier: meditation
     teacher: mitchell
     time: 11:00 AM
+  - classidentifier: yogabasics
+    teacher: benvenuto
+    time: 4:00 PM
   - classidentifier: gentleflow
     teacher: benvenuto
     time: 5:00 PM
