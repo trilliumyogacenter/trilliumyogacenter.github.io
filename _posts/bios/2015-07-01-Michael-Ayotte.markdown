@@ -2,7 +2,7 @@
 title:  "Michael Ayotte"
 categories: instructor counselorbio harris
 shortname: Ayotte
-headshot: /images/missing-headshot.jpg
+headshot: /images/headshots/missing-headshot.jpg
 email:
 ---
 Biographical information forthcoming.
