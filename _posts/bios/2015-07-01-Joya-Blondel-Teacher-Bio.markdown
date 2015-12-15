@@ -2,7 +2,7 @@
 title:  "Jenna Joya Blondel, Ph.D."
 categories: instructor counselorbio blondel
 shortname: blondel
-headshot: /images/headshots/blondel.jpg
+headshot: /images/headshots/blondel.jpeg
 email: jennajoya@gmail.com
 phone: (315) 322-8542
 ---
