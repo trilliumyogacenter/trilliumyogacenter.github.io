@@ -1,5 +1,5 @@
 ---
-title:  "Yoga Basics (December 1 - December 22)"
+title:  "Yoga Basics (January 11 - February 29)"
 categories: class
 classidentifier: yogabasics
 teacher: benvenuto
