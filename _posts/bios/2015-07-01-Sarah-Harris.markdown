@@ -2,7 +2,7 @@
 title:  "Sarah Harris"
 categories: instructor teacherbio harris
 shortname: harris
-headshot: /images/missing-headshot.jpg
+headshot: /images/headshots/missing-female.jpeg
 email: sharris31@gmail.com
 ---
 Teacher biography coming soon!

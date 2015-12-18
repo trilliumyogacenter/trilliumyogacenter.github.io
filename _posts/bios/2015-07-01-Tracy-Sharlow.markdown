@@ -2,7 +2,7 @@
 title:  "Tracy Sharlow"
 categories: instructor teacherbio sharlow
 shortname: sharlow
-headshot: /images/missing-headshot.jpg
+headshot: /images/headshots/missing-female.jpeg
 email: tsharlow@gmail.com
 phone: 315-244-5400
 ---
