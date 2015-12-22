@@ -3,7 +3,7 @@ title:  "Community Acupuncture"
 date:   2015-08-28 12:00:00
 categories: class
 classidentifier: acupuncture
-teacher: Ayotte
+teacher: ayotte
 type: on-going
 dropins: yes
 ---
