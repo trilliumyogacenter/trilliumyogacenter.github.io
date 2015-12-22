@@ -1,12 +1,12 @@
 ---
-title:  "Pregnancy Yoga (starts December 5)"
+title:  "Pregnancy Yoga (starts January 9)"
 categories: class
 classidentifier: pregnancy
 teacher: delevega
 type: session
-number: 3
+number: 6
 dropins: yes
-fee: $36 for 3 classes. Drop-in fee $15
+fee: $72 for 3 classes. Drop-in fee $15
 ---
 Moms to be, this class is for you.
 
@@ -18,6 +18,4 @@ Each class includes stretches and yoga postures, breath work, toning, relaxation
 
 Please let your midwife or doctor know you are taking this class to be sure it is safe for you.
 
-Saturdays from 1:00-2:30pm; December 5 - December 19
-
-Next session, Six-weeks, January 9 - February 13.
+Saturdays from 1:00-2:30pm; Next session, Six-weeks, January 9 - February 13.

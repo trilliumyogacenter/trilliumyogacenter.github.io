@@ -11,5 +11,5 @@ classes:
     time: 4:30 PM
   - classidentifier: pilatesblend
     teacher: brant
-    time: 6:30 PM
+    time: 7:00 PM
 ---
