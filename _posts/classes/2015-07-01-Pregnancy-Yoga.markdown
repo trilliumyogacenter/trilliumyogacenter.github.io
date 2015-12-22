@@ -6,7 +6,7 @@ teacher: delevega
 type: session
 number: 6
 dropins: yes
-fee: $72 for 3 classes. Drop-in fee $15
+fee: $72 for 6 classes. Drop-in fee $15
 ---
 Moms to be, this class is for you.
 
