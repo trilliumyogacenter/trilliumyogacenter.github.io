@@ -7,7 +7,7 @@ classes:
     teacher: multiple
     time: 8:30 AM
   - classidentifier: acupuncture
-    teacher: Ayotte
+    teacher: ayotte
     time: 11:00 AM
   - classidentifier: happyhour
     teacher: barkley

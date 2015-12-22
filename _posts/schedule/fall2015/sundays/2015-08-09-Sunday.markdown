@@ -7,7 +7,7 @@ classes:
     teacher: hongay
     time: 10:30 AM
   - classidentifier: acupuncture
-    teacher: Ayotte
+    teacher: ayotte
     time: 12:30 PM
   - classidentifier: sundayhatha
     teacher: harris
