@@ -1,5 +1,5 @@
 ---
-title:  "Debra Mitchell, MSW, LCSW-R"
+title:  "Debra Mitchell"
 categories: instructor counselorbio teacherbio mitchell
 shortname: mitchell
 headshot: /images/mitchell.jpg

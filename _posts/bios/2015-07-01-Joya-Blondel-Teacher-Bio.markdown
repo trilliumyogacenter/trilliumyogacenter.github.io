@@ -1,5 +1,5 @@
 ---
-title:  "Jenna Joya Blondel, Ph.D."
+title:  "Jenna Joya Blondel"
 categories: instructor counselorbio blondel
 shortname: blondel
 headshot: /images/headshots/blondel.jpeg

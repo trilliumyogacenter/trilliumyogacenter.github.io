@@ -1,5 +1,5 @@
 ---
-title:  "Karyn Crispo, Reiki Master"
+title:  "Karyn Crispo"
 categories: instructor counselorbio crispo
 shortname: crispo
 headshot: /images/crispo.jpeg

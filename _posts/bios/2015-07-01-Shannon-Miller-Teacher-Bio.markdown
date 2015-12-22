@@ -1,5 +1,5 @@
 ---
-title:  "Shannon Miller, LMT"
+title:  "Shannon Miller"
 categories: instructor ownerbio miller
 headshot: /images/miller.jpg
 shortname: miller

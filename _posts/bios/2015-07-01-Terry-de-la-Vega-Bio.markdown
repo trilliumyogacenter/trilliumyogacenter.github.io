@@ -1,5 +1,5 @@
 ---
-title:  "Terry de la Vega, NP, CYN"
+title:  "Terry de la Vega"
 categories: instructor ownerbio delavega
 shortname: delavega
 headshot: /images/delavega.jpg
