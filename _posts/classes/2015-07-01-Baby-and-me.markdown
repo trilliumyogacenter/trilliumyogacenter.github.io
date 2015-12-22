@@ -1,12 +1,12 @@
 ---
-title:  "Baby and Me Yoga (December 1 - December 22)"
+title:  "Baby and Me Yoga (January 12 - February 16)"
 categories: class
 classidentifier: babyandme
 teacher: dye
 type: session
-number: 4
+number: 6
 dropins: yes
-fee: $48 for 4 classes. Drop-in fee $15
+fee: $72 for 6 classes. Drop-in fee $15
 ---
 This class is designed for babies up to 2 years old and their parents, grandparents, or caregivers. It is perfect for beginners or experienced yoga practitioners.
 
