@@ -12,4 +12,4 @@ Designed to help those with stiffness or lack of flexibility due to arthritis, c
 
 Wednesdays 4:30 pm-6:00 pm
 
-Starting December 30 this class will be held twice, with the first session from 3:15 to 4:45 pm and the second session 5:15-6:45 pm.
+Starting January 6 this class will be held twice, with the first session from 3:30 to 5:00 pm and the second session 5:15-6:45 pm.
