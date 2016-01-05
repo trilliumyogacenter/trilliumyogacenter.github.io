@@ -8,7 +8,10 @@ classes:
     time: 08:30 AM
   - classidentifier: creatingease
     teacher: delavega
-    time: 4:30 PM
+    time: 3:30 PM
+  - classidentifier: creatingease
+    teacher: delavega
+    time: 5:15 PM
   - classidentifier: pilatesblend
     teacher: brant
     time: 7:00 PM
