@@ -254,6 +254,9 @@ a {
 .fixed.topbanner {
 	background-image: url("/images/topbanner.png");
 }
+.fixed.nctaichibanner {
+	background-image: url("/images/NCTaiChiBanner.png");
+}
 
 .fixed.vrksasana {
 	background-image:
