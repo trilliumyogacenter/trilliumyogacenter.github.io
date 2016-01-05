@@ -1,9 +1,11 @@
 ---
 title:  "Hatha Flow"
-teacher: harris
+categories: class
+teacher: miller
+classidentifier: hathaflow
 type: on-going
 dropins: yes
 ---
-Reground and re-energize for the week ahead. We’ll move through a series of postures and link body and breath. Class will close with meditation and pranayama.
+Join in for a joyful practice of yoga with a variety of music genres to set the tone each Monday. A balanced combination of sustained poses as well as poses flowing in a mindful progression from one to another. Attention is always given to basic alignment & therapeutic principles. Mindfulness; observing breath and body are an integral part of class. Classes are balanced with energy, to give your body a good physical work-out, and calm, to keep you balanced.
 
-Mondays and Wednesdays 6:30am
+Mondays 5:30 pm-6:45 pm

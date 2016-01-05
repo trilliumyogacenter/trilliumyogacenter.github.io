@@ -12,9 +12,9 @@ classes:
   - classidentifier: yogabasics
     teacher: benvenuto
     time: 4:00 PM
-  - classidentifier: gentleflow
-    teacher: benvenuto
-    time: 5:00 PM
+  - classidentifier: hathaflow
+    teacher: miller
+    time: 5:30 PM
   - classidentifier: moderateflow
     teacher: barkley
     time: 7:00 PM
