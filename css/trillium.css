@@ -751,6 +751,11 @@ address {
 	background-image: url("/images/storefront.png");
 	color: #ECF1EF;
 }
+.jumbotron.taichi {
+	background-size: cover;
+	background-image: url("/images/NCTaiChiBanner.png");
+	color: #ECF1EF;
+}
 
 
 .jumbotron p {
