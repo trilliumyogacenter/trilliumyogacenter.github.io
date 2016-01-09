@@ -1,5 +1,5 @@
 ---
-title:  "Traditional Indian Yoga, Student Friendly! (starts Jan. 29)"
+title:  "Traditional Indian Yoga, Student Friendly (starts Jan. 29)"
 teacher: sharpe
 classidentifier: traditional
 type: session
