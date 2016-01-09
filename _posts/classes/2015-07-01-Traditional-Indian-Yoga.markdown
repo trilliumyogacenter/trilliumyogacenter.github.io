@@ -1,6 +1,7 @@
 ---
 title:  "Traditional Indian Yoga, Student Friendly! (starts Jan. 29)"
 teacher: sharpe
+classidentifier: traditional
 type: session
 dropins: yes
 fee: $60.00
