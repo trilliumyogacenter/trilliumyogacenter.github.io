@@ -8,7 +8,7 @@ classes:
     time: 08:30 AM
   - classidentifier: meditation
     teacher: mitchell
-    time: 11:00 AM
+    time: 12:00 PM
   - classidentifier: yogabasics
     teacher: benvenuto
     time: 4:00 PM

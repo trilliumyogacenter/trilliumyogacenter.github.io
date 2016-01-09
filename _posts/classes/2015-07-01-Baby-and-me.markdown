@@ -1,5 +1,5 @@
 ---
-title:  "Baby and Me Yoga (January 12 - February 16)"
+title:  "Baby and Me Yoga (January 12 - February 23)"
 categories: class
 classidentifier: babyandme
 teacher: dye
@@ -14,6 +14,4 @@ We will bond with our babies, while practicing Gentle Hatha Yoga. We will stretc
 
 Please check with your healthcare provider before doing any postpartum exercise.
 
-Tuesdays from 9:30-10:30am; December 1 - December 22
-
-Next session, Six-weeks, January 12 - February 16. $72 for the session, $15 drop-in per class
+Tuesdays from 9:30-10:30am; January 12 - February 23. No class January 26. $72 for the session, $15 drop-in per class

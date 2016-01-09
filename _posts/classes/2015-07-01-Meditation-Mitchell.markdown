@@ -1,17 +1,16 @@
 ---
-title:  "Meditation Class - new session starts in January"
+title:  "Meditation, Presence, and the Power of Blessing (starts Feb. 8)"
 categories: class
 classidentifier: meditation
 teacher: mitchell
 type: session
-number: 6
-fee: $72.00
+number: 4
+fee: $40.00
 ---
-Come learn and experience a sampler of meditations including:
-Creative Visualization, Presence, Chakra Balancing, Oneness Deeksha.
+A Lunchtime Course. Join in community to meditate and participate in spiritual journeying. Beginners and experienced meditators will enjoy this class. Integrated into the meditations will
+be teachings around breath awareness, chanting, and contemplations. Receive and
+become a giver of flowering heart blessing.
 
-Integrated into the meditations will also be teachings around breath awareness, pranayama, chanting, and contemplations.
+Preregistration required. Please contact instructor, Debra Mitchell, LCSW-R, 244-3082
 
-The class is appropriate for the Beginner student and also for the more advanced student who wishes to deepen their practice.
-
-Mondays - 11-12:00pm; Debra will be available until 12:15 for questions. 6 week Session.
+Mondays - 12:00 - 12:45 pm; 4 week Session.

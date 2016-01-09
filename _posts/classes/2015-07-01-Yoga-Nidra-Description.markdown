@@ -1,5 +1,5 @@
 ---
-title:  "Yoga Nidra"
+title:  "Evening Bliss"
 categories: class
 classidentifier: yoganidra
 teacher: miller
