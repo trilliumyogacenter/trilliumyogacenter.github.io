@@ -9,6 +9,9 @@ classes:
   - classidentifier: restorativeyoga
     teacher: delavega
     time: 10:00 AM
+  - classidentifier: taichibasics
+    teacher: Sean Boutin
+    time: 12:30 PM
   - classidentifier: tabata
     teacher: sharlow
     time: 4:00 PM

@@ -9,6 +9,9 @@ classes:
   - classidentifier: boomeryoga2
     teacher: benvenuto
     time: 11:00 AM
+  - classidentifier: taichibasics
+    teacher: Sean Boutin
+    time: 12:30 PM
   - classidentifier: tabata
     teacher: sharlow
     time: 4:00 PM
