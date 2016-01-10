@@ -1,8 +1,7 @@
 ---
-Title: "Tai Chi Basics (semester starts January 26)"
+Title: "Tai Chi Basics with Sean Boutin (semester starts January 26)"
 categories: class
 classidentifier: taichibasics
-teacher: Sean Boutin
 type: session
 fee: $320.00
 number: 32
