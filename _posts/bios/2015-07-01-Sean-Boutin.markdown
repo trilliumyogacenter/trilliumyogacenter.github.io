@@ -2,7 +2,7 @@
 title:  "Sean Boutin"
 categories: instructor teacherbio seanboutin
 shortname: boutin
-headshot: /images/missing-headshot.jpg
+headshot: /images/boutin.jpeg
 phone: (315) 229-4003
 email: northcountrytaichi@gmail.com
 ---

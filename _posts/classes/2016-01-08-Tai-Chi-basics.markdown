@@ -8,7 +8,7 @@ fee: $320.00
 number: 32
 dropins: no
 ---
-At North Country Tai Chi LLC, no class is more important than our Tai Chi Basics course. All Tai Chi movement is an expression of layered simplicity and our basics course introduces you to the logic of how to do that intelligently and in balance.
+At <a href="http://www.trilliumyogacenter.com/nctaichi.html">North Country Tai Chi LLC</a>, no class is more important than our Tai Chi Basics course. All Tai Chi movement is an expression of layered simplicity and our basics course introduces you to the logic of how to do that intelligently and in balance.
 
 This is a time-tested Chinese tradition and it is taught one step at a time with Master Sean. The sequences you learn in Tai Chi Basics sets the foundation for the simple grace for which Tai Chi is known and from which all the health benefits are ultimately derived.
 
