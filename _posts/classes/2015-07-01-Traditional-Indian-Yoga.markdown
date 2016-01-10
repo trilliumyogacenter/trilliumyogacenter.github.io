@@ -11,6 +11,7 @@ number: 5
 **Special student deals:**
 
 $50 Session, high school and college students with ID
+
 2 for 1, bring a friend and pay half price, $5 per class
 
 Drop-ins welcome. Beginners are welcome.
