@@ -10,7 +10,7 @@ classes:
     teacher: benvenuto
     time: 11:00 AM
   - classidentifier: taichibasics
-    teacher: Sean Boutin
+    teacher: boutin
     time: 12:30 PM
   - classidentifier: tabata
     teacher: sharlow
