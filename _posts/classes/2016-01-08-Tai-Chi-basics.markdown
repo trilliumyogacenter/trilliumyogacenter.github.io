@@ -13,4 +13,4 @@ This is a time-tested Chinese tradition and it is taught one step at a time with
 16 Tuesdays and Thursdays 12:30 - 1:30 pm, January 26 through May 19.
 No class meetings on March 22 (Tue) or March 24 (Thu)
 
-<p><a href"http://www.trilliumyogacenter.com/nctaichi.html">More information</a></p>
+<p><a href="http://www.trilliumyogacenter.com/nctaichi.html">More information</a></p>
