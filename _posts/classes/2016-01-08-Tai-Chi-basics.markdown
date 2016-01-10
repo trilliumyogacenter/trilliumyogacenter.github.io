@@ -1,10 +1,12 @@
 ---
-Title: "Tai Chi Basics with Sean Boutin (semester starts January 26)"
+Title: "Tai Chi Basics (semester starts January 26)"
 categories: class
 classidentifier: taichibasics
+teacher: boutin
 type: session
 fee: $320.00
 number: 32
+dropins: no
 ---
 At North Country Tai Chi LLC, no class is more important than our Tai Chi Basics course. All Tai Chi movement is an expression of layered simplicity and our basics course introduces you to the logic of how to do that intelligently and in balance.
 
