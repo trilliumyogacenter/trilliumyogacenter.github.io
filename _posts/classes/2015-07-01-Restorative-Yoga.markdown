@@ -24,8 +24,3 @@ Thursdays, 10 am to 11:30 am
 <em>“Restorative yoga can be a gateway to deep relaxation and the cultivation of mindfulness. Enter, enter!”</em>
 
 –- <cite>Jon Kabat Zinn</cite>
-
-
-> “Restorative yoga can be a gateway to deep relaxation and the cultivation of mindfulness. Enter, enter!”
->
-> -- <cite>Jon Kabat Zinn</cite>
