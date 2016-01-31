@@ -5,7 +5,7 @@ categories: sunday fall schedule
 classes:
   - classidentifier: yogafit
     teacher: hongay
-    time: 10:30 AM
+    time: 9:45 AM
   - classidentifier: acupuncture
     teacher: ayotte
     time: 12:30 PM
