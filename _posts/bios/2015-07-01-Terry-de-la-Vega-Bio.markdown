@@ -1,6 +1,6 @@
 ---
 title:  "Terry de la Vega"
-categories: instructor ownerbio delavega
+categories: instructor ownerbio delavega counselorbio
 shortname: delavega
 headshot: /images/delavega.jpg
 email: terry@trilliumyogacenter.com

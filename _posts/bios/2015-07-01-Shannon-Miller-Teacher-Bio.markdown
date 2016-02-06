@@ -1,6 +1,6 @@
 ---
 title:  "Shannon Miller"
-categories: instructor ownerbio miller
+categories: instructor ownerbio counselorbio miller
 headshot: /images/miller.jpg
 shortname: miller
 email: shannon@trilliumyogacenter.com
