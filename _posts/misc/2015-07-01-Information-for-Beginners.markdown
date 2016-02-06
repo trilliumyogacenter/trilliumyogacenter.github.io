@@ -3,14 +3,14 @@ title:  ""
 date:   2015-07-01 12:00:00
 categories: beginners
 ---
-#Information for Beginners
+# Information for Beginners
 
-###Just Getting Started?
+### Just Getting Started?
 
 If you have never taken a yoga class before it might feel a bit intimidating to walk into a yoga center for the first time. So that you will have some idea as to what to expect at Trillium, we offer this introduction.
 First of all, we are glad you are here! Being curious enough to come in and take a class is a great start. We want you to feel welcome. We are honored to be part of your beginning and continuing yoga journey.
 
-###How to choose a yoga class
+### How to choose a yoga class
 Choosing a class and a teacher are individual, personal decisions only the student can make. We recommend looking at the class descriptions, taking into consideration if you feel it will fit your needs.
 
 As a beginner, it is probably best to choose a slower, gentler class. Any class called *Beginner* or one that states it is appropriate for beginners in the description is a good place to start.
@@ -27,20 +27,20 @@ Whether you arrive late, or on time, please enter the class as quietly as possib
 
 Students will need to sign a release before their first class.
 
-###Payment
+### Payment
 We offer two options for payment. Students may purchase a 10-class card for $120 dollars or a single class card for $15. A10-class card can be used for any ongoing class, so you may try a variety of classes or go to the same class for 10 sessions.  We accept cash or checks.
 
-###Food
+### Food
 Yoga is best practiced 1-2 ours after a light meal. If you do eat before class, please limit yourself to something minimal, such as a piece of fruit or a yogurt. Please do not bring food into the studio.
 
-###Water
+### Water
 Feel free to bring a closed water bottle with you to class. As a health matter, we encourage people to drink plenty of water. We do not sell disposable water bottles.
 
-###Dress comfortably
+### Dress comfortably
 Wear comfortable, stretchy clothing. Avoid any clothes or jewelry that constrict movement or breathing, especially at the waist and neck.
 
-###Yoga Gear
+### Yoga Gear
 Trillium students may use the props provided in the entry area. For most classes you will need a sticky mat, blocks, a blanket, and a strap. You are welcome to bring your own mat or other props if you like.
 
-###Changing Rooms and Bathrooms
+### Changing Rooms and Bathrooms
 Please be aware that although Trillium Center class space is handicap accessible via the front entrance, our changing rooms and bathroom are in the basement, accessible only by a flight of stairs.
