@@ -3,7 +3,7 @@ title:  ""
 date:   2015-07-01 12:00:00
 categories: healingarts
 ---
-#Healing Arts
+# Healing Arts
 
 Our Healing Arts Room is located at the rear of Trillium Center and is accessed privately through our back entrance. Appointments are scheduled with each provider. Please discuss fees with your provider.
 
