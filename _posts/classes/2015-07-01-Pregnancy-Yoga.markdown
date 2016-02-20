@@ -1,5 +1,5 @@
 ---
-title:  "Pregnancy Yoga (drop-ins 2/20 and 3/19, new session starts April 2)"
+title:  "Pregnancy Yoga (new session starts April 2)"
 categories: class
 classidentifier: pregnancy
 teacher: delevega
@@ -18,4 +18,4 @@ Each class includes stretches and yoga postures, breath work, toning, relaxation
 
 Please let your midwife or doctor know you are taking this class to be sure it is safe for you.
 
-Saturdays from 1:00-2:30pm; one time drop-in classes, February 20 and March 19, Next session, Six-weeks, April 2 - May 7.
+Saturdays from 1:00-2:30pm; Next session, Six-weeks, April 2 - May 7.
