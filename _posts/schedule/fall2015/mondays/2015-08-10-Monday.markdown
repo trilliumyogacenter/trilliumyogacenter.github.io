@@ -6,9 +6,9 @@ classes:
   - classidentifier: hatha
     teacher: miller
     time: 08:30 AM
-  - classidentifier: meditation
-    teacher: mitchell
-    time: 12:00 PM
+  - classidentifier: educators
+    teacher: benvenuto
+    time: 3:45 PM
   - classidentifier: yogabasics
     teacher: benvenuto
     time: 4:00 PM

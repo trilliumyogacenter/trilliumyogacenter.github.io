@@ -1,8 +1,5 @@
 ---
 title:  "Meditation, Presence, and the Power of Blessing (starts Feb. 8)"
-categories: class
-classidentifier: meditation
-teacher: mitchell
 type: session
 number: 4
 fee: $40.00
