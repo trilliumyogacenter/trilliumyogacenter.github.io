@@ -1,5 +1,5 @@
 ---
-title:  "Alisa Woods"
+title: "Alisa Woods"
 categories: instructor counselorbio woods
 shortname: woods
 headshot: /images/headshots/woods.jpeg
