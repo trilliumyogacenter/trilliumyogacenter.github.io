@@ -1,5 +1,5 @@
 ---
-title:  "Kundalini Yoga"
+title:  "Kundalini Yoga (No Class 3/22)"
 categories: class
 classidentifier: kundalini
 teacher: gurumantrakaur

@@ -1,5 +1,5 @@
 ---
-title:  "Kundalini Yoga (no class 2/20, 3/5, 4/9, 5/7, and 5/21)"
+title:  "Kundalini Yoga (no class 2/20, 3/5, 3/22, 4/9, 5/7, and 5/21)"
 categories: class
 classidentifier: kundalini2
 teacher: gurumantrakaur
