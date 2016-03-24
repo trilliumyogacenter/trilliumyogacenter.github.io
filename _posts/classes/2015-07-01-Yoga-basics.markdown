@@ -1,8 +1,5 @@
 ---
 title:  "Yoga Basics (January 11 - February 29)"
-categories: class
-classidentifier: yogabasics
-teacher: benvenuto
 type: session
 number: 8
 dropins: yes

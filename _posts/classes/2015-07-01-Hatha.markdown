@@ -1,5 +1,5 @@
 ---
-title:  "Hatha (no class 3/20)"
+title:  "Hatha"
 categories: class
 classidentifier: sundayhatha
 teacher: harris

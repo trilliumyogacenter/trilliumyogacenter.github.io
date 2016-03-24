@@ -4,9 +4,9 @@ categories: class
 classidentifier: pregnancy
 teacher: delevega
 type: session
-number: 6
+number: 5
 dropins: yes
-fee: $72 for 6 classes. Drop-in fee $15
+fee: $60 for 5 classes. Drop-in fee $15
 ---
 Moms to be, this class is for you.
 
@@ -18,4 +18,4 @@ Each class includes stretches and yoga postures, breath work, toning, relaxation
 
 Please let your midwife or doctor know you are taking this class to be sure it is safe for you.
 
-Saturdays from 1:00-2:30pm; Next session, Six-weeks, April 2 - May 7.
+Saturdays from 1:00-2:30pm; Next session, Five weeks, April 2 - April 30.
