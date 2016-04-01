@@ -1,5 +1,5 @@
 ---
-title: "Yoga For Educators (starts March 7, no class 3/21, 4/11)"
+title: "Yoga For Educators (starts March 7, no class 4/18)"
 categories: class
 classidentifier: educators
 teacher: benvenuto
