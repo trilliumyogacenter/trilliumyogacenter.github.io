@@ -1,5 +1,5 @@
 ---
-title:  "Kundalini Yoga"
+title:  "Kundalini Yoga (last class 4/26)"
 categories: class
 classidentifier: kundalini
 teacher: gurumantrakaur

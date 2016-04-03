@@ -1,8 +1,5 @@
 ---
 title:  "Hatha"
-categories: class
-classidentifier: sundayhatha
-teacher: harris
 type: on-going
 dropins: yes
 ---

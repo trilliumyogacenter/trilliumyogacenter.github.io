@@ -9,7 +9,4 @@ classes:
   - classidentifier: acupuncture
     teacher: ayotte
     time: 12:30 PM
-  - classidentifier: sundayhatha
-    teacher: harris
-    time: 4:00 PM
 ---

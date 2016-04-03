@@ -1,5 +1,5 @@
 ---
-title:  "Kundalini Yoga (no class 4/9)"
+title:  "Kundalini Yoga (no class 4/9, last class 4/30)"
 categories: class
 classidentifier: kundalini2
 teacher: gurumantrakaur
