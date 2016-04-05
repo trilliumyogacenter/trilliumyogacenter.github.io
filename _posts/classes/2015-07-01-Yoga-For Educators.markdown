@@ -29,4 +29,4 @@ later classes is $15.
 Please feel free to contact me with any questions or concerns. I look forward to
 sharing practice with you.
 
-Mondays from 3:45–4:45 pm, March 7 through May 9, no class March 21, April 11.
+Mondays from 3:45–4:45 pm, March 7 through May 9, April 18.
