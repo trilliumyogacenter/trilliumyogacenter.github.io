@@ -1,8 +1,5 @@
 ---
 title:  "Yoga Pilates Blend (No class 3rd Wed.)"
-categories: class
-classidentifier: pilatesblend
-teacher: brant
 type: on-going
 dropins: yes
 ---

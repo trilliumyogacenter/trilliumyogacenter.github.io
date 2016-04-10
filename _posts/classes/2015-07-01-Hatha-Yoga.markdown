@@ -1,8 +1,5 @@
 ---
 title:  "Monday Hatha"
-categories: class
-classidentifier: hatha
-teacher: miller
 type: on-going
 dropins: yes
 ---

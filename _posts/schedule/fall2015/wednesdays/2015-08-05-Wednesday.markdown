@@ -12,7 +12,4 @@ classes:
   - classidentifier: creatingease
     teacher: delavega
     time: 5:15 PM
-  - classidentifier: pilatesblend
-    teacher: brant
-    time: 7:00 PM
 ---

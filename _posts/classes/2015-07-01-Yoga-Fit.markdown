@@ -1,5 +1,5 @@
 ---
-title:  "Yoga Fit"
+title:  "Yoga Fit (last class 4/24)"
 categories: class
 classidentifier: yogafit
 teacher: hongay
