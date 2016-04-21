@@ -1,12 +1,12 @@
 ---
-title:  "Pregnancy Yoga (new session starts April 2)"
+title:  "Pregnancy Yoga (last class April 23, April 30 class cancelled)"
 categories: class
 classidentifier: pregnancy
 teacher: delevega
 type: session
-number: 5
+number: 6
 dropins: yes
-fee: $60 for 5 classes. Drop-in fee $15
+fee: $72 for 6 classes. Drop-in fee $15
 ---
 Moms to be, this class is for you.
 
@@ -18,4 +18,4 @@ Each class includes stretches and yoga postures, breath work, toning, relaxation
 
 Please let your midwife or doctor know you are taking this class to be sure it is safe for you.
 
-Saturdays from 1:00-2:30pm; Next session, Five weeks, April 2 - April 30.
+Saturdays from 1:00-2:30pm through April 23; Next session, Six weeks, starts May 7 - June 12, and the time changes to 10:30 am - 12:00 pm.

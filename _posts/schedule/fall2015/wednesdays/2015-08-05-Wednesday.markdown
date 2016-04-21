@@ -12,4 +12,7 @@ classes:
   - classidentifier: creatingease
     teacher: delavega
     time: 5:15 PM
+  - classidentifier: hathavinyasa
+    teacher: dye
+    time: 6:30 PM
 ---

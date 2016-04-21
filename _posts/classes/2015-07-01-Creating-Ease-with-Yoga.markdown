@@ -12,4 +12,4 @@ Each class includes a centering meditation, breathing exercises known as pranaya
 
 No yoga experience needed.
 
-Two sections: Wednesdays 3:30 pm-5:00 pm, and Wednesdays 5:15 pm-6:45 pm
+Two sections: Wednesdays 3:30 pm-5:00 pm, and Wednesdays 5:15 pm-6:15 pm

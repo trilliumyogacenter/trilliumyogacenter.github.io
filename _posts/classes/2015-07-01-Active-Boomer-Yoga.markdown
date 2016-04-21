@@ -1,5 +1,5 @@
 ---
-title:  "Active Boomer Yoga (No classes 4/19)"
+title:  "Active Boomer Yoga"
 categories: class
 classidentifier: boomeryoga2
 teacher: benvenuto
