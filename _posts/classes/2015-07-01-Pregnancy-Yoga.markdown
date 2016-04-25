@@ -1,5 +1,5 @@
 ---
-title:  "Pregnancy Yoga (last class April 23, April 30 class cancelled)"
+title:  "Pregnancy Yoga (starts May 7)"
 categories: class
 classidentifier: pregnancy
 teacher: delevega
@@ -18,4 +18,4 @@ Each class includes stretches and yoga postures, breath work, toning, relaxation
 
 Please let your midwife or doctor know you are taking this class to be sure it is safe for you.
 
-Saturdays from 1:00-2:30pm through April 23; Next session, Six weeks, starts May 7 - June 12, and the time changes to 10:30 am - 12:00 pm.
+Saturdays from 10:30 am-2:30 pm; Next session, Six weeks, May 7 - June 12.

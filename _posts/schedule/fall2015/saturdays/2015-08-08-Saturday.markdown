@@ -11,5 +11,5 @@ classes:
     time: 10:30 AM
   - classidentifier: pregnancy
     teacher: delavega
-    time: 1:00 PM
+    time: 10:30 AM
 ---
