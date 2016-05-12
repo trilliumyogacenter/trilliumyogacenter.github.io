@@ -12,4 +12,11 @@ classes:
   - classidentifier: pregnancy
     teacher: delavega
     time: 10:30 AM
+  - classidentifier: lotus5
+    teacher: burnham
+    time: 12:30 PM
+  - classidentifier: lotus7
+    teacher: burnham
+    time: 2:00 PM
+
 ---

@@ -18,6 +18,9 @@ classes:
   - classidentifier: boomeryoga2
     teacher: benvenuto
     time: 5:15 PM
+  - classidentifier: basics
+    teacher: benvenuto
+    time: 5:30 PM
   - classidentifier: kundalini
     teacher: gurumantrakaur
     time: 7:00 PM
