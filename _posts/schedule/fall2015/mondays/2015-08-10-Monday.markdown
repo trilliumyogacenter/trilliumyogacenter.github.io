@@ -3,9 +3,9 @@ title:  "Monday"
 date:   2015-08-10 00:00:00
 categories: monday fall schedule
 classes:
- - classidentifier: wakeup
-   teacher: stopa
-   time: 6:00 AM
+  - classidentifier: wakeup
+    teacher: stopa
+    time: 6:00 AM
   - classidentifier: educators
     teacher: benvenuto
     time: 3:45 PM
