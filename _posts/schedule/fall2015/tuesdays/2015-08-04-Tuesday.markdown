@@ -6,7 +6,7 @@ classes:
   - classidentifier: babyandme
     teacher: dye
     time: 9:30 AM
-  - classidentifier: boomeryoga2
+  - classidentifier: boomeryoga1
     teacher: benvenuto
     time: 11:00 AM
   - classidentifier: taichibasics
