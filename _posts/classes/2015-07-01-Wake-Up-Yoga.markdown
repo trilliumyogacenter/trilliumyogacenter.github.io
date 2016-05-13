@@ -6,7 +6,7 @@ teacher: stopa
 type: session
 number: 6
 dropins: yes
-fee: $60 for 6 classes. Drop-in fee $15
+fee: $72 for 6 classes. May use class card. Drop-in fee $15
 ---
 Wake up and stretch in this 60min Hatha class. This class will focus on yoga basics
 and help students both old and new refine postures and dive deeper into a yoga
