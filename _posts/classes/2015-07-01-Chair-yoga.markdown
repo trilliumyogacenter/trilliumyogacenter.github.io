@@ -15,11 +15,7 @@ A regular chair yoga practice will improve your health, sense of well-being, and
 
 Explore and reap the benefits of this powerful practice. Build upon your strengths while accommodating and acknowledging your limitations.
 
-Four Mondays, June 6-27, 11:00 am – 12:00 pm
+Four Mondays, June 6-27, 11:00 am – 12:00 pm, The fee is $40 and is open to drop-ins, $15
 
 Contact <a href="mailto:jean@trilliumyogacenter.com">jean@trilliumyogacenter.com</a>
 to preregister.
-
-###About this class
-
-This is a session class with 4 classes. The fee is $40 and is open to drop-ins, $15
