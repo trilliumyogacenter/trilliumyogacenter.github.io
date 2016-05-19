@@ -2,7 +2,7 @@
 title:  "Amanda Stopa"
 categories: instructor teacherbio stopa
 shortname: stopa
-headshot: /images/missing-headshot.jpg
+headshot: /images/headshots/multiple.jpeg
 phone:
 email: amastopa@gmail.com
 ---
