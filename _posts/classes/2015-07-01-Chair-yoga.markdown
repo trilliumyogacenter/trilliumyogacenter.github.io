@@ -1,5 +1,5 @@
 ---
-title:  "Chair Yoga (June 6 - July 27)"
+title:  "Chair Yoga (June 6 - 27)"
 categories: class
 classidentifier: chair
 teacher: benvenuto
