@@ -1,6 +1,6 @@
 ---
 title: "Efrat Ezra"
-categories: instructor ezra
+categories: instructor teacherbio ezra
 shortname: ezra
 headshot: /images/headshots/ezra.jpeg
 email: efratezra@gmail.com
