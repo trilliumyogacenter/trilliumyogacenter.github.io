@@ -1,5 +1,5 @@
 ---
-title:  "Hatha Vinyasa (starts April 27)"
+title:  "Hatha Vinyasa (new session starts June 8)"
 categories: class
 classidentifier: hathavinyasa
 teacher: dye
