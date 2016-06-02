@@ -1,5 +1,5 @@
 ---
-title:  "Pregnancy Yoga (starts May 7)"
+title:  "Pregnancy Yoga (New session every 6 weeks)"
 categories: class
 classidentifier: pregnancy
 teacher: delevega
@@ -18,4 +18,4 @@ Each class includes stretches and yoga postures, breath work, toning, relaxation
 
 Please let your midwife or doctor know you are taking this class to be sure it is safe for you.
 
-Saturdays from 10:30 am-2:30 pm; Next session, Six weeks, May 7 - June 12.
+Saturdays from 10:30 am-2:30 pm

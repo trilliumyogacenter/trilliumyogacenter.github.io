@@ -1,5 +1,5 @@
 ---
-title:  "Baby and Me Yoga (New session starts April 12)"
+title:  "Baby and Me Yoga (New session every 6 weeks)"
 categories: class
 classidentifier: babyandme
 teacher: dye
@@ -14,4 +14,4 @@ We will bond with our babies, while practicing Gentle Hatha Yoga. We will stretc
 
 Please check with your healthcare provider before doing any postpartum exercise.
 
-Tuesdays from 9:30-10:30am; March 1 - April 5. $72 for the session, $15 drop-in per class
+Tuesdays from 9:30-10:30am; $72 for each six-week session, $15 drop-in per class

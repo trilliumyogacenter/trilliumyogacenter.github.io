@@ -15,9 +15,6 @@ classes:
   - classidentifier: tabata
     teacher: sharlow
     time: 4:00 PM
-  - classidentifier: boomeryoga2
-    teacher: benvenuto
-    time: 5:15 PM
   - classidentifier: basics
     teacher: benvenuto
     time: 5:30 PM
