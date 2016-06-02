@@ -14,4 +14,4 @@ You will be safely guided through relaxing breath work and visualization by spok
 
 No previous experience necessary.
 
-Thursdays, 6:00 pm – 7:30 pm
+Thursdays, 6:00 pm – 7:15 pm
