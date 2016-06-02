@@ -18,7 +18,7 @@ classes:
   - classidentifier: basics
     teacher: benvenuto
     time: 5:30 PM
-  - classidentifier: yoganidra
+  - classidentifier: yoganidra2
     teacher: miller
     time: 7:00 PM
 ---
