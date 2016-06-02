@@ -1,15 +1,30 @@
 ---
-title:  "Evening Bliss"
+title:  "Shine on - Yoga Nidra (starts 5/24)"
 categories: class
 classidentifier: yoganidra
 teacher: miller
-type: on-going
+type: session
+number: 5
+fee: $50
 dropins: yes
 ---
-**Evening Bliss with Yoga Nidra** - The first 45 minutes of the class will explore physical postures at a gentle to moderate pace. Do what you can. The second 45 minutes will explore the practice of Yoga Nidra, a deep, extended relaxation.
+Do you want and need to:
+-Sleep more soundly
+-Reduce stress and anxiety
+-Alleviate headaches, chronic pain, depression, high blood pressure, PTSD
 
-The process of Yoga Nidra is truly accessible for anyone. Here at Trillium you will be asked to lie positioned on the floor and are welcome to use supportive props to make the body as relaxed and comfortable as possible.
+* Can you imagine experiencing deeper levels of health, inner peace of mind and equanimity?
+* Have you wanted to try meditation but thought it was too hard?
+* Have you thought about trying Yoga but didn’t know where to start?
 
-You will be safely guided through relaxing breath work and visualization by spoken word. In this yoga nidra class, we will also work on setting a sankalpa, or focused resolution. This practice can remove tension and fatigue in the physical body, relieve depression and anxiety, relieve headaches, reduce cravings and desires, normalizes the body's circulatory system and boosts the body's natural healing capacity. When done regularly and with pure intention the practice can be as restorative as a full night's sleep It is through the regular practice of Yoga Nidra that one can come to recognize that you are so much more than the body or the mind.
+Allow me to share with you the practice of Yoga Nidra. Yoga means union or one-pointed awareness, and Nidra, means sleep. Often referred to as Divine or Yogic Sleep, this contemporary practice is based on ancient meditation and yogic wisdom. It is a powerful technique in which you are guided systematically and learn to relax consciously at every level of your being. Yoga Nidra invites you to experience a body scan, breath awareness, a visual and sense component through your physical, energetic, mental, emotional and spiritual layers. There is no need to fix or change anything about yourself, simply notice. In this dawn between sleep and wakefulness you are invited to throw off the burdens, the tensions of life.
 
-No previous experience necessary.
+The practice of Yoga Nidra is simple and there is no way to do it wrong, nowhere to go and nothing to do. All that is required is a mat or blanket on the floor and that you lie down, close your eyes and listen. That’s it! That’s all you have to do. Simply be…
+
+Each one-hour class will start with a 10-minute centering, a 40-minute Yoga Nidra practice including an opportunity to set a silent Sankalpa (heart's longing), and a 10-minute integration.
+
+Sleep better, live better, love better.
+
+Shine On.
+
+Tuesdays, 7:00 pm – 8 pm May 24 - June 21

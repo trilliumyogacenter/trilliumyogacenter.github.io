@@ -21,7 +21,7 @@ classes:
   - classidentifier: basics
     teacher: benvenuto
     time: 5:30 PM
-  - classidentifier: kundalini
-    teacher: gurumantrakaur
+  - classidentifier: yoganidra
+    teacher: miller
     time: 7:00 PM
 ---
