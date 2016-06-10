@@ -6,7 +6,7 @@ teacher: delevega
 type: session
 number: 6
 dropins: yes
-fee: $72 for 6 classes. Drop-in fee $15
+fee: $60 for 6 classes. Drop-in fee $15
 ---
 Moms to be, this class is for you.
 
@@ -18,4 +18,4 @@ Each class includes stretches and yoga postures, breath work, toning, relaxation
 
 Please let your midwife or doctor know you are taking this class to be sure it is safe for you.
 
-Saturdays from 10:30 am-2:30 pm
+Saturdays from 10:30 am-12:00 pm
