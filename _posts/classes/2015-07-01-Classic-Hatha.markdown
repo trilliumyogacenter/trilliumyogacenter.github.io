@@ -1,5 +1,5 @@
 ---
-title:  "Classic Hatha (Last class until fall, June 3)"
+title:  "Classic Hatha (on haitus until fall 2016)"
 categories: class
 classidentifier: classichatha
 teacher: multiple
