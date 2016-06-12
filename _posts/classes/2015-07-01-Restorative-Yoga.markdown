@@ -1,5 +1,5 @@
 ---
-title:  "Restorative Yoga"
+title:  "Restorative Yoga (last class 6/23)"
 categories: class
 classidentifier: restorativeyoga
 teacher: delavega
