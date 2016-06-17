@@ -1,5 +1,5 @@
 ---
-title:  "Hatha Flow"
+title:  "Hatha Flow (on hiatus until Fall 2016)"
 categories: class
 teacher: miller
 classidentifier: hathaflow

@@ -1,5 +1,5 @@
 ---
-title:  "Happy Hour Yoga"
+title:  "Happy Hour Yoga (on hiatus until Fall 2016)"
 categories: class
 classidentifier: happyhour
 teacher: barkley
