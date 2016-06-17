@@ -1,5 +1,5 @@
 ---
-title:  "Yoga for Stress Reduction (starts July 8)"
+title:  "Yoga for Stress Relief (starts July 8)"
 categories: class
 classidentifier: stressreduction
 teacher: delavega
