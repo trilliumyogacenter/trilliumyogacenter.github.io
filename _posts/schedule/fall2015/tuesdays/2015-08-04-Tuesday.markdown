@@ -6,6 +6,9 @@ classes:
   - classidentifier: babyandme
     teacher: dye
     time: 9:30 AM
+  - classidentifier: strengthtoning
+    teacher: dye
+    time: 9:30 AM
   - classidentifier: boomeryoga1
     teacher: benvenuto
     time: 11:00 AM

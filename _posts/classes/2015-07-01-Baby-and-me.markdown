@@ -1,5 +1,5 @@
 ---
-title:  "Baby and Me Yoga (New session every 6 weeks)"
+title:  "Baby and Me Yoga (Last class until fall 2016 on June 28)"
 categories: class
 classidentifier: babyandme
 teacher: dye
