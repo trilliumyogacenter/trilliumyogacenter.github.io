@@ -1,5 +1,5 @@
 ---
-title:  "Baby and Me Yoga (Starts July 12)"
+title:  "Yoga for Strength and Toning (Starts July 12)"
 categories: class
 classidentifier: strengthtoning
 teacher: dye
