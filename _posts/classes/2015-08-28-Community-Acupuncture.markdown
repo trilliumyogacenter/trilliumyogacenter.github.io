@@ -1,5 +1,5 @@
 ---
-title:  "Community Acupuncture (Friday session on hiatus until fall, Sunday moves to 1:30 pm)"
+title:  "Community Acupuncture (Friday session on hiatus until fall, Sunday moves to 11:30 am)"
 date:   2015-08-28 12:00:00
 categories: class
 classidentifier: acupuncture
@@ -13,7 +13,7 @@ Community Acupuncture is a nationwide movement to bring accessible, affordable, 
 
 When individuals, friends, family, students, and co-workers arrive they will sit in chairs or comfortable mats. Needles may be kept in place for up to an hour. 
 
-Fridays, 11 am - 2:00 pm and Sundays, 1:30 - 4:30 pm with Michael Ayotte MSTOM, L.A.c.
+Fridays, 11 am - 2:00 pm and Sundays, 11:30 am - 4:30 pm with Michael Ayotte MSTOM, L.A.c.
  
 <p><strong>Contact information:</strong><br /> 
 315-250-2018<br />

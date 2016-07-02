@@ -8,5 +8,5 @@ classes:
   time: 9:00 AM
 - classidentifier: acupuncture
   teacher: ayotte
-  time: 1:30 PM
+  time: 11:30 AM
 ---
