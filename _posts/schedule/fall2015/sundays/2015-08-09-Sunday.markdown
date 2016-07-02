@@ -3,9 +3,6 @@ title:  "Sunday"
 date:   2015-08-09 00:00:00
 categories: sunday fall schedule
 classes:
-- classidentifier: strengthen2
-  teacher: ezra
-  time: 9:00 AM
 - classidentifier: acupuncture
   teacher: ayotte
   time: 11:30 AM

@@ -6,9 +6,6 @@ classes:
   - classidentifier: amvinyasa
     teacher: dye
     time: 8:30 AM
-  - classidentifier: restorativeyoga
-    teacher: delavega
-    time: 10:00 AM
   - classidentifier: taichibasics
     teacher: boutin
     time: 12:30 PM

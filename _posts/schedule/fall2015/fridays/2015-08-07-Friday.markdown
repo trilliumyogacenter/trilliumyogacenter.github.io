@@ -6,10 +6,4 @@ classes:
   - classidentifier: stressreduction
     teacher: delavega
     time: 9:30 AM
-  - classidentifier: acupuncture
-    teacher: ayotte
-    time: 11:00 AM
-  - classidentifier: happyhour
-    teacher: barkley
-    time: 5:30 PM
 ---

@@ -3,9 +3,6 @@ title:  "Tuesday"
 date:   2015-07-31 00:00:00
 categories: tuesday fall schedule
 classes:
-  - classidentifier: babyandme
-    teacher: dye
-    time: 9:30 AM
   - classidentifier: strengthtoning
     teacher: dye
     time: 9:30 AM

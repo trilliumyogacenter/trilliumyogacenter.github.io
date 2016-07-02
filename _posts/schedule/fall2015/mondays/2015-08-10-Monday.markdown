@@ -3,15 +3,6 @@ title:  "Monday"
 date:   2015-08-10 00:00:00
 categories: monday fall schedule
 classes:
-  - classidentifier: wakeup
-    teacher: stopa
-    time: 6:00 AM
-  - classidentifier: chair
-    teacher: benvenuto
-    time: 11:00 AM
-  - classidentifier: hathaflow
-    teacher: miller
-    time: 5:30 PM
   - classidentifier: moderateflow
     teacher: barkley
     time: 7:00 PM
