@@ -1,6 +1,5 @@
 ---
 title:  "Strengthen Your Hatha (May 26-June 23)"
-categories: class
 classidentifier: strengthen1
 teacher: ezra
 type: session

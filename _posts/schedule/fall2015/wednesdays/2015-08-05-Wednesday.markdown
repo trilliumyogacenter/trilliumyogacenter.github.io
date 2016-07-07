@@ -15,4 +15,7 @@ classes:
   - classidentifier: hathavinyasa
     teacher: dye
     time: 6:30 PM
+  - classidentifier: mindful2
+    teacher: woods
+    time: 8:00 PM
 ---
