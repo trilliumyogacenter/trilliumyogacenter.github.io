@@ -1,5 +1,5 @@
 ---
-title:  "Gentle Hatha"
+title:  "Gentle Hatha (No class 7/13)"
 categories: class
 classidentifier: creatingease
 teacher: delavega
