@@ -13,7 +13,7 @@ Community Acupuncture is a nationwide movement to bring accessible, affordable, 
 
 When individuals, friends, family, students, and co-workers arrive they will sit in chairs or comfortable mats. Needles may be kept in place for up to an hour. 
 
-Fridays, 11 am - 2:00 pm and Sundays, 11:30 am - 4:30 pm with Michael Ayotte MSTOM, L.A.c.
+Sundays, 1:30 pm - 4:30 pm with Michael Ayotte MSTOM, L.A.c.
  
 <p><strong>Contact information:</strong><br /> 
 315-250-2018<br />
