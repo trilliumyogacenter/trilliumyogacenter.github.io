@@ -1,5 +1,5 @@
 ---
-title:  "Community Acupuncture (Friday session on hiatus until fall, Sunday moves to 11:30 am)"
+title:  "Community Acupuncture (Sunday moves to 1:30 pm)"
 date:   2015-08-28 12:00:00
 categories: class
 classidentifier: acupuncture
