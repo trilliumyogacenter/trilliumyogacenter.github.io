@@ -1,5 +1,5 @@
 ---
-title:  "Yoga Basics (June 7 - July 26)"
+title:  "Yoga Basics (No class July 26)"
 categories: class
 classidentifier: basics
 teacher: benvenuto
