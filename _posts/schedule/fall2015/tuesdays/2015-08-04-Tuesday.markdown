@@ -15,9 +15,6 @@ classes:
   - classidentifier: tabata
     teacher: sharlow
     time: 4:00 PM
-  - classidentifier: basics
-    teacher: benvenuto
-    time: 5:30 PM
   - classidentifier: yoganidra2
     teacher: miller
     time: 7:00 PM

@@ -1,5 +1,5 @@
 ---
-title:  "Hatha Vinyasa (new session starts June 8)"
+title:  "Hatha Vinyasa"
 categories: class
 classidentifier: hathavinyasa
 teacher: dye
@@ -15,4 +15,4 @@ This class will help to increase strength, muscle tone, flexibility, balance and
 We will incorporate chanting, meditation, breath-work, and movement.
 All levels welcome. Variations will be offered and the use of props will be encouraged to make the poses accessible. This yoga is for everybody!
 
-Wednesdays 6:30 - 7:30 pm
+Wednesdays, 6:30 - 7:30 pm July 20- August 24

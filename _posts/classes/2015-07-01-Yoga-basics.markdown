@@ -1,8 +1,5 @@
 ---
 title:  "Yoga Basics (No class July 26)"
-categories: class
-classidentifier: basics
-teacher: benvenuto
 type: session
 number: 8
 dropins: yes
