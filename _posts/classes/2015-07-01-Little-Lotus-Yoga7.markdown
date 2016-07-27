@@ -1,5 +1,5 @@
 ---
-title:  "Little Lotus Yoga for Kids, age 7-10 (July 23 – August 27)"
+title:  "Little Lotus Yoga for Kids, age 5-10 (July 23 – August 27)"
 categories: class
 classidentifier: lotus7
 teacher: burnham

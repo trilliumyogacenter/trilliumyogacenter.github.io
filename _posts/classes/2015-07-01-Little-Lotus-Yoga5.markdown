@@ -1,8 +1,5 @@
 ---
 title:  "Little Lotus Yoga for Kids, age 5-6 (July 23 – August 27)"
-categories: class
-classidentifier: lotus5
-teacher: burnham
 type: session
 number: 6
 dropins: yes
