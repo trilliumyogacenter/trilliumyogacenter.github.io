@@ -1,5 +1,5 @@
 ---
-title:  "Gentle Hatha"
+title:  "Gentle Hatha (on haitus until September)"
 categories: class
 classidentifier: creatingease
 teacher: delavega
