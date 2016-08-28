@@ -3,6 +3,7 @@ title: "Kripalu Yoga (Starts Nov. 17)"
 type: session
 number: 6
 dropins: yes
+fee: $60
 ---
 A Kripalu Yoga practice gives equal focus to the mind, body, and spirit. It can initiate a gradual process of physical healing, psychological growth, and spiritual awakening - transforming your "inner critic" to your "inner witness." This class is appropriate for beginners and experienced practitioners.
 
