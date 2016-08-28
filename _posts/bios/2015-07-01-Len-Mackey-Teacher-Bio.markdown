@@ -1,7 +1,5 @@
 ---
 title:  "Len Mackey"
-categories: instructor teacherbio mackey
-shortname: mackey
 headshot: /images/mackey.jpeg
 email: len@songofthespheres.com
 phone: (585) 317-6370

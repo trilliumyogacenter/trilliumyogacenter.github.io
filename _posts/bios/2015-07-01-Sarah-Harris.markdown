@@ -1,7 +1,5 @@
 ---
 title:  "Sarah Harris"
-categories: instructor teacherbio harris
-shortname: harris
 headshot: /images/headshots/harris.jpeg
 email: sharris31@gmail.com
 ---
