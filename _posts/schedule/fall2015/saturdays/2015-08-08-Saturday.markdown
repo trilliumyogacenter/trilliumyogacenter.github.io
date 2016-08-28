@@ -9,7 +9,7 @@ classes:
   - classidentifier: pregnancy
     teacher: delavega
     time: 10:30 AM
-  - classidentifier: lotus7
+  - classidentifier: lotusend
     teacher: burnham
     time: 2:00 PM
 
