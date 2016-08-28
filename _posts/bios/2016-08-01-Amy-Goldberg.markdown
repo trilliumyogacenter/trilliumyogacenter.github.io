@@ -1,7 +1,7 @@
 ---
 title:  "Amy Goldberg"
 categories: instructor teacherbio goldberg
-shortname: bowman
+shortname: goldberg
 headshot: /images/headshots/goldberg.jpeg
 email:
 ---
