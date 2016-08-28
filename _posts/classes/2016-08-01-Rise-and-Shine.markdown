@@ -1,8 +1,8 @@
 ---
-title:  "Rise and Shine Yoga (Starts Sep. 20)"
+title: "Rise and Shine Yoga (Starts Sep. 20)"
 categories: class
-classidentifier: riseshine
 teacher: montville
+classidentifier: riseshine
 type: session
 number: 6
 dropins: yes

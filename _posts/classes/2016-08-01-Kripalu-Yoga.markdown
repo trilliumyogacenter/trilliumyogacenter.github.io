@@ -1,12 +1,12 @@
 ---
-title:  "Kripalu Yoga (Starts Nov. 17)"
+title: "Kripalu Yoga (Starts Nov. 17)"
 categories: class
 classidentifier: kripalu
 teacher: brant
 type: session
 number: 6
 dropins: yes
-fee: $?? for 6 classes. Drop-in fee $15
+fee: Drop-in fee $15
 ---
 A Kripalu Yoga practice gives equal focus to the mind, body, and spirit. It can initiate a gradual process of physical healing, psychological growth, and spiritual awakening - transforming your "inner critic" to your "inner witness." This class is appropriate for beginners and experienced practitioners.
 
