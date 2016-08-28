@@ -9,7 +9,7 @@ classes:
   - classidentifier: creatingease
     teacher: delavega
     time: 3:30 PM
-  - classidentifier: creatingease
+  - classidentifier: yogabasics
     teacher: delavega
     time: 5:15 PM
   - classidentifier: hathavinyasa
