@@ -6,6 +6,9 @@ classes:
 - classidentifier: morningflow
   teacher: goldberg
   time: 9:00 AM
+- classidentifier: chair
+  teacher: benvenuto
+  time: 1:00 PM
 - classidentifier: moderateflow
   teacher: barkley
   time: 7:00 PM
