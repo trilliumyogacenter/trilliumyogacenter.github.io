@@ -1,8 +1,5 @@
 ---
 title: "Kripalu Yoga (Starts Nov. 17)"
-categories: class
-teacher: brant
-classidentifier: kripalu
 type: session
 number: 6
 dropins: yes

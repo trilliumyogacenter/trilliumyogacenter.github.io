@@ -12,9 +12,6 @@ classes:
 - classidenifier: traditional
   teacher: sharpe
   time: 5:15 PM
-- classidenifier: kripalu
-  teacher: brant
-  time: 5:45 PM
 - classidentifier: moderateflow
   teacher: barkley
   time: 7:00 PM
