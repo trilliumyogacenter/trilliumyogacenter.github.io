@@ -27,4 +27,4 @@ Eight Tuesdays, Sep. 13 - Nov. 1, 5:15 pm – 6:30 pm, The fee is $80 and is ope
 This is a session class with eight classes with a fee of $80, payable at first
 session. After that drop-in rate or class cards will be allowed with prior permission.
 Contact <a href="mailto:jean@trilliumyogacenter.com">jean@trilliumyogacenter.com</a>
-to preregister.
+to preregister, or 315-244-7953.
