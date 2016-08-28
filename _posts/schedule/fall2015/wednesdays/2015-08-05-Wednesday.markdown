@@ -12,7 +12,7 @@ classes:
   - classidentifier: yogabasics
     teacher: delavega
     time: 5:15 PM
-  - classidentifier: hathavinyasa
+  - classidentifier: strengthtoning2
     teacher: dye
     time: 6:30 PM
   - classidentifier: intromeditation
