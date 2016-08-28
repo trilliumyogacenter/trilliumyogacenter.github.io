@@ -16,4 +16,4 @@ Discover how yoga can help you as a student: stress release, improved focus, bod
 
 To register in advance for this 5-week course, contact Erica at 518-681-2580 or ericashrp@gmail.com.
 
-5 Fridays, 5:15 pm - 6:15 pm  Sep. 19 - Oct. 17
+5 Fridays, 5:15 pm - 6:15 pm,  Sep. 19 - Oct. 17
