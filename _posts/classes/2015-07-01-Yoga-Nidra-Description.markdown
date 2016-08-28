@@ -1,5 +1,5 @@
 ---
-title:  "Evening Bliss - Yoga Nidra (on hiatus through August)"
+title:  "Evening Bliss - Yoga Nidra (Starts Sep.8)"
 categories: class
 classidentifier: yoganidra
 teacher: miller
