@@ -1,11 +1,11 @@
 ---
-title:  "Shine On - Yoga Nidra (starts 7/12)"
+title:  "Shine On - Yoga Nidra (starts Sep. 13)"
 categories: class
 classidentifier: yoganidra2
 teacher: miller
 type: session
-number: 4
-fee: $40
+number: 5
+fee: $50
 dropins: yes
 ---
 Do you want and need to:
@@ -27,4 +27,4 @@ Sleep better, live better, love better.
 
 Shine On.
 
-Tuesdays, 7:00 pm – 8:00 pm July 12 - August 2
+Tuesdays, 7:00 pm – 8:00 pm Sep. 13 - Oct. 11
