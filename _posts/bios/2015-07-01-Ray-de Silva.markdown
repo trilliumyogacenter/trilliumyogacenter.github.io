@@ -1,7 +1,7 @@
 ---
 title:  "Ray de Silva"
 categories: instructor teacherbio desilva
-shortname: stopa
+shortname: desilva
 headshot: /images/headshots/desilva.jpeg
 phone:
 email: ray@ekrnet.com
