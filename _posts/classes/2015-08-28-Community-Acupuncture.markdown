@@ -1,5 +1,5 @@
 ---
-title:  "Community Acupuncture (Sunday moves to 1:30 pm)"
+title:  "Community Acupuncture"
 date:   2015-08-28 12:00:00
 categories: class
 classidentifier: acupuncture

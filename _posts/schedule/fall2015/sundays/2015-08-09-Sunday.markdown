@@ -5,5 +5,5 @@ categories: sunday fall schedule
 classes:
 - classidentifier: acupuncture
   teacher: ayotte
-  time: 1:30 AM
+  time: 1:30 PM
 ---
