@@ -3,7 +3,7 @@ title:  "Friday"
 date:   2015-08-07 00:00:00
 categories: friday fall schedule
 classes:
-  - classidentifier: stressreduction
-    teacher: delavega
-    time: 9:30 AM
+- classidentifier: hathayin
+  teacher: delavega
+  time: 9:00 AM
 ---

@@ -1,8 +1,5 @@
 ---
 title:  "Yoga for Stress Relief (starts July 8)"
-categories: class
-classidentifier: stressreduction
-teacher: delavega
 type: session
 number: 5
 dropins: yes
