@@ -1,5 +1,5 @@
 ---
-title:  "Morning Vinyasa"
+title:  "Morning Vinyasa (No class 10/6, 10/13, 11/24)"
 categories: class
 classidentifier: amvinyasa
 teacher: dye
@@ -8,6 +8,6 @@ Start your day with this energizing practice. We will incorporate elements of mo
 
 Beginners and experienced practitioners will benefit from this class.
 
-Thursdays 8:30 - 9:45 am
+Thursdays 8:30 - 9:45 am, No class 10/6, 10/13, and 11/24
 
 This is an on-going class
