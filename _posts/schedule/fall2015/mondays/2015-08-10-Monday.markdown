@@ -9,6 +9,9 @@ classes:
 - classidentifier: chair
   teacher: benvenuto
   time: 1:00 PM
+- teacher: sharpe
+  classidenifier: traditional
+  time: 5:15 PM
 - classidentifier: moderateflow
   teacher: barkley
   time: 7:00 PM
