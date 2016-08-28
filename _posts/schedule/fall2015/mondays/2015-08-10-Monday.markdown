@@ -3,7 +3,10 @@ title:  "Monday"
 date:   2015-08-10 00:00:00
 categories: monday fall schedule
 classes:
-  - classidentifier: moderateflow
-    teacher: barkley
-    time: 7:00 PM
+- classidentifier: morningflow
+  teacher: goldberg
+  time: 9:00 AM
+- classidentifier: moderateflow
+  teacher: barkley
+  time: 7:00 PM
 ---
