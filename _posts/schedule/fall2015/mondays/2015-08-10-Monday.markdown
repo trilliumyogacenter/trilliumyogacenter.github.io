@@ -9,11 +9,11 @@ classes:
 - classidentifier: chair
   teacher: benvenuto
   time: 1:00 PM
-- teacher: sharpe
-  classidenifier: traditional
+- classidenifier: traditional
+  teacher: sharpe
   time: 5:15 PM
-- teacher: brant
-  classidenifier: kripalu
+- classidenifier: kripalu
+  teacher: brant
   time: 5:45 PM
 - classidentifier: moderateflow
   teacher: barkley
