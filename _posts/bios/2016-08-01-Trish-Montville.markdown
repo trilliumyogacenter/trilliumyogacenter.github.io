@@ -1,5 +1,5 @@
 ---
-title:  "Trich Montville"
+title:  "Trish Montville"
 categories: instructor teacherbio montville
 shortname: montville
 headshot: /images/headshots/montville.jpeg
