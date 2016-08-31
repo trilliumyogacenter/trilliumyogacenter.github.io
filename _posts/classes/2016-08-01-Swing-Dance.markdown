@@ -1,6 +1,6 @@
 ---
 title: "Swing Dance (starts Sep. 9)"
-teacher: montville
+teacher: knack
 categories: class
 classidentifier: swing
 type: session
