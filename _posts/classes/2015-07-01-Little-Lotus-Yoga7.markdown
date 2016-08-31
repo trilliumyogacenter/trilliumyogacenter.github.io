@@ -12,7 +12,7 @@ Students today have many stresses and pressures. Yoga can provide a way to relax
 
 This class will focus on movement, breathing, yoga asanas or postures, mindfulness, music, and games. Focus will be on body awareness and relaxation with fun mixed into every activity.  
 
-A package of 6 sessions will cost $60. Drop-in price is $12. Students should wear comfortable clothing and bring a water bottle.
+Students should wear comfortable clothing and bring a water bottle.
 
 For more information, please email Kelly at
 <a href="mailto:kellynburnham@gmail.com">kellynburnham@gmail.com</a> or call 315-383-0647.
