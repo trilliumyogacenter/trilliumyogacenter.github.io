@@ -6,7 +6,7 @@ teacher: burnham
 type: session
 number: 6
 dropins: yes
-fee: $60 for 6 classes. Drop-in fee $12
+fee: $66 for 6 classes. Drop-in fee $12
 ---
 Students today have many stresses and pressures. Yoga can provide a way to relax and to center oneself. Children can develop this life-skill at an early age through a yoga practice.
 
