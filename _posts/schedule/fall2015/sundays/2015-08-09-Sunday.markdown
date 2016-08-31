@@ -7,6 +7,6 @@ classes:
   teacher: ayotte
   time: 1:30 PM
 - classidentifier: health2
-  teacher: efrat
+  teacher: ezra
   time: 8:30 AM
 ---

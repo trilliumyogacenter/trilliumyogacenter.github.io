@@ -2,7 +2,7 @@
 title:  "Hatha for Health (Starts Sep. 8)"
 categories: class
 classidentifier: health1
-teacher: efrat
+teacher: ezra
 type: ongoing
 dropins: yes
 ---

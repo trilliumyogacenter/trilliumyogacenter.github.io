@@ -16,6 +16,6 @@ classes:
     teacher: miller
     time: 6:00 PM
   - classidentifier: health1
-    teacher: efrat
+    teacher: ezra
     time: 8:00 PM
 ---
