@@ -12,4 +12,4 @@ The exploration of pre-asana and yoga poses continues with the addition of some 
 
 This class is appropriate for both beginning and experienced students desiring to focus on a personal yoga practice.
 
-Sundays, 830 am – 9:30 am
+Sundays, 8:30 am – 9:30 am
