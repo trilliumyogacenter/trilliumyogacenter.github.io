@@ -5,8 +5,8 @@ teacher: sharpe
 classidenifier: traditional
 type: session
 dropins: yes
-fee: $60.00
-number: 5
+fee: $70
+number: 7
 ---
 Drop-ins welcome. Beginners are welcome.
 
@@ -14,6 +14,6 @@ This class introduces traditional Indian styles of yoga through asana practice (
 
 Discover how yoga can help you as a student: stress release, improved focus, body awareness, physical, mental & emotional health, better sleep, and more.
 
-To register in advance for this 5-week course, contact Erica at 518-681-2580 or ericashrp@gmail.com.
+To register in advance for this 7-week course, contact Erica at 518-681-2580 or ericashrp@gmail.com.
 
-5 Fridays, 5:15 pm - 6:15 pm,  Sep. 19 - Oct. 17
+7 Fridays, 5:15 pm - 6:15 pm,  Sep. 19 - Oct. 31
