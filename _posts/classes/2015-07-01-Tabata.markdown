@@ -1,5 +1,5 @@
 ---
-title:  "Trillium Tabata (Resumes Sep. 8 and Sep.13)"
+title:  "Trillium Tabata (Resumes Sep. Sep.13)"
 categories: class
 classidentifier: tabata
 teacher: sharlow
