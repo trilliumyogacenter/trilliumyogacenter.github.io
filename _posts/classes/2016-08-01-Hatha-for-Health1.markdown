@@ -1,12 +1,12 @@
 ---
-title:  "Hatha for Health (Starts Sep. 8)"
+title:  "Hatha for Health (Starts Sep. 15)"
 categories: class
 classidentifier: health1
 teacher: ezra
 type: ongoing
 dropins: yes
 ---
-Centering, warm-ups, preparatory poses, classic yoga postures and resting poses 
+Centering, warm-ups, preparatory poses, classic yoga postures and resting poses
 are described and demonstrated in detail in this class. Students will be guided
 in postures leading to greater awareness, stability, strength and flexibility.
 This class is appropriate for both beginning and experienced students desiring to
