@@ -1,8 +1,5 @@
 ---
 title: "Swing Dance (starts Sep. 9)"
-teacher: knack
-categories: class
-classidentifier: swing
 type: session
 number: 4
 fee: $45.00

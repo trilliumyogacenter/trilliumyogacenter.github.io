@@ -6,7 +6,4 @@ classes:
 - classidentifier: hathayin
   teacher: delavega
   time: 9:00 AM
-- classidentifier: swing
-  teacher: knack
-  time: 7:00 PM
 ---
