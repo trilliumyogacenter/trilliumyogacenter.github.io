@@ -1,5 +1,5 @@
 ---
-title:  "Introduction to Meditation (starts Sept. 7)"
+title:  "Introduction to Meditation"
 teacher: desilva
 categories: class
 classidentifier: intromeditation

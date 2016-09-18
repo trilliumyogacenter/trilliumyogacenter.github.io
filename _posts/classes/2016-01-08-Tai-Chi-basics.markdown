@@ -1,5 +1,5 @@
 ---
-title:  "Tai Chi Basics (starts Sep. 8)"
+title:  "Tai Chi Basics"
 categories: class
 classidentifier: taichibasics
 teacher: boutin

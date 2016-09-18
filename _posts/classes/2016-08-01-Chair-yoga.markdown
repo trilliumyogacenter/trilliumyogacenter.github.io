@@ -1,5 +1,5 @@
 ---
-title:  "Chair Yoga (Starts Sep. 12)"
+title:  "Chair Yoga"
 categories: class
 classidentifier: chair
 teacher: benvenuto

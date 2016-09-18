@@ -1,5 +1,5 @@
 ---
-title:  "Yoga Basics for All (starts Sep. 7)"
+title:  "Yoga Basics for All"
 categories: class
 teacher: delevega
 classidentifier: yogabasics

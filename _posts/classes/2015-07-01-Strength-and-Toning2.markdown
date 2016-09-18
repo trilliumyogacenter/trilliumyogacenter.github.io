@@ -1,5 +1,5 @@
 ---
-title:  "Yoga for Strength and Toning (No class Sep. 14)"
+title:  "Yoga for Strength and Toning"
 categories: class
 classidentifier: strengthtoning2
 teacher: dye

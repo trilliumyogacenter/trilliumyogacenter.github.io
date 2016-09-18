@@ -1,5 +1,5 @@
 ---
-title:  "Morning Flow (starts 9/12)"
+title:  "Morning Flow"
 categories: class
 classidentifier: morningflow
 teacher: goldberg

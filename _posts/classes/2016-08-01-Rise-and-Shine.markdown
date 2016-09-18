@@ -1,5 +1,5 @@
 ---
-title: "Rise and Shine Yoga (Starts Sep. 20)"
+title: "Rise and Shine Yoga"
 categories: class
 teacher: montville
 classidentifier: riseshine

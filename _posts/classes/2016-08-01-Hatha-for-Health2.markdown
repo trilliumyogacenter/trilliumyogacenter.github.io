@@ -1,5 +1,5 @@
 ---
-title:  "Hatha for Health (Starts Sep. 11)"
+title:  "Hatha for Health"
 categories: class
 classidentifier: health2
 teacher: ezra

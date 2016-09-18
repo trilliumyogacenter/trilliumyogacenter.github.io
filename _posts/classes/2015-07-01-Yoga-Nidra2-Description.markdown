@@ -1,5 +1,5 @@
 ---
-title:  "Shine On - Yoga Nidra (starts Sep. 13)"
+title:  "Shine On - Yoga Nidra"
 categories: class
 classidentifier: yoganidra2
 teacher: miller

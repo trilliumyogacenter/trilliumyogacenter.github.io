@@ -1,5 +1,5 @@
 ---
-title: "Traditional Indian Yoga (Starts Sep. 19)"
+title: "Traditional Indian Yoga"
 categories: class
 teacher: sharpe
 classidenifier: traditional

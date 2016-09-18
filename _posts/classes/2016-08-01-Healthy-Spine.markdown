@@ -1,5 +1,5 @@
 ---
-title:  "Yoga for a Healthy Spine (starts Sep. 13)"
+title:  "Yoga for a Healthy Spine"
 categories: class
 classidentifier: healthyspine
 teacher: benvenuto
