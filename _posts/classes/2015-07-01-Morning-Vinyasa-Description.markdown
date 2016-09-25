@@ -1,5 +1,5 @@
 ---
-title:  "Morning Vinyasa (No class 10/6, 10/13, 11/24)"
+title:  "Morning Vinyasa"
 categories: class
 classidentifier: amvinyasa
 teacher: dye
