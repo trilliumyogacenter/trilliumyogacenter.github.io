@@ -1,5 +1,5 @@
 ---
-title:  "Introduction to Meditation"
+title:  "Introduction to Meditation (no class 9/28, time changes to 7 pm, 10/5, 10/12)"
 teacher: desilva
 categories: class
 classidentifier: intromeditation
