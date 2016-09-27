@@ -23,6 +23,7 @@ Offered by
 Offered by
 
 * <a href="#" data-toggle="modal" data-target="#crispo-bio">Karyn Crispo, Reiki Master</a>
+* <a href="#" data-toggle="modal" data-target="#blondel-bio">Jenna Joya Blondel, Reiki Master</a>
 
 ### Counseling
 Offered by
