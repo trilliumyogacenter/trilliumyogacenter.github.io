@@ -1,8 +1,5 @@
 ---
 title: "Efrat Ezra"
-categories: instructor teacherbio ezra
-shortname: ezra
-headshot: /images/headshots/ezra.jpeg
 email: efratezra@gmail.com
 phone: (315) 261-3442
 ---

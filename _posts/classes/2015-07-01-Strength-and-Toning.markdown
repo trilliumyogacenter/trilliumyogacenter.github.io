@@ -1,8 +1,5 @@
 ---
 title:  "Yoga for Strength and Toning (last class September 27)"
-categories: class
-classidentifier: strengthtoning
-teacher: dye
 type: ongoing
 dropins: yes
 ---

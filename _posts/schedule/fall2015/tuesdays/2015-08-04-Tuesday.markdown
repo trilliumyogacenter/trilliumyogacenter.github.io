@@ -6,9 +6,6 @@ classes:
   - classidentifier: riseshine
     teacher: montville
     time: 6:00 AM
-  - classidentifier: strengthtoning
-    teacher: dye
-    time: 9:30 AM
   - classidentifier: boomeryoga1
     teacher: benvenuto
     time: 11:00 AM

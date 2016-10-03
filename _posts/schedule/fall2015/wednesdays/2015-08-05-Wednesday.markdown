@@ -12,10 +12,7 @@ classes:
   - classidentifier: yogabasics
     teacher: delavega
     time: 5:15 PM
-  - classidentifier: strengthtoning2
-    teacher: dye
-    time: 6:30 PM
   - classidentifier: intromeditation
     teacher: desilva
-    time: 7:45 PM
+    time: 7:00 PM
 ---

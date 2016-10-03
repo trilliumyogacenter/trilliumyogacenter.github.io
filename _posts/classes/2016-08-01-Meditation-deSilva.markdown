@@ -1,5 +1,5 @@
 ---
-title:  "Introduction to Meditation (no class 9/28, time changes to 7 pm, 10/5, 10/12)"
+title:  "Introduction to Meditation (time changes to 7 pm, 10/5, 10/12)"
 teacher: desilva
 categories: class
 classidentifier: intromeditation
@@ -22,4 +22,4 @@ meditation students will have a $5 dollar charge.  We are hoping to develop a
 group for continuing weekly practice, a sangha.  The classes will run from 7:45
 to 8:30 every Wednesday evening.
 
-Wednesdays, 7:45 pm - 8:30 pm; 4 week session.
+Wednesdays, 7:00 pm - 7:45 pm; 4 week session.

@@ -1,8 +1,5 @@
 ---
 title:  "Hatha for Health"
-categories: class
-classidentifier: health1
-teacher: ezra
 type: ongoing
 dropins: yes
 ---
