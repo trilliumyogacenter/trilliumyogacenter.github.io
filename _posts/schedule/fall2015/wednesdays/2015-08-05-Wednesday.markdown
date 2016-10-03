@@ -15,4 +15,7 @@ classes:
   - classidentifier: intromeditation
     teacher: desilva
     time: 7:00 PM
+  - classidentifier: com-meditation
+    teacher: desilva
+    time: 7:00 PM
 ---
