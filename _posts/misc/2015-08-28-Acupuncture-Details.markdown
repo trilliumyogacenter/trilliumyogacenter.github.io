@@ -5,7 +5,7 @@ categories: acupuncturedetails
 ---
 ### Community Acupuncture
 
-**Fridays 11 am - 3 pm. Beginning November 6**
+**Sundays 1:30 am - 4:30 pm**
 
 Drop-in Fee $25.00
 

@@ -6,14 +6,24 @@ headshot: /images/headshots/blondel.jpeg
 email: jennajoya@gmail.com
 phone: (315) 322-8542
 ---
-Welcome! I am a Minister of Walking Prayer, and I would like to offer my services as a spiritual counselor.
+Jenna Joya Blondel, Ph.D., Minister of Walking Prayer, Usui Reiki Master/Teacher,
+offers Reiki, Mindfulness Meditation, and Spiritual Counseling at Trillium.
+A former college professor in the US and the Middle East, she has been meditating
+since high school and has taught Mindfulness Meditation at the college level;
+she has been practicing Reiki since 2004; and was ordained as a Minister of
+Walking Prayer in 2015.
 
-Spiritual counseling provides mentoring in our uniquely individual process of spiritual growth, as well as support as we move through the many transitions of life.
+Reiki is a simple, natural, technique for stress reduction and relaxation that
+also promotes healing and well-being. Reiki treats the whole person: body,
+emotions, mind, and spirit.
 
-I take a multicultural approach, heart-centered, and Mother Earth honoring. Sessions include much listening, discerning, and praying in whatever way you choose.
+Mindfulness meditation helps us develop our ability to be fully present in the
+moment. Mindfulness reduces stress and facilitates insight, understanding, and
+compassion. Joya teaches meditation in the tradition of Thich Nhat Hanh.
 
-In addition to being a Minister of Walking Prayer, I am a mindfulness meditation teacher, Reiki master, and shamanic practitioner, as well as a retired Liberal Arts professor. All of these, and, of course, my life experiences, inform my work.
+Spiritual counseling provides mentoring in our uniquely individual process of
+spiritual growth, as well as support as we move through the many transitions of
+life. Joya's approach is multicultural, heart-centered, and Mother Earth-honoring.
+All spiritual traditions are honored and welcome.
 
-Peace be with you!
-
-One-hour appointments Tuesdays between 4 pm and 7 pm. Other times may be available by appointment.
+Please contact Joya by phone or email for a free initial consultation.
