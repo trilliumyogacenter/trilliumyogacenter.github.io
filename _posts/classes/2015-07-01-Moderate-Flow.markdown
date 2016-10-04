@@ -1,5 +1,5 @@
 ---
-title:  "Vigorous Flow"
+title:  "Vigorous Flow (No class October 10)"
 categories: class
 classidentifier: moderateflow
 teacher: barkley
