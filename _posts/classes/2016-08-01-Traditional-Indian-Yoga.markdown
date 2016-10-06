@@ -1,5 +1,5 @@
 ---
-title: "Traditional Indian Yoga"
+title: "Traditional Indian Yoga (No class October 10)"
 categories: class
 teacher: sharpe
 classidenifier: traditional
