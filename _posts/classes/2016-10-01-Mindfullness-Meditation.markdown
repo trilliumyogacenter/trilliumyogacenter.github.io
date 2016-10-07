@@ -2,7 +2,7 @@
 title:  "Mindfulness Meditation (starts 10/20)"
 categories: class
 classidentifier: mindful
-teacher: blondell
+teacher: blondel
 type: ongoing
 dropins: yes
 fee: $10 suggested donation
