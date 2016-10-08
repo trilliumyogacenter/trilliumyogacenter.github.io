@@ -7,15 +7,15 @@ email: jennajoya@gmail.com
 phone: (315) 322-8542
 ---
 Jenna Joya Blondel, Ph.D., Minister of Walking Prayer, Usui Reiki Master/Teacher,
-offers Reiki, Mindfulness Meditation, and Spiritual Counseling at Trillium.
-A former college professor in the US and the Middle East, she has been meditating
-since high school and has taught Mindfulness Meditation at the college level;
-she has been practicing Reiki since 2004; and was ordained as a Minister of
-Walking Prayer in 2015.
+offers Reiki, Mindfulness Meditation, and Spiritual Counseling at Trillium. A
+former college professor in the US and the Middle East, she has been meditating
+since high school and has taught Mindfulness Meditation at the college level; she
+has been practicing Reiki since 2004; and was ordained as a Minister of Walking
+Prayer in 2015.
 
 Reiki is a simple, natural, technique for stress reduction and relaxation that
-also promotes healing and well-being. Reiki treats the whole person: body,
-emotions, mind, and spirit.
+also promotes healing and well-being. Reiki treats the whole person: body, emotions,
+mind, and spirit.
 
 Mindfulness meditation helps us develop our ability to be fully present in the
 moment. Mindfulness reduces stress and facilitates insight, understanding, and
