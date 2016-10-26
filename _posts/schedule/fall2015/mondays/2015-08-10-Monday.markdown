@@ -6,9 +6,6 @@ classes:
 - classidentifier: morningflow
   teacher: goldberg
   time: 9:00 AM
-- classidenifier: traditional
-  teacher: sharpe
-  time: 5:15 PM
 - classidentifier: moderateflow
   teacher: barkley
   time: 7:00 PM

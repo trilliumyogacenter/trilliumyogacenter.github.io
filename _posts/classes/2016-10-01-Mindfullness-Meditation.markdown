@@ -1,5 +1,5 @@
 ---
-title:  "Mindfulness Meditation (starts 10/20)"
+title:  "Lunchtime Mindfulness Meditation"
 categories: class
 classidentifier: mindful
 teacher: blondel

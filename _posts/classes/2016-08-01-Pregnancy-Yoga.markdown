@@ -1,5 +1,5 @@
 ---
-title:  "Pregnancy Yoga (New sessions start Sep. 17 and Oct. 29)"
+title:  "Pregnancy Yoga (New session starts Oct. 29)"
 categories: class
 classidentifier: pregnancy
 teacher: delevega
@@ -18,4 +18,4 @@ Please let your midwife or doctor know you are taking this class to be sure it i
 
 Saturdays from 10:30 am - 11:45 am
 
-Two 6-week sessions, September 17- October 22 and October 29 - December 10 (no class November 26)
+6-week session October 29 - December 10 (no class November 26)

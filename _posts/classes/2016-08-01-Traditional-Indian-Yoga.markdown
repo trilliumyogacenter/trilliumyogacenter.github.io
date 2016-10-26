@@ -1,8 +1,5 @@
 ---
 title: "Traditional Indian Yoga (No class October 10)"
-categories: class
-teacher: sharpe
-classidenifier: traditional
 type: session
 dropins: yes
 fee: $70

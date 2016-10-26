@@ -1,11 +1,9 @@
 ---
-title:  "Shine On - Yoga Nidra"
+title:  "Shine On - Yoga Nidra (Resumes November 15)"
 categories: class
 classidentifier: yoganidra2
 teacher: miller
-type: session
-number: 5
-fee: $50
+type: ongoing
 dropins: yes
 ---
 Do you want and need to:
@@ -27,4 +25,4 @@ Sleep better, live better, love better.
 
 Shine On.
 
-Tuesdays, 7:00 pm – 8:00 pm Sep. 13 - Oct. 11
+Tuesdays, 7:00 pm – 8:00 pm

@@ -1,5 +1,5 @@
 ---
-title:  "Community Meditation (Starts October 19)"
+title:  "Community Meditation"
 teacher: desilva
 categories: class
 classidentifier: com-meditation
@@ -19,4 +19,4 @@ you are, sit in a chair or on the floor. Mats, cushions, and blankets are availa
 It is our hope that with consistent attendance, participants will become a
 supportive community, a true sangha.
 
-Wednesdays, 7:00 pm - 7:45 pm; 4 week session.
+Wednesdays, 7:00 pm - 7:45 pm
