@@ -1,8 +1,5 @@
 ---
 title: "Rise and Shine Yoga"
-categories: class
-teacher: montville
-classidentifier: riseshine
 type: session
 number: 6
 dropins: yes

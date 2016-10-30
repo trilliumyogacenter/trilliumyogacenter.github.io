@@ -1,12 +1,10 @@
 ---
-title:  "Pregnancy Yoga (New session starts Oct. 29)"
+title:  "Pregnancy Yoga (no class November 26)"
 categories: class
 classidentifier: pregnancy
-teacher: delevega
-type: session
-number: 6
+teacher: delavega
+type: ongoing
 dropins: yes
-fee: $72 for 6 classes. Drop-in fee $15
 ---
 Pregnancy Yoga provides an opportunity for women to deepen their understanding and enjoyment of their pregnancy and childbirth experience. Students learn how to be more comfortable in their changing bodies and to prepare for a more confident and present childbirth experience.
 
@@ -16,6 +14,4 @@ Each class includes stretches and yoga postures, breath work, toning, relaxation
 
 Please let your midwife or doctor know you are taking this class to be sure it is safe for you.
 
-Saturdays from 10:30 am - 11:45 am
-
-6-week session October 29 - December 10 (no class November 26)
+Saturdays from 10:30 am - 11:45 am (no class November 26)

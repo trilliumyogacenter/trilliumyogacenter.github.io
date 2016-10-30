@@ -1,12 +1,12 @@
 ---
-title:  "Little Lotus Yoga for Kids, age 5-10 (new session starts Oct. 26)"
+title:  "Little Lotus Yoga for Kids, age 5-10 (new session starts Nov. 2)"
 categories: class
 classidentifier: lotus7
 teacher: burnham
 type: session
-number: 6
+number: 5
 dropins: yes
-fee: $66 for 6 classes. Drop-in fee $12
+fee: $50 for 6 classes. Drop-in fee $12
 ---
 Students today have many stresses and pressures. Yoga can provide a way to relax and to center oneself. Children can develop this life-skill at an early age through a yoga practice.
 
@@ -17,4 +17,4 @@ Students should wear comfortable clothing and bring a water bottle.
 For more information, please email Kelly at
 <a href="mailto:kellynburnham@gmail.com">kellynburnham@gmail.com</a> or call 315-383-0647.
 
-Wednesdays 4:00 pm – 5:00 pm, Sep. 14 – Oct. 19
+Wednesdays 4:00 pm – 5:00 pm, Five week session begins November 2

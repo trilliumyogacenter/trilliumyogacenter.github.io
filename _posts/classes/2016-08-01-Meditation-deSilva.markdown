@@ -1,8 +1,5 @@
 ---
 title:  "Introduction to Meditation (time changes to 7 pm, 10/5, 10/12)"
-teacher: desilva
-categories: class
-classidentifier: intromeditation
 type: session
 number: 4
 fee: $40.00
