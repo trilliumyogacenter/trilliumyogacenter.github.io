@@ -1,5 +1,5 @@
 ---
-title:  "Trillium Tabata"
+title:  "Trillium Tabata (no class Nov. 15 or Nov. 17)"
 categories: class
 classidentifier: tabata
 teacher: sharlow
