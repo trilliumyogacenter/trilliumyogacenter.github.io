@@ -12,9 +12,6 @@ classes:
   - classidentifier: tabata
     teacher: sharlow
     time: 4:00 PM
-  - classidentifier: healthyspine
-    teacher: benvenuto
-    time: 5:15 PM
   - classidentifier: yoganidra2
     teacher: miller
     time: 7:00 PM

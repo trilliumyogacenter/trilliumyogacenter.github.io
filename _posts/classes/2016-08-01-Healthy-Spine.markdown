@@ -1,8 +1,5 @@
 ---
 title:  "Yoga for a Healthy Spine"
-categories: class
-classidentifier: healthyspine
-teacher: benvenuto
 type: session
 number: 8
 dropins: yes
