@@ -1,5 +1,5 @@
 ---
-title:  "Community Meditation"
+title:  "Community Meditation (No class Nov.23)"
 teacher: desilva
 categories: class
 classidentifier: com-meditation

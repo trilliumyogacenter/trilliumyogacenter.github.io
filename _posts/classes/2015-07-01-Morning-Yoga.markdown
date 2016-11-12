@@ -1,5 +1,5 @@
 ---
-title:  "Morning Yoga (No class Nov. 16)"
+title:  "Morning Yoga (No class Nov. 16 or Nov. 23)"
 categories: class
 classidentifier: morningyoga
 teacher: benvenuto

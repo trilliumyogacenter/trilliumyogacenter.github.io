@@ -1,5 +1,5 @@
 ---
-title:  "Yoga Basics for All"
+title:  "Yoga Basics for All (no class Nov. 23)"
 categories: class
 teacher: delevega
 classidentifier: yogabasics
