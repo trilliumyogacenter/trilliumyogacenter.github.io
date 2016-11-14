@@ -1,5 +1,5 @@
 ---
-title:  "Shine On - Yoga Nidra (Resumes November 15)"
+title:  "Shine On - Yoga Nidra"
 categories: class
 classidentifier: yoganidra2
 teacher: miller
