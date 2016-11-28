@@ -1,5 +1,5 @@
 ---
-title:  "Pregnancy Yoga (no class November 26)"
+title:  "Pregnancy Yoga"
 categories: class
 classidentifier: pregnancy
 teacher: delavega
@@ -14,4 +14,4 @@ Each class includes stretches and yoga postures, breath work, toning, relaxation
 
 Please let your midwife or doctor know you are taking this class to be sure it is safe for you.
 
-Saturdays from 10:30 am - 11:45 am (no class November 26)
+Saturdays from 10:30 am - 11:45 am
