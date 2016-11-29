@@ -15,7 +15,7 @@ classes:
   - classidentifier: boomeryoga
     teacher: benvenuto
     time: 5:15 PM
-- classidentifier: yoganidra2
+  - classidentifier: yoganidra2
     teacher: miller
     time: 7:00 PM
 ---
