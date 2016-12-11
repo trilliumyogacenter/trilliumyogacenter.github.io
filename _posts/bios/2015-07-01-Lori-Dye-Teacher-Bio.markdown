@@ -1,8 +1,5 @@
 ---
 title:  "Lori Dye"
-categories: instructor dye teacherbio
-shortname: dye
-headshot: /images/dye.png
 email: LoriLynnDye@gmail.com
 phone: (315) 563-1393
 ---

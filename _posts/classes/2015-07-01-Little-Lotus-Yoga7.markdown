@@ -1,8 +1,5 @@
 ---
 title:  "Little Lotus Yoga for Kids, age 5-10 (new session starts Nov. 2)"
-categories: class
-classidentifier: lotus7
-teacher: burnham
 type: session
 number: 5
 dropins: yes

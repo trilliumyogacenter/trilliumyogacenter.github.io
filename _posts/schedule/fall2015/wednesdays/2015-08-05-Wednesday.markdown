@@ -6,9 +6,6 @@ classes:
   - classidentifier: morningyoga
     teacher: benvenuto
     time: 08:30 AM
-  - classidentifier: lotus7
-    teacher: burnham
-    time: 4:00 PM
   - classidentifier: yogabasics
     teacher: delavega
     time: 5:15 PM

@@ -9,7 +9,4 @@ classes:
 - classidentifier: classichatha
   teacher: miller
   time: 5:45 PM
-- classidentifier: moderateflow
-  teacher: barkley
-  time: 7:00 PM
 ---

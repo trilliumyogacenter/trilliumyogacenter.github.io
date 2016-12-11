@@ -1,8 +1,5 @@
 ---
 title:  "Vigorous Flow"
-categories: class
-classidentifier: moderateflow
-teacher: barkley
 type: on-going
 dropins: yes
 ---
