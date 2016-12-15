@@ -1,5 +1,5 @@
 ---
-title:  "Morning Flow (no class December 12, last class December 19)"
+title:  "Morning Flow"
 categories: class
 classidentifier: morningflow
 teacher: goldberg
