@@ -1,5 +1,5 @@
 ---
-title:  "Morning Hatha"
+title:  "Morning Hatha (starts January 9)"
 categories: class
 classidentifier: morningflow
 teacher: benvenuto

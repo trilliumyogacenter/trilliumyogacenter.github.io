@@ -4,7 +4,7 @@ date:   2015-08-10 00:00:00
 categories: monday fall schedule
 classes:
 - classidentifier: morningflow
-  teacher: goldberg
+  teacher: benvenuto
   time: 9:00 AM
 - classidentifier: classichatha
   teacher: miller
