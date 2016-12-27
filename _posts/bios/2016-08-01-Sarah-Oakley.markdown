@@ -2,9 +2,9 @@
 title:  "Sarah Oakley"
 categories: instructor teacherbio oakley
 shortname: oakley
-headshot: /images/headshots/oakley.jpeg
-email:
-phone: 
+headshot: /images/headshots/oakley.jpg
+email: mamabirthyoga@gmail.com
+phone: 406-570-3549
 ---
 *Sarah Oakley - Certified Prenatal Yoga Teacher*
 
