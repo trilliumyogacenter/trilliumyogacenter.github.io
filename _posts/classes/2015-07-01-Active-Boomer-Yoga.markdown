@@ -1,5 +1,5 @@
 ---
-title:  "Active Boomer Yoga"
+title:  "Active Boomer Yoga (resumes January 3)"
 categories: class
 classidentifier: boomeryoga
 teacher: benvenuto

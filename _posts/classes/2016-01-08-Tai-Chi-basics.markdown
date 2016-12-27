@@ -1,5 +1,5 @@
 ---
-title:  "Tai Chi Basics (last class this semester, 12/22)"
+title:  "Tai Chi Basics (next semester starts January 17)"
 categories: class
 classidentifier: taichibasics
 teacher: boutin
@@ -15,9 +15,7 @@ This is a time-tested Chinese tradition and it is taught one step at a time with
 Semester System and Academic Calendar
 The North Country Tai Chi LLC structures its academic calendar just like a university or college, ordering classes around a semester calendar. Students are asked to submit a full tuition payment at the start of each semester.
 
-The 2016 Autumn Semester is as follows:
-
-September 8 - December 22 (Please note that there is a one-week break during the semester. There are no class meetings on November 22 or 24)
+The 2017 Spring Semester starts January 17.
 
 Every Tuesday and Thursday 12:30 pm - 1:30 pm
 

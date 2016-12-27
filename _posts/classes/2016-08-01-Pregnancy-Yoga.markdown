@@ -1,8 +1,8 @@
 ---
-title:  "Pregnancy Yoga"
+title:  "Pregnancy Yoga (resumes January 7)"
 categories: class
 classidentifier: pregnancy
-teacher: delavega,oakley
+teacher: delavega
 type: ongoing
 dropins: yes
 ---
