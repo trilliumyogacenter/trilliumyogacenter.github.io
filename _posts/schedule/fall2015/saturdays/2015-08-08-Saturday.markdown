@@ -7,7 +7,7 @@ classes:
     teacher: multiple
     time: 9:00 AM
   - classidentifier: pregnancy
-    teacher: delavega
+    teacher: delavega "and" oakley
     time: 10:30 AM
 
 ---
