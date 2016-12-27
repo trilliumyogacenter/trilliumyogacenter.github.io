@@ -2,7 +2,7 @@
 title:  "Sarah Oakley"
 categories: instructor teacherbio oakley
 shortname: oakley
-headshot: /images/headshots/oakley.jpg
+headshot: /images/headshots/oakley.jpeg
 email: mamabirthyoga@gmail.com
 phone: 406-570-3549
 ---
