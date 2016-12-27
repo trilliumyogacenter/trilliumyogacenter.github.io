@@ -12,4 +12,4 @@ then shift into deep, long held meditative stretches leading into deep relaxatio
 Yoga Nidra. Each class will focus on opening and healing tightness in body, mind,
 and spirit. All levels.
 
-Fridays, 9:00 am to 10:15 am, Sep. 16 - Dec. 30
+Fridays, 9:00 am to 10:15 am

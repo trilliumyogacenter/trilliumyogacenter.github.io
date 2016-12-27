@@ -2,7 +2,7 @@
 title:  "Pregnancy Yoga"
 categories: class
 classidentifier: pregnancy
-teacher: delavega
+teacher: delavega,oakley
 type: ongoing
 dropins: yes
 ---
