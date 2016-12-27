@@ -1,5 +1,5 @@
 ---
-title:  "Morning Yoga Resumes January 4"
+title:  "Morning Yoga (resumes January 4)"
 categories: class
 classidentifier: morningyoga
 teacher: benvenuto

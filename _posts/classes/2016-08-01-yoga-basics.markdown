@@ -1,5 +1,5 @@
 ---
-title:  "Yoga Basics for All resumes January 4"
+title:  "Yoga Basics for All (resumes January 4)"
 categories: class
 teacher: delavega
 classidentifier: yogabasics
