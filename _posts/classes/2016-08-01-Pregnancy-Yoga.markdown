@@ -1,17 +1,19 @@
 ---
-title:  "Pregnancy Yoga (resumes January 7)"
+title:  "Prenatal Yoga (resumes January 7)"
 categories: class
 classidentifier: pregnancy
 teacher: delavega
 type: ongoing
 dropins: yes
 ---
-Pregnancy Yoga provides an opportunity for women to deepen their understanding and enjoyment of their pregnancy and childbirth experience. Students learn how to be more comfortable in their changing bodies and to prepare for a more confident and present childbirth experience.
+Prenatal Yoga is taught by **Terry de la Vega** and **Sarah Oakley**, and provides an opportunity for women to deepen their understanding and enjoyment of their pregnancy and childbirth experience. Students learn how to be more comfortable in their changing bodies and to prepare for a confident and present childbirth experience.
 
-Practicing gentle yet powerful stretches and yoga postures adapted to the needs of pregnant women helps you to prevent and relieve the aches and pains as you build strength, endurance, and confidence. Yoga promotes comfort and deep relaxation by releasing tension, anxiety, and worry. Being in a class with other pregnant women promotes a sense of community.
+Yoga promotes comfort and deep relaxation by releasing tension, anxiety, and worry. Enjoy gentle yet powerful stretches and postures designed to meet the needs of pregnant women. This practice will help to build strength, endurance, and confidence as well as prevent and relieve the normal aches and pains of your ever changing body. In addition, women will find a supportive community in Prenatal Yoga.
 
-Each class includes stretches and yoga postures, breath work, toning, relaxation, visualization, and meditation. Students are encouraged to practice in an intuitive way, letting their comfort guide them. The class is appropriate for women in all three trimesters of pregnancy. Beginners and experienced yoga practitioners can benefit from this class.
+Each class includes stretches and yoga postures, breath work, toning, relaxation, visualization, and meditation. Students are encouraged to practice in an intuitive way, letting their comfort guide them. The class is appropriate for women in all three trimesters of pregnancy. New and experienced yoga practitioners are welcome.
 
-Please let your midwife or doctor know you are taking this class to be sure it is safe for you.
+Terry and Sarah have been teaching Prenatal Yoga independently for many years. They are happy to collaborate now at Trillium. Sarah will teach the second Saturday of each month, Terry will teach the other weeks, with Sarah as back up teacher as needed.
+
+While Prenatal Yoga is a safe, extremely low risk form of exercise, we ask that you let your midwife or doctor know you are taking this class.
 
 Saturdays from 10:30 am - 11:45 am
