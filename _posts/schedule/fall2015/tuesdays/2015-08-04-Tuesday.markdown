@@ -3,6 +3,9 @@ title:  "Tuesday"
 date:   2015-07-31 00:00:00
 categories: tuesday fall schedule
 classes:
+  - classidentifier: kripalu
+    teacher: brant
+    time: 9:00 AM
   - classidentifier: boomeryoga1
     teacher: benvenuto
     time: 11:00 AM
