@@ -12,4 +12,7 @@ classes:
 - classidentifier: hathaspa
   teacher: montville
   time: 6:30 PM
+- classidentifier: reikishare
+  teacher: pickard
+  time: 6:30 PM
 ---
