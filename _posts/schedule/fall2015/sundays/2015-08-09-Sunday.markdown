@@ -9,4 +9,7 @@ classes:
 - classidentifier: acupuncture
   teacher: ayotte
   time: 1:30 PM
+- classidentifier: hathaspa
+  teacher: montville
+  time: 6:30 PM
 ---
