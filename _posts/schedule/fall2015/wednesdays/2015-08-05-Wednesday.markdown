@@ -6,6 +6,9 @@ classes:
   - classidentifier: morningyoga
     teacher: benvenuto
     time: 08:30 AM
+  - classidentifier: midday
+    teacher: benvenuto
+    time: 12:15 PM
   - classidentifier: yogabasics
     teacher: delavega
     time: 5:15 PM
