@@ -9,4 +9,7 @@ classes:
 - classidentifier: classichatha
   teacher: miller
   time: 5:45 PM
+- classidentifier: posture
+  teacher: montville
+  time: 7:00 PM
 ---
