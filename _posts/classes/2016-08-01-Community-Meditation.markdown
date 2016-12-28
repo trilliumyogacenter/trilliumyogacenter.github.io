@@ -19,4 +19,6 @@ you are, sit in a chair or on the floor. Mats, cushions, and blankets are availa
 It is our hope that with consistent attendance, participants will become a
 supportive community, a true sangha.
 
+Community meditation is held in the Healing Arts room toward the back of Trillium/
+
 Wednesdays, 7:00 pm - 7:45 pm
