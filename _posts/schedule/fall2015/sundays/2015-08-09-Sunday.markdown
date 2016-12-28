@@ -13,6 +13,6 @@ classes:
   teacher: montville
   time: 6:30 PM
 - classidentifier: reikishare
-  teacher: pickard
+  teacher: Sharon Pickard
   time: 6:30 PM
 ---
