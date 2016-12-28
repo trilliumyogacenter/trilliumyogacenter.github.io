@@ -15,4 +15,7 @@ classes:
   - classidentifier: com-meditation
     teacher: desilva
     time: 7:00 PM
+  - classidentifier: yinyoga
+    teacher: burnham
+    time: 7:00 PM
 ---
