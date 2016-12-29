@@ -1,5 +1,5 @@
 ---
-title:  "Trillium Tabata (resumes January 3 and January 5)"
+title:  "Trillium Tabata (on class 12/29)"
 categories: class
 classidentifier: tabata
 teacher: sharlow
