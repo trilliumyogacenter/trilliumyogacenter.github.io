@@ -15,7 +15,7 @@ This is a time-tested Chinese tradition and it is taught one step at a time with
 Semester System and Academic Calendar
 The North Country Tai Chi LLC structures its academic calendar just like a university or college, ordering classes around a semester calendar. Students are asked to submit a full tuition payment at the start of each semester.
 
-The 2017 Winter Semester is as follows:
+The 2017 Spring Semester is as follows:
 
 January 17 - May 11 (No class 3/28 and 3/30)
 
