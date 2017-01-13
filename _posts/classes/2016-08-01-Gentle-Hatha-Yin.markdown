@@ -1,5 +1,5 @@
 ---
-title:  "Gentle Hatha & Yin"
+title:  "Gentle Hatha & Yin (no class January 20)"
 categories: class
 classidentifier: hathayin
 teacher: delavega

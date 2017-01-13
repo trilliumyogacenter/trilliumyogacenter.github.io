@@ -1,8 +1,5 @@
 ---
 title:  "Shine On - Yoga Nidra (no class January 17)"
-categories: class
-classidentifier: yoganidra2
-teacher: miller
 type: ongoing
 dropins: yes
 ---
