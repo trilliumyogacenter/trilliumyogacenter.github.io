@@ -1,5 +1,5 @@
 ---
-title:  "Morning Flow (starts January 15)"
+title:  "Morning Flow"
 teacher: goldberg
 categories: class
 classidentifier: amflow

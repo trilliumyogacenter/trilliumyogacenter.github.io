@@ -1,5 +1,5 @@
 ---
-title:  "Community Acupuncture (resumes January 8, please arrive no later than 2:30)"
+title:  "Community Acupuncture (please arrive no later than 2:30)"
 date:   2015-08-28 12:00:00
 categories: class
 classidentifier: acupuncture

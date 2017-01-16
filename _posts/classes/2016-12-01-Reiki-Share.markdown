@@ -15,4 +15,4 @@ and is open to Reiki practitioners of any lineage. $10 recommended donation
 
 Call Sarah to pre-register 860-488-1895
 
-Second Sundays 6:30 pm to 8:30 pm
+Second Sundays 6:30 pm to 8:30 pm: February 12,  March 12, April 9
