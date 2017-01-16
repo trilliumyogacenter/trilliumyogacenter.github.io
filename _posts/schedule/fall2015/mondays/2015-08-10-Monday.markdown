@@ -4,12 +4,12 @@ date:   2015-08-10 00:00:00
 categories: monday fall schedule
 classes:
 - classidentifier: morningflow
-  teacher: benvenuto
+  teacher: miller
   time: 9:00 AM
 - classidentifier: classichatha
   teacher: miller
   time: 5:45 PM
-- classidentifier: posture
+- classidentifier: beginners
   teacher: montville
   time: 7:00 PM
 ---
