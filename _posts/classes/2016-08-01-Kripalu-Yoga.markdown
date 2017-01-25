@@ -1,5 +1,5 @@
 ---
-title: "Kripalu Yoga (starts January 24)"
+title: "Kripalu Yoga (starts January 31)"
 categories: class
 classidentifier: kripalu
 teacher: brant
