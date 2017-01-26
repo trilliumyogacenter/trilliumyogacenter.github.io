@@ -1,5 +1,5 @@
 ---
-title:  "Prenatal Yoga (on class January 21)"
+title:  "Prenatal Yoga"
 categories: class
 classidentifier: pregnancy
 teacher: delavega

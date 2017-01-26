@@ -1,8 +1,5 @@
 ---
 title:  "Community Meditation"
-teacher: desilva
-categories: class
-classidentifier: com-meditation
 type: ongoing
 dropins: yes
 fee: $5-10
