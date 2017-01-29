@@ -7,7 +7,7 @@ classes:
     teacher: benvenuto
     time: 08:30 AM
   - classidentifier: midday
-    teacher: benvenuto
+    teacher: delavega
     time: 12:15 PM
   - classidentifier: yogabasics
     teacher: delavega

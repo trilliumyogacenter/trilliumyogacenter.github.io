@@ -1,5 +1,5 @@
 ---
-title:  "Midday Yoga (starts January 18)"
+title:  "Midday Yoga"
 categories: class
 classidentifier: midday
 teacher: delavega
