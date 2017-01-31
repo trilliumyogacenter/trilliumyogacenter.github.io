@@ -2,7 +2,7 @@
 title: "Alisa Woods"
 categories: instructor counselorbio woods
 shortname: woods
-headshot: /images/headshots/woods.jpg
+headshot: /images/headshots/woods.jpeg
 email: agwoods2002@yahoo.com
 phone: (315) 272-4349
 ---
