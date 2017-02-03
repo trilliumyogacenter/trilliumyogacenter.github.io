@@ -2,7 +2,7 @@
 title: "Monthly Community Reiki Share (Second Sunday of each month)"
 categories: class
 classidentifier: reikishare
-teacher: Sharon Pickard
+teacher: pickard
 type: ongoing
 dropins: yes
 ---
