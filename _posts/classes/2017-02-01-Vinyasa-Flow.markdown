@@ -1,5 +1,5 @@
 ---
-title:  "Vinyasa flow"
+title:  "Vinyasa Flow"
 categories: class
 classidentifier: vinflow
 teacher: newman

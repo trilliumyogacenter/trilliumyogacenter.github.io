@@ -1,5 +1,5 @@
 ---
-title:  "Yoga for beginners"
+title:  "Yoga for Beginners"
 categories: class
 classidentifier: beginners
 teacher: montville

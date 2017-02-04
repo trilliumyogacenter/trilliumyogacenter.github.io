@@ -2,7 +2,7 @@
 title:  "Classic Hatha"
 categories: class
 classidentifier: classichatha
-teacher: miller
+teacher: montville
 type: on-going
 dropins: yes
 ---

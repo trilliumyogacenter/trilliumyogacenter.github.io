@@ -7,7 +7,7 @@ classes:
   teacher: miller
   time: 9:00 AM
 - classidentifier: classichatha
-  teacher: miller
+  teacher: montville
   time: 5:45 PM
 - classidentifier: beginners
   teacher: montville

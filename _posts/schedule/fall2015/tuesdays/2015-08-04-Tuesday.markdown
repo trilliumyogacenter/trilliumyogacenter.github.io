@@ -15,9 +15,6 @@ classes:
   - classidentifier: tabata
     teacher: sharlow
     time: 4:00 PM
-  - classidentifier: boomeryoga
-    teacher: benvenuto
-    time: 5:15 PM
   - classidentifier: vinflow
     teacher: newman
     time: 7:00 PM

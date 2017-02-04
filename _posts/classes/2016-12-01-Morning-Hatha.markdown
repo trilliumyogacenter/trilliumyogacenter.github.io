@@ -1,5 +1,5 @@
 ---
-title:  "Morning Hatha"
+title:  "Morning Hatha (Last class February 6)"
 categories: class
 classidentifier: morningflow
 teacher: miller
