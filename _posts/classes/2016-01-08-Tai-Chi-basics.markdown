@@ -1,5 +1,5 @@
 ---
-title:  "Tai Chi Basics (next semester starts January 17)"
+title:  "Tai Chi Basics"
 categories: class
 classidentifier: taichibasics
 teacher: boutin
