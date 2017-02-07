@@ -2,7 +2,7 @@
 title:  "Active Boomer Yoga"
 categories: class
 classidentifier: boomeryoga1
-teacher: benvenuto
+teacher: miller
 type: on-going
 dropins: yes
 ---

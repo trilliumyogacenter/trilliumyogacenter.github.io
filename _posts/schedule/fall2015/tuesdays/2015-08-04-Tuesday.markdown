@@ -7,7 +7,7 @@ classes:
     teacher: brant
     time: 9:00 AM
   - classidentifier: boomeryoga1
-    teacher: benvenuto
+    teacher: miller
     time: 11:00 AM
   - classidentifier: taichibasics
     teacher: boutin
