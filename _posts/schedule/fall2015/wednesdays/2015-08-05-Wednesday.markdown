@@ -4,7 +4,7 @@ date:   2015-08-05 00:00:00
 categories: wednesday fall schedule
 classes:
   - classidentifier: morningyoga
-    teacher: benvenuto
+    teacher: delavega
     time: 08:30 AM
   - classidentifier: midday
     teacher: delavega

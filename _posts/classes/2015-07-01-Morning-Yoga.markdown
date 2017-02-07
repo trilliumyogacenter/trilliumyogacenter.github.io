@@ -1,11 +1,11 @@
 ---
-title:  "Morning Yoga"
+title:  "Morning Hatha (Starts February 22)"
 categories: class
 classidentifier: morningyoga
-teacher: benvenuto
+teacher: delavega
 type: on-going
 dropins: yes
 ---
-Jump start your day with this mindful yoga practice designed to energize your body and focus your mind.  Unify breath with movement in a practice including meditation, sun salutations, and asanas (postures).  Props and posture options are provided, making this class accessible to varying ability levels and body types.
+Start your day with feel-good hatha yoga warm ups and poses to wake up your body mind, and spirit. Our practice will include hip openers, neck and shoulder openers, poses to lengthen the spine, and strengthen the core. Enjoy pranayama, meditation, and of course shivasana. Walk away feeling centered, focused, and ready to meet the day.
 
-Wednesday mornings, 8:30 - 10:00 AM
+Wednesday mornings, 8:30 - 9:45 AM
