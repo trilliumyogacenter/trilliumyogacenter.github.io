@@ -1,5 +1,5 @@
 ---
-title: "Yin Yoga (no class February 8)"
+title: "Yin Yoga"
 categories: class
 classidentifier: yinyoga
 teacher: burnham

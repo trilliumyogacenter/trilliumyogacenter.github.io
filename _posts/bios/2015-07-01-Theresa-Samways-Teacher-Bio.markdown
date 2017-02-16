@@ -1,8 +1,5 @@
 ---
 title:  "Theresa Samways"
-categories: instructor counselorbio mitchell
-shortname: samways
-headshot: /images/missing-headshot.jpg
 email: twsamways@gmail.com
 phone: (315) 261-8056
 ---

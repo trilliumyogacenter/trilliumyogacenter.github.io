@@ -28,9 +28,7 @@ Offered by
 ### Counseling
 Offered by
 
-* <a href="#" data-toggle="modal" data-target="#samways-bio">Theresa Samways, LCSW</a>
 * <a href="#" data-toggle="modal" data-target="#blondel-bio">Jenna Joya Blondel, Ph.D.</a>
-* <a href="#" data-toggle="modal" data-target="#woods-bio">Alisa Woods, Ph.D., LMHC</a>
 
 ### Acupuncture
 Offered by

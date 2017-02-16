@@ -1,6 +1,6 @@
 ---
 title: "Alisa Woods"
-categories: instructor counselorbio woods
+categories: instructor teacherbio woods
 shortname: woods
 headshot: /images/headshots/woods.jpeg
 email: agwoods2002@yahoo.com
