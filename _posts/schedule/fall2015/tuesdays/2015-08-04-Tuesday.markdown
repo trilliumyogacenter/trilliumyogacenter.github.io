@@ -15,6 +15,9 @@ classes:
   - classidentifier: tabata
     teacher: sharlow
     time: 4:00 PM
+  - classidentifier: fitness
+    teacher: whalen
+    time: 5:30 PM
   - classidentifier: vinflow
     teacher: newman
     time: 7:00 PM

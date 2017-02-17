@@ -6,6 +6,9 @@ classes:
   - classidentifier: morningyoga
     teacher: delavega
     time: 08:30 AM
+  - classidentifier: physical
+    teacher: whalen
+    time: 10:00 AM
   - classidentifier: midday
     teacher: delavega
     time: 12:15 PM

@@ -3,6 +3,9 @@ title:  "Monday"
 date:   2015-08-10 00:00:00
 categories: monday fall schedule
 classes:
+- classidentifier: physical
+  teacher: whalen
+  time: 10:00 AM
 - classidentifier: classichatha
   teacher: montville
   time: 5:45 PM
