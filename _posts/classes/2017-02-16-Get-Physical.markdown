@@ -1,5 +1,5 @@
 ---
-title:  "Let's Get Physical! (no class March 13)"
+title:  "Let's Get Physical! (starts March 6, no class March 13)"
 categories: class
 classidentifier: physical
 teacher: whalen

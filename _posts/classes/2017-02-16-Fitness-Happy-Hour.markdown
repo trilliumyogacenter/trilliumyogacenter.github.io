@@ -1,5 +1,5 @@
 ---
-title:  "Fitness Happy Hour"
+title:  "Fitness Happy Hour (starts March 7)"
 categories: class
 classidentifier: fitness
 teacher: whalen
