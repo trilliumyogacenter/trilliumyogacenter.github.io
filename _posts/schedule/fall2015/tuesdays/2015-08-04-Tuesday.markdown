@@ -6,9 +6,6 @@ classes:
   - classidentifier: kripalu
     teacher: brant
     time: 9:00 AM
-  - classidentifier: boomeryoga1
-    teacher: miller
-    time: 11:00 AM
   - classidentifier: taichibasics
     teacher: boutin
     time: 12:30 PM
