@@ -1,5 +1,8 @@
 ---
 title:  "Theresa Samways"
+categories: instructor counselorbio samways
+shortname: samways
+headshot: /images/headshots/samways.jpeg
 email: twsamways@gmail.com
 phone: (315) 261-8056
 ---

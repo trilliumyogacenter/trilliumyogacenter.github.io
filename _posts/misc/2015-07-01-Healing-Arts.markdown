@@ -13,6 +13,9 @@ Offered by
 * <a href="#" data-toggle="modal" data-target="#miller-bio">Shannon Miller, LMT</a>
 * <a href="#" data-toggle="modal" data-target="#healingartsdetails-popup">Therapeutic Massage Services and Fees</a>
 
+* <a href="#" data-toggle="modal" data-target="#panetti-bio">Regina Panetti, LMT</a>
+* <a href="#" data-toggle="modal" data-target="#panettimassage-popup">Therapeutic Massage Services and Fees</a>
+
 ### Medical Yoga Therapy
 Offered by
 
@@ -29,6 +32,7 @@ Offered by
 Offered by
 
 * <a href="#" data-toggle="modal" data-target="#blondel-bio">Jenna Joya Blondel, Ph.D.</a>
+* <a href="#" data-toggle="modal" data-target="#samways-bio">, Theresa Samways, LCSW</a>
 
 ### Acupuncture
 Offered by
