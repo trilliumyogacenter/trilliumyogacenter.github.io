@@ -14,7 +14,7 @@ Offered by
 * <a href="#" data-toggle="modal" data-target="#healingartsdetails-popup">Therapeutic Massage Services and Fees</a>
 
 * <a href="#" data-toggle="modal" data-target="#panetti-bio">Regina Panetti, LMT</a>
-* <a href="#" data-toggle="modal" data-target="#panettimassage-popup">Therapeutic Massage Services and Fees</a>
+* <a href="#" data-toggle="modal" data-target="#panettimassagedetails-popup">Therapeutic Massage Services and Fees</a>
 
 ### Medical Yoga Therapy
 Offered by

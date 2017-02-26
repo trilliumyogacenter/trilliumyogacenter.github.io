@@ -1,7 +1,7 @@
 ---
 title:  "Therapeutic Massage Services and Rates"
 date:   2015-08-28 12:00:00
-categories: panettimassage
+categories: panettimassagedetails
 ---
 While massage may simply feel good, its health-giving benefits are well documented today. We can no longer deny the relationship between high stress levels and dis-ease in our culture and busy lives. Taking measures to connect more affectively and deeply with oneself is a powerful tool in promoting holistic wellness.
 
