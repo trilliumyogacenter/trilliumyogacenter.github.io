@@ -6,7 +6,4 @@ classes:
 - classidentifier: physical
   teacher: whalen
   time: 10:00 AM
-- classidentifier: beginners
-  teacher: montville
-  time: 7:00 PM
 ---

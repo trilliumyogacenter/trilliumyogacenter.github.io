@@ -1,5 +1,5 @@
 ---
-title:  "Morning Hatha (Starts February 22)"
+title:  "Morning Hatha"
 categories: class
 classidentifier: morningyoga
 teacher: delavega
