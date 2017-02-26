@@ -2,7 +2,7 @@
 title:  "Regina Panetti"
 categories: instructor counselorbio panetti
 shortname: panetti
-headshot: /images/headshots/panetti.jpeg
+headshot: /images/headshots/panetti.jpg
 email: reginapanettilmt@gmail.com
 phone: (518) 536-6956
 ---
